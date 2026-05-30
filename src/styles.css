@@ -204,8 +204,9 @@ th {
   color: #991b1b;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1024px) {
   main {
+    width: 100%;
     padding: 18px;
   }
 
@@ -215,16 +216,17 @@ th {
   }
 
   .metrics,
-  .grid.two {
-    grid-template-columns: 1fr;
-  }
-
+  .grid.two,
   .controls {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 
-  .field {
+  .field,
+  .search,
+  select,
+  input {
+    width: 100%;
     min-width: 0;
   }
 
