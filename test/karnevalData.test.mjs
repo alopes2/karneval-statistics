@@ -137,3 +137,20 @@ test('generated data keeps explicit nationality signals ahead of generic program
   assert.deepEqual(byName.get('Ghana Carnival 4 BLACK STARS')?.tags, ['Ghana']);
   assert.deepEqual(byName.get('ESAN AKOAMHEN PROGRESSIVE UNION e.V.')?.tags, ['Nigeria']);
 });
+
+test('generated data uses reviewed name and description classifications for explicit cultures', () => {
+  const byName = new Map(inferredRows.map(row => [row.name, row]));
+
+  assert.deepEqual(byName.get('Belarus tanzt mit dem Drachen')?.tags, ['Belarus']);
+  assert.deepEqual(byName.get('Verein der Tibeter in Deutschland e.V.')?.tags, ['Tibet']);
+  assert.deepEqual(byName.get('Grupo Folclórico Impulso de Berlim')?.tags, ['Portugal']);
+  assert.deepEqual(byName.get('Hello China!')?.tags, ['China']);
+  assert.deepEqual(byName.get('Ecuador Multicolor')?.tags, ['Ecuador']);
+  assert.deepEqual(byName.get('Dança de Coraçâo Kizomba Semba de Angola')?.tags, ['Angola']);
+  assert.deepEqual(byName.get('Dança de Coraçâo')?.tags, ['Angola']);
+  assert.deepEqual(byName.get('Dil Se Pakistan')?.tags, ['Pakistan']);
+  assert.deepEqual(byName.get('Nepali Heritage Troupe')?.tags, ['Nepal']);
+  assert.deepEqual(byName.get('Kangkiling e.V.')?.tags, ['Gambia', 'Africa']);
+  assert.deepEqual(byName.get('Armenische Jugend Berlin & Brandenburg (AJBB)')?.tags, ['Armenia']);
+  assert.deepEqual(byName.get('River Rats')?.tags, ['France']);
+});

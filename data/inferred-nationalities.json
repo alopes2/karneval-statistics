@@ -205,14 +205,14 @@
     "id": "p-016",
     "pool": "parade",
     "name": "Belarus tanzt mit dem Drachen",
-    "country": "General",
-    "region": "Global",
-    "confidence": 55,
+    "country": "Belarus",
+    "region": "Europe",
+    "confidence": 94,
     "tags": [
-      "General"
+      "Belarus"
     ],
     "description": "„Belarus – Die Stimme, die den Drachen zähmt In diesem Jahr nimmt zum ersten Mal eine unabhängige belarussische Initiativgruppe am Karneval der Kulturen teil. Im Zentrum der Performance steht ein Drache – ein mythisches Wesen der belarussischen Folklore. Durch Musik, Tanz und folkloristisch inspirierte Bilder verbinden sich alte Mythen mit der lebendigen Kultur von heute. Mythische Figuren und Menschen bewegen sich gemeinsam in einem Kreis – als Zeichen von Verbindung, Wandel und dem fortlaufenden Zyklus der Kultur. Um den Drachen zu überwinden, muss man aufhören ihn zu fürchten.“",
-    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+    "evidence": "Reviewed from source name and description: Belarus and belarussian folklore are explicitly named."
   },
   {
     "id": "p-017",
@@ -233,14 +233,14 @@
     "id": "p-018",
     "pool": "parade",
     "name": "Verein der Tibeter in Deutschland e.V.",
-    "country": "General",
-    "region": "Global",
-    "confidence": 55,
+    "country": "Tibet",
+    "region": "Asia / Diaspora",
+    "confidence": 94,
     "tags": [
-      "General"
+      "Tibet"
     ],
     "description": "Der Verein der Tibeter in Deutschland e.V. ist eine Gemeinschaft, die Tibeterinnen und Tibeter in Deutschland miteinander verbindet und sich für die Bewahrung der tibetischen Kultur, Sprache und Identität einsetzt. Angesichts der anhaltenden Repressionen in Tibet unter der Herrschaft der Volksrepublik China ist diese Arbeit von besonderer Bedeutung.",
-    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+    "evidence": "Reviewed from source name and description: Tibetan community, culture, language, identity, and Tibet are explicitly named."
   },
   {
     "id": "p-019",
@@ -340,14 +340,14 @@
     "id": "p-026",
     "pool": "parade",
     "name": "Grupo Folclórico Impulso de Berlim",
-    "country": "General",
-    "region": "Global",
-    "confidence": 55,
+    "country": "Portugal",
+    "region": "Europe",
+    "confidence": 94,
     "tags": [
-      "General"
+      "Portugal"
     ],
     "description": "Grupo Folclórico Impulso präsentiert ein Stück Portugal für die Sinne: Ausschnitte aus unserem traditionellen Tanz- und Musikrepertoire aus dem Norden Portugals mit dem visuellen Highlight unserer Trachten, die kulturgeschichtlich bedeutungsvoll sind und unserem selbst konstruierten Lastenfahrrad in den Farben der portugiesischen Flagge lackiert und im Stil ländlicher portugiesischer Umzugsdekoration. Passend zur gelebten Umzugstradition in Portugal können optional einige Mini-Kostproben von portugiesischen Köstlichkeiten gereicht werden.",
-    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+    "evidence": "Reviewed from source description: Portugal, northern Portuguese traditional dance, and Portuguese flag colours are explicitly named."
   },
   {
     "id": "p-027",
@@ -366,28 +366,27 @@
     "id": "p-028",
     "pool": "parade",
     "name": "Hello China!",
-    "country": "Germany / Berlin",
-    "region": "Europe",
-    "confidence": 58,
+    "country": "China",
+    "region": "East Asia",
+    "confidence": 94,
     "tags": [
-      "Germany",
-      "Berlin"
+      "China"
     ],
     "description": "2026 bringt die Chenyin Hanfu Society Berlin erneut die faszinierende Welt der chinesischen Kultur in den Karnevalszug. In vielfältigen, kunstvoll gestalteten Hanfu-Gewändern zeigen wir die Schönheit und Anmut traditioneller Kleidung, begleitet von kraftvollen Drachen- und Löwentänzen sowie fröhlichen Pandas. Als besonderes Highlight präsentieren wir handgefertigte Bambuslaternen und kunstvolle Dekorationen, die mit ihren Farben, Formen und filigranen Mustern begeistern. Freut euch auf ein lebendiges, farbenprächtiges Fest voller Bewegung, Eleganz und Tradition!",
-    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+    "evidence": "Reviewed from source name and description: Chinese culture, Hanfu, dragon dance, and lion dance are explicitly named."
   },
   {
     "id": "p-029",
     "pool": "parade",
     "name": "Ecuador Multicolor",
-    "country": "General",
-    "region": "Global",
-    "confidence": 55,
+    "country": "Ecuador",
+    "region": "Latin America",
+    "confidence": 94,
     "tags": [
-      "General"
+      "Ecuador"
     ],
     "description": "Zum 30-jährigen Jubiläum des Karnevals der Kulturen möchten wir auf ecuadorianische Art feiern, mit einer “Fiesta Popular”. Inspiriert von Volksfesten der Andenregion zeigt unsere künstlerische Darstellung typische Figuren wie Clowns und Tiermasken sowie Tänzer*innen in farbenprächtigen Trachten. Alle tanzen gemeinsam zum Rhythmus der traditionellen Blas- und Percussion Musik. Während der Fiesta Popular möchten wir das Publikum zum Mitfeiern einladen und so die Straße in einen Ort der gemeinschaftlichen Begegnung verwandeln.",
-    "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
+    "evidence": "Reviewed from source name and description: Ecuadorian celebration and Andean-region folk festival are explicitly named."
   },
   {
     "id": "p-030",
@@ -446,14 +445,15 @@
     "id": "p-034",
     "pool": "parade",
     "name": "Maracatu-Treffen",
-    "country": "Nigeria",
-    "region": "Africa",
-    "confidence": 90,
+    "country": "Brazil / African diaspora",
+    "region": "Latin America",
+    "confidence": 82,
     "tags": [
-      "Nigeria"
+      "Brazil",
+      "African diaspora"
     ],
     "description": "Widerstand, Harmonie und Frieden! Frieden ist nicht garantiert. Während Reiche und Mächtige Völker gegeneinander aufbringen, vertiefen sich Ungleichheiten weltweit. Umso wichtiger ist es, sich aktiv für Frieden einzusetzen. Der Karneval der Kulturen blüht auf den Straßen Berlins als Ort der Begegnung, an dem Gesten, Gesang und Körper eine mögliche Harmonie feiern. Das Maracatu-Treffen dankt dem KdK für 30 Jahre Widerstand und erinnert daran, dass ein Leben in Frieden ein grundlegendes Recht aller Menschen ist.",
-    "evidence": "Source description explicitly references Nigerian, Esan, or Yoruba culture."
+    "evidence": "Reviewed from source name and cultural term: Maracatu is the explicit cultural signal; no Nigerian signal is present in the source text."
   },
   {
     "id": "p-035",
@@ -473,14 +473,14 @@
     "id": "p-036",
     "pool": "parade",
     "name": "Dança de Coraçâo Kizomba Semba de Angola",
-    "country": "General",
-    "region": "Global",
-    "confidence": 55,
+    "country": "Angola",
+    "region": "Africa",
+    "confidence": 94,
     "tags": [
-      "General"
+      "Angola"
     ],
     "description": "Wir sind lustig und herzlich und deswegen unentbehrlich! Unser Motto lautet: ,,Tanz des Herzens - Freunde der Sinne“. Mit der Karnevalsformation Dança de Coraçâo haben wir es uns zum Ziel gesetzt, unsere Kultur mit dem Kizomba Semba de Angola nachhaltig beim Karneval der Kulturen zu vertreten und das Publikum zu begeistern. Es ist unser Anliegen, das Verständnis für Kultur,Toleranz sowie das künstlerische Element in Musik und Tanz zu fördern und gleichzeitig der Angolanischen Kizombagesellschaft auf internationaler Ebene zu mehr Bedeutung zu verhelfen.",
-    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+    "evidence": "Reviewed from source name and description: Kizomba Semba de Angola and Angolan Kizomba society are explicitly named."
   },
   {
     "id": "p-037",
@@ -545,41 +545,42 @@
     "id": "p-041",
     "pool": "parade",
     "name": "Canoafolk",
-    "country": "Nigeria",
-    "region": "Africa",
+    "country": "Colombia / Caribbean / African diaspora",
+    "region": "Latin America",
     "confidence": 90,
     "tags": [
-      "Nigeria"
+      "Colombia",
+      "Caribbean",
+      "African diaspora"
     ],
     "description": "Wir bringen euch den Bullerengue, einen afro-kolumbianischen Tanz von der Karibikküste. Der Gesang der Frauen und das Klatschen und Trommeln prägen den erdverbundenen Rhythmus, die Füße bleiben fast immer am Boden. Der Gesang erzählt von Leid und Liebe. Aber durch den kraftvollen Tanz kommt Freude und Hoffnung zurück. Wir beleben Bullerengue auf moderne Weise und setzen damit ein Zeichen, das die kraftvolle, entschlossene Führung der Frau hervorhebt.",
-    "evidence": "Source description explicitly references Nigerian, Esan, or Yoruba culture."
+    "evidence": "Reviewed from source description: Bullerengue is described as an Afro-Colombian dance from the Caribbean coast."
   },
   {
     "id": "p-042",
     "pool": "parade",
     "name": "Flor de Fuego Izalco",
-    "country": "Germany / Berlin",
-    "region": "Europe",
-    "confidence": 58,
+    "country": "El Salvador",
+    "region": "Latin America",
+    "confidence": 94,
     "tags": [
-      "Germany",
-      "Berlin"
+      "El Salvador"
     ],
     "description": "„Flor de Fuego Izalco“, eine Tanz- und Folkloregruppe aus El Salvador, will dieses Jahr das „Festival de las Flores y Palmas“ aus der Stadt Panchimalco darstellen. Dieses Festival ist ein tief verwurzeltes kulturelles und religiöses Ereignis, das die indigene Kultur feiert. Es zeichnet sich durch farbenfrohe Umzüge, blumengeschmückte Palmen, Folklore-Tänze und lokale Gastronomie aus. „Flor de Fuego Izalco“ möchte dieses Fest den Berliner*innen und allen anderen Gästen und Teilnehmenden näherbringen, um so ein buntes und fröhliches Geburtstagsfest für und mit dem Karneval der Kulturen zu feiern.",
-    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+    "evidence": "Reviewed from source description: the group is from El Salvador and presents Panchimalco festival traditions."
   },
   {
     "id": "p-043",
     "pool": "parade",
     "name": "Dil Se Pakistan",
-    "country": "General",
-    "region": "Global",
-    "confidence": 55,
+    "country": "Pakistan",
+    "region": "South Asia",
+    "confidence": 94,
     "tags": [
-      "General"
+      "Pakistan"
     ],
     "description": "Dil Se Pakistan feiert das lebendige kulturelle Erbe Pakistans auf dem Karneval der Kulturen. Unsere Gruppe präsentiert farbenfrohe traditionelle Kleidung, Live-Trommeln und energiegeladene regionale Volkstänze, inspiriert von den Kulturen Punjabs, Sindhs, Khyber Pakhtunkhwas, Belutschistans und der nördlichen Regionen. Mit kraftvollen Rhythmen, fröhlicher Bewegung und kollektiver Tanzenergie zeigen wir stolz Pakistans reiche Traditionen und Vielfalt und teilen die Schönheit und den festlichen Geist unserer Kultur mit der Welt.",
-    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+    "evidence": "Reviewed from source name and description: Pakistan and Pakistani regional cultures are explicitly named."
   },
   {
     "id": "p-044",
@@ -652,15 +653,14 @@
     "id": "p-049",
     "pool": "parade",
     "name": "Nepali Heritage Troupe",
-    "country": "Germany / Berlin",
-    "region": "Europe",
-    "confidence": 58,
+    "country": "Nepal",
+    "region": "South Asia",
+    "confidence": 94,
     "tags": [
-      "Germany",
-      "Berlin"
+      "Nepal"
     ],
     "description": "Unsere Gruppe besteht aus Menschen aus verschiedenen Altersgruppen und Lebensbereichen. Sie spiegelt sowohl die nepalesische Gemeinschaft als auch die vielfältige Gesellschaft hier in Berlin und in ganz Deutschland wider. Teilnehmende bringen ihre eigenen Erfahrungen, Talente und Ideen mit. Gemeinsam möchten wir beim Karneval der Kulturen die Traditionen und das kulturelle Erbe Nepals präsentieren und zeigen, wie Kultur Menschen verbindet und Gemeinschaft entstehen lässt. Zudem wollen wir zeigen, dass die Welt ein globales Dorf ist, in dem jede kleine Arbeit zählt.",
-    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+    "evidence": "Reviewed from source name and description: Nepali community and Nepalese cultural heritage are explicitly named."
   },
   {
     "id": "p-050",
@@ -718,29 +718,28 @@
     "id": "p-054",
     "pool": "parade",
     "name": "Kangkiling e.V.",
-    "country": "Germany / Berlin",
-    "region": "Europe",
-    "confidence": 58,
+    "country": "Gambia / Africa",
+    "region": "Africa",
+    "confidence": 90,
     "tags": [
-      "Germany",
-      "Berlin"
+      "Gambia",
+      "Africa"
     ],
     "description": "Kangkiling e.V. ist eine in Berlin ansässige Kulturorganisation, die gegründet wurde, um das gambische und afrikanische Erbe durch Kunst, Gemeinschaft und öffentliche Präsenz zu feiern und zu bewahren. Nach einem historischen Debüt im Jahr 2025 — bei dem wir 🇬🇲 Gambia zum zweiten Mal stolz auf dem Karneval der Kulturen präsentierten — setzen wir uns dafür ein, 2026 mit einer noch stärkeren und inklusiveren Präsenz zurückzukehren. Unsere Teilnahme wird die Kraft, Einheit und künstlerische Exzellenz der gambischen und der afrikanischen Gemeinschaft insgesamt würdigen.",
-    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+    "evidence": "Reviewed from source description: Gambian and African heritage are explicitly named."
   },
   {
     "id": "p-055",
     "pool": "parade",
     "name": "Armenische Jugend Berlin & Brandenburg (AJBB)",
-    "country": "Germany / Berlin",
-    "region": "Europe",
-    "confidence": 58,
+    "country": "Armenia",
+    "region": "Caucasus / West Asia",
+    "confidence": 94,
     "tags": [
-      "Germany",
-      "Berlin"
+      "Armenia"
     ],
     "description": "Wir sind unsere Berge - Մենք ենք մեր սարերը. Unter diesem kraftvollen Motto lädt die Armenische Jugend Berlin & Brandenburg euch zum KdK 2026 ein. Der Ararat steht im Zentrum unserer Geschichte und prägt unsere Erinnerung und Identität. Beim KdK schlagen wir eine Brücke zwischen jahrtausendealter Geschichte und der lebendigen Energie der jungen Generation in Deutschland. Erlebt die gastfreundliche Kraft Armeniens, unsere Rhythmen und unsere unauflösliche Verbindung zu unseren Wurzeln. Wir laden euch ein, Teil unserer Geschichte zu werden. Wir sind unsere Berge. Fest verwurzelt, weit blickend.",
-    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+    "evidence": "Reviewed from source name and description: Armenian youth, Ararat, and Armenia are explicitly named."
   },
   {
     "id": "p-056",
@@ -838,14 +837,15 @@
     "id": "p-063",
     "pool": "parade",
     "name": "Yaam",
-    "country": "Brazil",
-    "region": "Latin America",
-    "confidence": 86,
+    "country": "African diaspora / Berlin",
+    "region": "Africa / Diaspora",
+    "confidence": 84,
     "tags": [
-      "Brazil"
+      "African diaspora",
+      "Berlin"
     ],
     "description": "Das Yaam (Young African Art Market), steht seit nun drei Jahrzehnten für afrodiasporische Kultur in Berlin. Zwischen Graffiti und Djembe, Street und Capoeira ist das Yaam eine Nische und Instanz zugleich. Mit unserem diesjährigen Wagen wollen wir eine Brücke schlagen zwischen unserer Prägung als Berliner Kulturstandort und der globalen Verantwortung, die wir alle als Gesellschaft tragen.",
-    "evidence": "Source listing uses Brazilian genres or place signals such as samba, maracatu, Bahia, or Pernambuco."
+    "evidence": "Reviewed from source description: Young African Art Market and afrodiasporic culture in Berlin are explicitly named."
   },
   {
     "id": "p-064",
@@ -958,14 +958,14 @@
     "id": "s-006",
     "pool": "street-fest",
     "name": "Dança de Coraçâo",
-    "country": "General",
-    "region": "Global",
-    "confidence": 55,
+    "country": "Angola",
+    "region": "Africa",
+    "confidence": 94,
     "tags": [
-      "General"
+      "Angola"
     ],
     "description": "Unser Verein hat es sich zum Ziel gesetzt, den angolanischen Paartanz Kizomba Semba de Angola, mit seiner Kultur nachhaltig beim Karneval der Kulturen zu vertreten. In diesem Sinne ist es unser Anliegen, das allgemeine Verständnis für Kultur zu fördern. Wir laden alle Besucher*innen ein, den emotoionalen Tanz auszuprobieren und sich begeistern zu lassen. Tanz ist Leben!",
-    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+    "evidence": "Reviewed from source description: Angolan Kizomba Semba de Angola is explicitly named."
   },
   {
     "id": "s-007",
@@ -1876,14 +1876,15 @@
     "id": "s-076",
     "pool": "street-fest",
     "name": "Pasaje abierto",
-    "country": "Latin America",
-    "region": "Latin America",
-    "confidence": 55,
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 86,
     "tags": [
-      "Latin America"
+      "Cuba",
+      "Caribbean"
     ],
     "description": "Heiße Rhythmen aus Kuba treffen auf die pulsierende Energie Berlins. Pasaje Abierto bringt unter der Leitung von Wiljoph Sunday Mounkassa Williams „Bebito“ authentischen Latin Sound und karibische Leidenschaft auf die Bühne.",
-    "evidence": "Source listing references salsa but does not provide a reliable Cuban or other country-specific signal."
+    "evidence": "Reviewed from source description: Cuban rhythms and Caribbean passion are explicitly named."
   },
   {
     "id": "s-077",
@@ -1947,15 +1948,14 @@
     "id": "s-081",
     "pool": "street-fest",
     "name": "Canto Diáspora",
-    "country": "Germany / Berlin",
-    "region": "Europe",
-    "confidence": 58,
+    "country": "Latin America",
+    "region": "Latin America",
+    "confidence": 80,
     "tags": [
-      "Germany",
-      "Berlin"
+      "Latin America"
     ],
     "description": "Canto Diáspora ist ein Berliner Frauenvokalensemble unter der Leitung von Carolina Riaño. Stimmen aus Lateinamerika verbinden Tradition und Gegenwart – getragen von Zusammenhalt, Erinnerung und sinnlicher gemeinsamer Kraft.",
-    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+    "evidence": "Reviewed from source description: voices from Latin America are explicitly named, without a single country."
   },
   {
     "id": "s-082",
@@ -2123,15 +2123,16 @@
     "id": "s-094",
     "pool": "street-fest",
     "name": "Ares Gratal Duo",
-    "country": "Germany / Berlin",
+    "country": "Spain / Catalonia / Sephardic diaspora",
     "region": "Europe",
-    "confidence": 58,
+    "confidence": 86,
     "tags": [
-      "Germany",
-      "Berlin"
+      "Spain",
+      "Catalonia",
+      "Sephardic diaspora"
     ],
     "description": "Katalanische Sängerin und Multiinstrumentalistin aus Lleida, heute in Berlin. Zwischen Improvisation, Eigenkompositionen und sephardischer Musik erzählt sie persönliche Geschichten in mehreren Sprachen.",
-    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+    "evidence": "Reviewed from source description: Catalan artist from Lleida and Sephardic music are explicitly named."
   },
   {
     "id": "s-095",
@@ -2231,14 +2232,14 @@
     "id": "s-102",
     "pool": "street-fest",
     "name": "River Rats",
-    "country": "General",
-    "region": "Global",
-    "confidence": 55,
+    "country": "France",
+    "region": "Europe",
+    "confidence": 78,
     "tags": [
-      "General"
+      "France"
     ],
     "description": "Französischer Chanson, Swing",
-    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+    "evidence": "Reviewed from source description: French chanson is explicitly named."
   },
   {
     "id": "s-103",
@@ -2283,15 +2284,14 @@
     "id": "s-106",
     "pool": "street-fest",
     "name": "Producciones Abismales",
-    "country": "Spanish-language theatre / Latin American diaspora",
-    "region": "Latin America / Diaspora",
-    "confidence": 58,
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
     "tags": [
-      "Spanish-language culture",
-      "Latin American diaspora"
+      "General"
     ],
     "description": "Zwei Meeresarten treffen aufeinander, die sich unter normalen Umständen niemals begegnet wären. Klimawandel im Ozean? Ja! Leider… Riesige Fischpuppen beginnen eine beispiellose Wanderung. Sind sie sogenannte invasive Arten? Komm und schau es Dir an…",
-    "evidence": "Spanish-language company name and ecological street-theatre framing suggest a Spanish-language cultural signal without a specific country."
+    "evidence": "Reviewed from source name and description: Spanish-language naming alone is not enough for a reliable nationality match."
   },
   {
     "id": "s-107",
@@ -2441,14 +2441,16 @@
     "id": "s-118",
     "pool": "street-fest",
     "name": "Candumbe",
-    "country": "Chile",
+    "country": "Uruguay / Chile / African diaspora",
     "region": "Latin America",
-    "confidence": 84,
+    "confidence": 88,
     "tags": [
-      "Chile"
+      "Uruguay",
+      "Chile",
+      "African diaspora"
     ],
     "description": "CANDUMBE vereint afro-uruguayischen Candombe und afro-chilenischen Tumbe in einer kraftvollen musikalischen und tänzerischen Begegnung. Trommeln, Bewegung und kollektive Energie schaffen einen interkulturellen Raum, der afrikanisches Erbe im Cono Sur lebendig macht",
-    "evidence": "Source listing explicitly references Chile or Chilean dance traditions."
+    "evidence": "Reviewed from source description: Afro-Uruguayan Candombe and Afro-Chilean Tumbe are explicitly named."
   },
   {
     "id": "s-119",
@@ -2532,14 +2534,15 @@
     "id": "s-125",
     "pool": "street-fest",
     "name": "Castellers de Berlín",
-    "country": "General",
-    "region": "Global",
-    "confidence": 55,
+    "country": "Catalonia / Spain",
+    "region": "Europe",
+    "confidence": 78,
     "tags": [
-      "General"
+      "Catalonia",
+      "Spain"
     ],
     "description": "Wir sind leidenschaftliche #Hochstapler*innen im wahrsten Sinne des Wortes. Seit 2018 bauen wir von der UNESCO als Weltkulturerbe anerkannte Menschentürme in unserer Stadt. Kommt zu unserer Aufführung und helft uns, den Himmel zu erreichen!",
-    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+    "evidence": "Reviewed from source name and description: Castellers/human towers are the explicit cultural form; Berlin is the local group context."
   },
   {
     "id": "s-126",
@@ -2759,14 +2762,14 @@
     "id": "s-142",
     "pool": "street-fest",
     "name": "Die Sonderpreis-Gewinner:innen des Landeswettbewerbs Jugend musiziert (Pop)",
-    "country": "Latin America",
-    "region": "Latin America",
+    "country": "General",
+    "region": "Global",
     "confidence": 55,
     "tags": [
-      "Latin America"
+      "General"
     ],
     "description": "„Lasst Euch überraschen, welche vielversprechenden jungen Talente aus den Kategorien Beats&Rhymes, und Singer/Songwriter Euch auf der shantYtown-Bühne einheizen werden. „",
-    "evidence": "Source listing signals a broad Latin American context without a single dominant country match."
+    "evidence": "Reviewed from source name and description: youth music award categories do not provide a reliable nationality signal."
   },
   {
     "id": "s-143",
@@ -2851,28 +2854,29 @@
     "id": "s-149",
     "pool": "street-fest",
     "name": "i BiRiCHiNi",
-    "country": "General",
-    "region": "Global",
-    "confidence": 55,
+    "country": "Italy",
+    "region": "Europe",
+    "confidence": 84,
     "tags": [
-      "General"
+      "Italy"
     ],
     "description": "Der Kinderchor i BiRiCHiNi- die kleinen Strolchensingt mit spontaner Freude am gemeinsamen Musikmachen Lieder aus dem unerschöpflichen Fundus italienischer Musik. Ltg. RACHELINA, mit Bigband FLINSTONES.",
-    "evidence": "Source listing is a workshop, family programme or performance activity without a reliable nationality signal."
+    "evidence": "Reviewed from source description: Italian music repertoire is explicitly named."
   },
   {
     "id": "s-150",
     "pool": "street-fest",
     "name": "Daiana Lou",
-    "country": "Germany / Berlin",
+    "country": "Italy / Germany / Berlin",
     "region": "Europe",
-    "confidence": 58,
+    "confidence": 84,
     "tags": [
+      "Italy",
       "Germany",
       "Berlin"
     ],
     "description": "Ein italienisch-berlinisches Alternative-Rock-Duo, das die raue Berliner Straßenatmosphäre mit italienischem Soul verbindet. Eine Mischung aus ätherischen Klängen, kraftvollen Beats und explosiver Energie.",
-    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+    "evidence": "Reviewed from source description: Italian-Berlin duo and Berlin street atmosphere are explicitly named."
   },
   {
     "id": "s-151",
@@ -2932,14 +2936,15 @@
     "id": "s-155",
     "pool": "street-fest",
     "name": "The Shallaras",
-    "country": "General",
-    "region": "Global",
-    "confidence": 55,
+    "country": "Australia / Italy",
+    "region": "Oceania",
+    "confidence": 90,
     "tags": [
-      "General"
+      "Australia",
+      "Italy"
     ],
     "description": "The Shallaras — Angela Cory (Australia) & Mauro Pandolfino (Italy). Raw 50s/60s Rock’n’Roll, R&B & Garage. Wild, rhythmisch, dance-driven. Ein Duo mit dem Sound einer ganzen Band.",
-    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+    "evidence": "Reviewed from source description: the artists are listed as Angela Cory from Australia and Mauro Pandolfino from Italy."
   },
   {
     "id": "s-156",
@@ -3187,15 +3192,16 @@
     "id": "s-174",
     "pool": "street-fest",
     "name": "Ruffin Nikon Loola & Band",
-    "country": "Germany / Berlin",
-    "region": "Europe",
-    "confidence": 58,
+    "country": "Congo / Germany / Berlin",
+    "region": "Africa",
+    "confidence": 88,
     "tags": [
+      "Congo",
       "Germany",
       "Berlin"
     ],
     "description": "Ruffin Nkoy Loola verbindet die musikalische Tradition Kinshasas mit Einflüssen von Franco, Tabu Ley und Miriam Makeba. Der in Berlin lebende Sänger bringt authentische kongolesische Musik in Lingala auf internationale Bühnen.",
-    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+    "evidence": "Reviewed from source description: Kinshasa, Congolese music in Lingala, and Berlin-based singer are explicitly named."
   },
   {
     "id": "s-175",
@@ -3348,15 +3354,16 @@
     "id": "s-186",
     "pool": "street-fest",
     "name": "Mani Simon",
-    "country": "Germany / Berlin",
-    "region": "Europe",
-    "confidence": 58,
+    "country": "Zambia / Germany / Berlin",
+    "region": "Africa",
+    "confidence": 88,
     "tags": [
+      "Zambia",
       "Germany",
       "Berlin"
     ],
     "description": "Der in Sambia geborene und in Pittsburgh aufgewachsene Mani Simon verbindet Pop, Soul und Hip-Hop mit persönlichem Storytelling. In Berlin schreibt er ehrlich und nahbar über Identität, Grenzen und Selbstfindung.",
-    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+    "evidence": "Reviewed from source description: Zambian birth origin and Berlin writing context are explicitly named."
   },
   {
     "id": "s-187",

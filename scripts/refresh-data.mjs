@@ -88,6 +88,177 @@ const regionByTag = new Map([
   ['Zambia', 'Africa'],
 ]);
 
+const reviewedClassifications = new Map([
+  ['Belarus tanzt mit dem Drachen', {
+    country: 'Belarus',
+    confidence: 94,
+    tags: ['Belarus'],
+    evidence: 'Reviewed from source name and description: Belarus and belarussian folklore are explicitly named.',
+  }],
+  ['Verein der Tibeter in Deutschland e.V.', {
+    country: 'Tibet',
+    confidence: 94,
+    tags: ['Tibet'],
+    evidence: 'Reviewed from source name and description: Tibetan community, culture, language, identity, and Tibet are explicitly named.',
+  }],
+  ['Grupo Folclórico Impulso de Berlim', {
+    country: 'Portugal',
+    confidence: 94,
+    tags: ['Portugal'],
+    evidence: 'Reviewed from source description: Portugal, northern Portuguese traditional dance, and Portuguese flag colours are explicitly named.',
+  }],
+  ['Hello China!', {
+    country: 'China',
+    confidence: 94,
+    tags: ['China'],
+    evidence: 'Reviewed from source name and description: Chinese culture, Hanfu, dragon dance, and lion dance are explicitly named.',
+  }],
+  ['Ecuador Multicolor', {
+    country: 'Ecuador',
+    confidence: 94,
+    tags: ['Ecuador'],
+    evidence: 'Reviewed from source name and description: Ecuadorian celebration and Andean-region folk festival are explicitly named.',
+  }],
+  ['Dança de Coraçâo Kizomba Semba de Angola', {
+    country: 'Angola',
+    confidence: 94,
+    tags: ['Angola'],
+    evidence: 'Reviewed from source name and description: Kizomba Semba de Angola and Angolan Kizomba society are explicitly named.',
+  }],
+  ['Dança de Coraçâo', {
+    country: 'Angola',
+    confidence: 94,
+    tags: ['Angola'],
+    evidence: 'Reviewed from source description: Angolan Kizomba Semba de Angola is explicitly named.',
+  }],
+  ['Dil Se Pakistan', {
+    country: 'Pakistan',
+    confidence: 94,
+    tags: ['Pakistan'],
+    evidence: 'Reviewed from source name and description: Pakistan and Pakistani regional cultures are explicitly named.',
+  }],
+  ['Flor de Fuego Izalco', {
+    country: 'El Salvador',
+    confidence: 94,
+    tags: ['El Salvador'],
+    evidence: 'Reviewed from source description: the group is from El Salvador and presents Panchimalco festival traditions.',
+  }],
+  ['Nepali Heritage Troupe', {
+    country: 'Nepal',
+    confidence: 94,
+    tags: ['Nepal'],
+    evidence: 'Reviewed from source name and description: Nepali community and Nepalese cultural heritage are explicitly named.',
+  }],
+  ['Kangkiling e.V.', {
+    country: 'Gambia / Africa',
+    confidence: 90,
+    tags: ['Gambia', 'Africa'],
+    evidence: 'Reviewed from source description: Gambian and African heritage are explicitly named.',
+  }],
+  ['Armenische Jugend Berlin & Brandenburg (AJBB)', {
+    country: 'Armenia',
+    confidence: 94,
+    tags: ['Armenia'],
+    evidence: 'Reviewed from source name and description: Armenian youth, Ararat, and Armenia are explicitly named.',
+  }],
+  ['Maracatu-Treffen', {
+    country: 'Brazil / African diaspora',
+    confidence: 82,
+    tags: ['Brazil', 'African diaspora'],
+    evidence: 'Reviewed from source name and cultural term: Maracatu is the explicit cultural signal; no Nigerian signal is present in the source text.',
+  }],
+  ['Canoafolk', {
+    country: 'Colombia / Caribbean / African diaspora',
+    confidence: 90,
+    tags: ['Colombia', 'Caribbean', 'African diaspora'],
+    evidence: 'Reviewed from source description: Bullerengue is described as an Afro-Colombian dance from the Caribbean coast.',
+  }],
+  ['Yaam', {
+    country: 'African diaspora / Berlin',
+    confidence: 84,
+    tags: ['African diaspora', 'Berlin'],
+    evidence: 'Reviewed from source description: Young African Art Market and afrodiasporic culture in Berlin are explicitly named.',
+  }],
+  ['Pasaje abierto', {
+    country: 'Cuba / Caribbean',
+    confidence: 86,
+    tags: ['Cuba', 'Caribbean'],
+    evidence: 'Reviewed from source description: Cuban rhythms and Caribbean passion are explicitly named.',
+  }],
+  ['Canto Diáspora', {
+    country: 'Latin America',
+    confidence: 80,
+    tags: ['Latin America'],
+    evidence: 'Reviewed from source description: voices from Latin America are explicitly named, without a single country.',
+  }],
+  ['Ares Gratal Duo', {
+    country: 'Spain / Catalonia / Sephardic diaspora',
+    confidence: 86,
+    tags: ['Spain', 'Catalonia', 'Sephardic diaspora'],
+    evidence: 'Reviewed from source description: Catalan artist from Lleida and Sephardic music are explicitly named.',
+  }],
+  ['Producciones Abismales', {
+    country: 'General',
+    confidence: 55,
+    tags: ['General'],
+    evidence: 'Reviewed from source name and description: Spanish-language naming alone is not enough for a reliable nationality match.',
+  }],
+  ['Candumbe', {
+    country: 'Uruguay / Chile / African diaspora',
+    confidence: 88,
+    tags: ['Uruguay', 'Chile', 'African diaspora'],
+    evidence: 'Reviewed from source description: Afro-Uruguayan Candombe and Afro-Chilean Tumbe are explicitly named.',
+  }],
+  ['Castellers de Berlín', {
+    country: 'Catalonia / Spain',
+    confidence: 78,
+    tags: ['Catalonia', 'Spain'],
+    evidence: 'Reviewed from source name and description: Castellers/human towers are the explicit cultural form; Berlin is the local group context.',
+  }],
+  ['Die Sonderpreis-Gewinner:innen des Landeswettbewerbs Jugend musiziert (Pop)', {
+    country: 'General',
+    confidence: 55,
+    tags: ['General'],
+    evidence: 'Reviewed from source name and description: youth music award categories do not provide a reliable nationality signal.',
+  }],
+  ['i BiRiCHiNi', {
+    country: 'Italy',
+    confidence: 84,
+    tags: ['Italy'],
+    evidence: 'Reviewed from source description: Italian music repertoire is explicitly named.',
+  }],
+  ['Daiana Lou', {
+    country: 'Italy / Germany / Berlin',
+    confidence: 84,
+    tags: ['Italy', 'Germany', 'Berlin'],
+    evidence: 'Reviewed from source description: Italian-Berlin duo and Berlin street atmosphere are explicitly named.',
+  }],
+  ['The Shallaras', {
+    country: 'Australia / Italy',
+    confidence: 90,
+    tags: ['Australia', 'Italy'],
+    evidence: 'Reviewed from source description: the artists are listed as Angela Cory from Australia and Mauro Pandolfino from Italy.',
+  }],
+  ['River Rats', {
+    country: 'France',
+    confidence: 78,
+    tags: ['France'],
+    evidence: 'Reviewed from source description: French chanson is explicitly named.',
+  }],
+  ['Ruffin Nikon Loola & Band', {
+    country: 'Congo / Germany / Berlin',
+    confidence: 88,
+    tags: ['Congo', 'Germany', 'Berlin'],
+    evidence: 'Reviewed from source description: Kinshasa, Congolese music in Lingala, and Berlin-based singer are explicitly named.',
+  }],
+  ['Mani Simon', {
+    country: 'Zambia / Germany / Berlin',
+    confidence: 88,
+    tags: ['Zambia', 'Germany', 'Berlin'],
+    evidence: 'Reviewed from source description: Zambian birth origin and Berlin writing context are explicitly named.',
+  }],
+]);
+
 function inferredDescription(entry) {
   return entry.description || entry.style || 'Listed on the official programme page without an individual description.';
 }
@@ -160,6 +331,9 @@ function lowConfidence(tags, country, evidence) {
 function inferRow(entry) {
   const haystack = `${entry.name} ${entry.style} ${entry.description}`.toLowerCase();
   const has = pattern => pattern.test(haystack);
+  const reviewed = reviewedClassifications.get(entry.name);
+
+  if (reviewed) return reviewed;
 
   if (has(/abenteuer tanz/) || has(/lilia gomez aus peru/)) {
     return {
