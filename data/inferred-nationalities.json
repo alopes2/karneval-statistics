@@ -101,8 +101,7 @@
     "region": "Caribbean",
     "confidence": 92,
     "tags": [
-      "Dominican Republic",
-      "Caribbean"
+      "Dominican Republic"
     ],
     "description": "Viva la República Dominicana! Als leidenschaftliche Tanzgruppe freuen wir uns riesig, zum ersten Mal beim Umzug die Dominikanische Kultur zu repräsentieren – authentisch, lebendig und warmherzig! Freut euch auf gefühlvolle Merengue- und Bachata-Rhythmen, farbenfrohe Kostüme und pure dominikanische Vibes! Spürt die Energie, die Lebensfreude und den calor humano – und lasst euch mitreißen zu einer kleinen Reise in die Dominikanische Republik! Wir bringen ein Stück Karibik auf die Straßen Berlins und zeigen, dass unsere Community ein leuchtender Teil der kulturellen Vielfalt dieser Stadt ist.",
     "evidence": "Source description explicitly references the Dominican Republic, Dominican culture, or Quisqueya."
@@ -125,41 +124,41 @@
     "id": "p-010",
     "pool": "parade",
     "name": "Booty Therapy",
-    "country": "African diaspora",
-    "region": "Africa / Diaspora",
+    "country": "Africa",
+    "region": "Africa",
     "confidence": 55,
     "tags": [
-      "African diaspora"
+      "Africa"
     ],
     "description": "Booty Therapy steht für eine körperliche Praxis, die Bewegung nutzt, um gesellschaftliche Realitäten zu reflektieren und zu transformieren. In unseren Choreografien erscheinen Kampfgesten aus afro-urbanen Tänzen, die Erfahrungen von Unterdrückung, Konflikt und Widerstand verkörpern. Sie verwandeln reale Spannungen in Bewegung und ermöglichen einen körperlichen Umgang mit Trauma. Unsere Gruppe aus FLINTA*-Personen nutzt Tanz als kollektive Kraft, um Gewalt nicht zu verherrlichen, sondern sie zu transformieren. Wir tanzen keinen Krieg. Wir tanzen die Überwindung von Gewalt.",
-    "evidence": "Source listing uses broad African or Afro-diasporic musical markers without a single dominant national signal."
+    "evidence": "Source description uses broad Afro-urban dance markers without a single dominant national signal."
   },
   {
     "id": "p-011",
     "pool": "parade",
     "name": "Anclas e.V. / Latido Verde",
-    "country": "General",
-    "region": "Global",
-    "confidence": 55,
+    "country": "Latin America",
+    "region": "Latin America",
+    "confidence": 68,
     "tags": [
-      "General"
+      "Latin America"
     ],
     "description": "Latido Verde möchte in diesem Jahr mit seinen Bewegungen nicht nur die Schönheit des Meeres, die Harmonie seiner Gewässer und das Leben in ihnen darstellen, sondern auch auf die Bedeutung des Schutzes der Meereswelt aufmerksam machen. Der Ozean ist eine Quelle des Lebens: Er reguliert das Klima, versorgt uns mit Nahrung und beherbergt eine große Artenvielfalt. Doch Verschmutzung, Plastik und der falsche Umgang mit Ressourcen bedrohen ihn täglich. Der Tanz ist eine Botschaft von Bewusstsein, Respekt und Hoffnung und lädt dazu ein Teil des Wandels zu werden.",
-    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+    "evidence": "Manual review: the Spanish-language entry title Latido Verde and Anclas framing support a broad Latin American classification, while the description does not narrow it to one country."
   },
   {
     "id": "p-012",
     "pool": "parade",
     "name": "Kalibani",
-    "country": "Argentina / Latin America",
+    "country": "Argentina / Syria",
     "region": "Latin America",
-    "confidence": 70,
+    "confidence": 74,
     "tags": [
       "Argentina",
-      "Latin America"
+      "Syria"
     ],
     "description": "„KALIBANI: Ein Anti-Kriegs-Schlachtross vorneweg, mittendrin eine als Gefängnis dekorierte Plattform. Das KiezOrchester in Häftlingkostümen, maskiert mit diversen Nationalflaggen, singt Lieder gegen Krieg, Abschiebung und Aufrüstung. Motto: „FREE THEM ALL – ABSCHIEBESTOPP!“. Murgos-Berlin tanzen in bunten Kostümen, mit Trommeln und Percussions zu Tango Argentino und Jazz. Motto: „Nunca Mas!“. Die Syrer*innen zeigen Tänze der ethnischen Gruppen in Syrien in deren Kostümen. Motto: „Vielfalt in Syrien!“ Die Murga aus Bielefeld tanzen in Latino-Kostümen zu ihren Trommeln.“",
-    "evidence": "Source listing points to tango or Argentine musical heritage with broader Latin American framing."
+    "evidence": "Manual review: the description names Tango Argentino, Syrian ethnic dances and costumes, and Latino-costumed Murga."
   },
   {
     "id": "p-013",
@@ -234,7 +233,7 @@
     "pool": "parade",
     "name": "Verein der Tibeter in Deutschland e.V.",
     "country": "Tibet",
-    "region": "Asia / Diaspora",
+    "region": "Asia",
     "confidence": 94,
     "tags": [
       "Tibet"
@@ -246,14 +245,14 @@
     "id": "p-019",
     "pool": "parade",
     "name": "Minab School",
-    "country": "General",
-    "region": "Global",
-    "confidence": 55,
+    "country": "Middle East",
+    "region": "Middle East",
+    "confidence": 70,
     "tags": [
-      "General"
+      "Middle East"
     ],
     "description": "Wir stellen die Trauerkulturen des Nahen Ostens für Mütter vor, die ihre Kinder im Krieg verloren haben.",
-    "evidence": "Source listing is a workshop, family programme or performance activity without a reliable nationality signal."
+    "evidence": "Manual review: the description explicitly frames the entry as mourning cultures of the Middle East, without naming a single country."
   },
   {
     "id": "p-020",
@@ -445,12 +444,11 @@
     "id": "p-034",
     "pool": "parade",
     "name": "Maracatu-Treffen",
-    "country": "Brazil / African diaspora",
+    "country": "Brazil",
     "region": "Latin America",
     "confidence": 82,
     "tags": [
-      "Brazil",
-      "African diaspora"
+      "Brazil"
     ],
     "description": "Widerstand, Harmonie und Frieden! Frieden ist nicht garantiert. Während Reiche und Mächtige Völker gegeneinander aufbringen, vertiefen sich Ungleichheiten weltweit. Umso wichtiger ist es, sich aktiv für Frieden einzusetzen. Der Karneval der Kulturen blüht auf den Straßen Berlins als Ort der Begegnung, an dem Gesten, Gesang und Körper eine mögliche Harmonie feiern. Das Maracatu-Treffen dankt dem KdK für 30 Jahre Widerstand und erinnert daran, dass ein Leben in Frieden ein grundlegendes Recht aller Menschen ist.",
     "evidence": "Reviewed from source name and cultural term: Maracatu is the explicit cultural signal; no Nigerian signal is present in the source text."
@@ -459,15 +457,14 @@
     "id": "p-035",
     "pool": "parade",
     "name": "Ramanbaug Yuva Manch Germany e.V.",
-    "country": "Germany / Berlin",
-    "region": "Europe",
-    "confidence": 58,
+    "country": "India",
+    "region": "South Asia",
+    "confidence": 88,
     "tags": [
-      "Germany",
-      "Berlin"
+      "India"
     ],
     "description": "Drei unserer Besonderheiten: Wir sind laut, jedoch harmonisch und euphorisch! Wir präsentieren authentische indische Folklore mit einem Tempo, das die Beine bewegt und das Herz schlagen lässt. Auch dieses Jahr bringt Ramanbaug yuva Manch die Dhol-Tasha (Schlagzeugensemble) Prozession aus Maharashtra auf die Berliner Straßen, mit großartigen Rhythmen, traditionellen Trachten und energetischen Volkstänzen. Zudem präsentieren wir mit Stolz eine Vorführung des indischen traditionellen Kampfsports – eine Fusion der Kampfaktion mit dem Volks-Rhythmus, die die Herzen der Zuschauenden berüht!",
-    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+    "evidence": "Manual review: the description explicitly presents Indian folklore, Maharashtra Dhol-Tasha, folk dances, and Indian traditional martial arts."
   },
   {
     "id": "p-036",
@@ -545,13 +542,11 @@
     "id": "p-041",
     "pool": "parade",
     "name": "Canoafolk",
-    "country": "Colombia / Caribbean / African diaspora",
+    "country": "Colombia",
     "region": "Latin America",
     "confidence": 90,
     "tags": [
-      "Colombia",
-      "Caribbean",
-      "African diaspora"
+      "Colombia"
     ],
     "description": "Wir bringen euch den Bullerengue, einen afro-kolumbianischen Tanz von der Karibikküste. Der Gesang der Frauen und das Klatschen und Trommeln prägen den erdverbundenen Rhythmus, die Füße bleiben fast immer am Boden. Der Gesang erzählt von Leid und Liebe. Aber durch den kraftvollen Tanz kommt Freude und Hoffnung zurück. Wir beleben Bullerengue auf moderne Weise und setzen damit ein Zeichen, das die kraftvolle, entschlossene Führung der Frau hervorhebt.",
     "evidence": "Reviewed from source description: Bullerengue is described as an Afro-Colombian dance from the Caribbean coast."
@@ -718,12 +713,11 @@
     "id": "p-054",
     "pool": "parade",
     "name": "Kangkiling e.V.",
-    "country": "Gambia / Africa",
+    "country": "Gambia",
     "region": "Africa",
     "confidence": 90,
     "tags": [
-      "Gambia",
-      "Africa"
+      "Gambia"
     ],
     "description": "Kangkiling e.V. ist eine in Berlin ansässige Kulturorganisation, die gegründet wurde, um das gambische und afrikanische Erbe durch Kunst, Gemeinschaft und öffentliche Präsenz zu feiern und zu bewahren. Nach einem historischen Debüt im Jahr 2025 — bei dem wir 🇬🇲 Gambia zum zweiten Mal stolz auf dem Karneval der Kulturen präsentierten — setzen wir uns dafür ein, 2026 mit einer noch stärkeren und inklusiveren Präsenz zurückzukehren. Unsere Teilnahme wird die Kraft, Einheit und künstlerische Exzellenz der gambischen und der afrikanischen Gemeinschaft insgesamt würdigen.",
     "evidence": "Reviewed from source description: Gambian and African heritage are explicitly named."
@@ -798,14 +792,14 @@
     "id": "p-060",
     "pool": "parade",
     "name": "Freak de l´Afrique",
-    "country": "African diaspora",
-    "region": "Africa / Diaspora",
+    "country": "Africa",
+    "region": "Africa",
     "confidence": 55,
     "tags": [
-      "African diaspora"
+      "Africa"
     ],
     "description": "„Africa Now – Berlin Forever“ ist unser Statement zum 30. Jubiläum des Karnevals der Kulturen. Freak de l’Afrique bringt den modernen Sound Afrikas auf die Straße und macht die kreative Kraft der Diaspora hör- und sichtbar. Unser Truck steht für Afro Fusion, für Bewegung, Verbindung und Zukunft. Wir feiern afrikanische Gegenwartskultur als festen Teil der urbanen Realität Berlins – getragen von einer jungen Community, die die kulturelle Zukunft der Stadt aktiv mitgestaltet.",
-    "evidence": "Source listing uses broad African or Afro-diasporic musical markers without a single dominant national signal."
+    "evidence": "Source description explicitly frames the entry around modern African sound and broad African contemporary culture without one country."
   },
   {
     "id": "p-061",
@@ -837,15 +831,15 @@
     "id": "p-063",
     "pool": "parade",
     "name": "Yaam",
-    "country": "African diaspora / Berlin",
-    "region": "Africa / Diaspora",
+    "country": "Africa / Berlin",
+    "region": "Africa",
     "confidence": 84,
     "tags": [
-      "African diaspora",
+      "Africa",
       "Berlin"
     ],
     "description": "Das Yaam (Young African Art Market), steht seit nun drei Jahrzehnten für afrodiasporische Kultur in Berlin. Zwischen Graffiti und Djembe, Street und Capoeira ist das Yaam eine Nische und Instanz zugleich. Mit unserem diesjährigen Wagen wollen wir eine Brücke schlagen zwischen unserer Prägung als Berliner Kulturstandort und der globalen Verantwortung, die wir alle als Gesellschaft tragen.",
-    "evidence": "Reviewed from source description: Young African Art Market and afrodiasporic culture in Berlin are explicitly named."
+    "evidence": "Reviewed from source description: Young African Art Market and Berlin cultural location are explicitly named."
   },
   {
     "id": "p-064",
@@ -864,12 +858,11 @@
     "id": "p-065",
     "pool": "parade",
     "name": "Caribbean Colors",
-    "country": "Caribbean diaspora / Berlin",
-    "region": "Caribbean / Diaspora",
+    "country": "Caribbean",
+    "region": "Caribbean",
     "confidence": 70,
     "tags": [
-      "Caribbean diaspora",
-      "Berlin"
+      "Caribbean"
     ],
     "description": "„Caribbean Colors Mas Band bringt die Energie und Lebensfreude der Karibik auf die Straße. Mit farbenprächtigen Kostümen, mitreißender Musik und leidenschaftlichem Tanz feiern wir die Tradition des karibischen Karnevals.",
     "evidence": "Source description explicitly mentions Caribbean roots in a Berlin-based act."
@@ -878,12 +871,11 @@
     "id": "p-066",
     "pool": "parade",
     "name": "Reggaeinberlin.de",
-    "country": "Jamaica / reggae diaspora",
+    "country": "Jamaica",
     "region": "Caribbean",
     "confidence": 82,
     "tags": [
-      "Jamaica",
-      "reggae diaspora"
+      "Jamaica"
     ],
     "description": "Positive Vibration – Too much trouble in the world. Beim KdK feiern wir mit Reggae die Vielfalt. In Zeiten von Krieg und Naturkatastrophen geben satte Bässe, Rhythmus und Liebe neue Kraft. Die Reggaekultur hat sich von Jamaika aus in die ganze Welt verbreitet – wie Samen im Wind. Im vergangenen Jahr wurde Jamaika hart vom Hurrikan Melissa getroffen. Doch: Jamaica Strong! Unterstützt den Wiederaufbau und spendet auf helpjamaica.org. Spread the message: One Love. Musik schafft Liebe, Zusammenhalt und Solidarität – und das Bewusstsein, gemeinsam unseren Planeten besser zu schützen. Love&amp;Reggae.",
     "evidence": "Source listing references reggae, dancehall, rocksteady, or Jamaica directly."
@@ -892,25 +884,24 @@
     "id": "s-001",
     "pool": "street-fest",
     "name": "AFRO HAUS",
-    "country": "African diaspora",
-    "region": "Africa / Diaspora",
+    "country": "Africa",
+    "region": "Africa",
     "confidence": 55,
     "tags": [
-      "African diaspora"
+      "Africa"
     ],
     "description": "Im AFRO HAUS Music Corner treffen rhythmische Sounds, kreative Energie und Community aufeinander. Euch erwartet ein abwechslungsreiches Programm aus Afrobeats, Amapiano, High-life, Soul, Hip-Hop und modernen elektronischen Sounds, begleitet von täglichen Live-Acts, spontanen Performances und ausgewählten DJ-Sets.",
-    "evidence": "Source listing uses broad African or Afro-diasporic musical markers without a single dominant national signal."
+    "evidence": "Source description lists Afrobeats, Amapiano, High-life and Afro House without one country."
   },
   {
     "id": "s-002",
     "pool": "street-fest",
     "name": "Tropical Disco",
-    "country": "Jamaica / reggae diaspora",
+    "country": "Jamaica",
     "region": "Caribbean",
     "confidence": 82,
     "tags": [
-      "Jamaica",
-      "reggae diaspora"
+      "Jamaica"
     ],
     "description": "Das in Mailand gebaute Tropic Disco Sound System wird zum Berliner Karneval der ­Kulturen reisen, um den Geist der jamaikanischen und englischen Sound-System-Kultur zu feiern. Während der vier Veranstaltungstage wird die Tropic-Disco-Crew Künstler aus der ursprünglichen britischen Soundsystem-Szene sowie lokale DJs und Crews empfangen und einen Mix aus Reggae und Weltmusik anbieten.",
     "evidence": "Source listing references reggae, dancehall, rocksteady, or Jamaica directly."
@@ -920,7 +911,7 @@
     "pool": "street-fest",
     "name": "Sinti Corner",
     "country": "Sinti / Roma culture",
-    "region": "Europe / Diaspora",
+    "region": "Europe",
     "confidence": 78,
     "tags": [
       "Sinti / Roma culture"
@@ -932,14 +923,14 @@
     "id": "s-004",
     "pool": "street-fest",
     "name": "Rogerio",
-    "country": "Latin America",
-    "region": "Latin America",
+    "country": "General",
+    "region": "Global",
     "confidence": 55,
     "tags": [
-      "Latin America"
+      "General"
     ],
     "description": "Musiker*innen aus aller Welt, die den KdK besuchen und im Vorbeigehen spontan Musik machen möchten, sind eingeladen, ein Stück ihrer Kultur und den musikalischen Reichtum ihres Landes mit anderen zu zelebrieren. Wir nutzen die Bühne, um durch die universelle Sprache der Musik uns zu begegnen und auszutauschen.",
-    "evidence": "Source listing signals a broad Latin American context without a single dominant country match."
+    "evidence": "Manual review: the description is explicitly world-spanning and does not provide a reliable nationality or regional culture match."
   },
   {
     "id": "s-005",
@@ -984,12 +975,11 @@
     "id": "s-008",
     "pool": "street-fest",
     "name": "Perry Stage",
-    "country": "Jamaica / reggae diaspora",
+    "country": "Jamaica",
     "region": "Caribbean",
     "confidence": 82,
     "tags": [
-      "Jamaica",
-      "reggae diaspora"
+      "Jamaica"
     ],
     "description": "Die zwei dienstältesten Aktivisten der Berliner Reggae-Community werden gemeinsam die gesamte musikalische Bandbreite der hiesigen urbanen Reggae DJ Szene präsentieren. Von Rocksteady über Dancehall bis hin zu Jungle – jegliche Styles des jamaikanschen Kosmos sind willkommen.",
     "evidence": "Source listing references reggae, dancehall, rocksteady, or Jamaica directly."
@@ -998,14 +988,14 @@
     "id": "s-009",
     "pool": "street-fest",
     "name": "ONMYMIND",
-    "country": "African diaspora",
-    "region": "Africa / Diaspora",
+    "country": "Africa",
+    "region": "Africa",
     "confidence": 55,
     "tags": [
-      "African diaspora"
+      "Africa"
     ],
     "description": "Afrohouse, Amapiano, Afrobeats, AfroSwing, Baile Funk, Bouyon, Batida, Gqom, Dancehall, Soca, R&B, Hip-Hop und globale Club Sounds treffen bei der ONMYMIND Corner hosted by DJ O’Nit auf sommerliche Day-Party-Energie mitten auf dem Karneval der Kulturen. Unsere musikalischen Einflüsse stammen aus verschiedenen ­ Kulturen und Communities weltweit, insbesondere aus afrikanischen, karibischen und lateinamerikanischen Musikszenen.",
-    "evidence": "Source listing uses broad African or Afro-diasporic musical markers without a single dominant national signal."
+    "evidence": "Source description emphasizes African scenes and Afro-derived club genres without one country."
   },
   {
     "id": "s-010",
@@ -1102,14 +1092,14 @@
     "id": "s-017",
     "pool": "street-fest",
     "name": "Aroeiras",
-    "country": "Nigeria",
-    "region": "Africa",
-    "confidence": 90,
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 88,
     "tags": [
-      "Nigeria"
+      "Brazil"
     ],
     "description": "Aroeiras spielt brasilianischen Forró und Samba de Coco mit Herz und Seele. Die vier Frauen bringen mit Akkordeon, Perkussion und bezauberndem Gesang ihre diversen kulturellen Einflüsse in ihre Musik ein.",
-    "evidence": "Source description explicitly references Nigerian, Esan, or Yoruba culture."
+    "evidence": "Manual review: the description explicitly says Brazilian Forró and Samba de Coco."
   },
   {
     "id": "s-018",
@@ -1206,25 +1196,25 @@
     "id": "s-025",
     "pool": "street-fest",
     "name": "Tants in Gartn Eydn",
-    "country": "Jewish diaspora",
-    "region": "Europe / Diaspora",
+    "country": "Jewish culture",
+    "region": "Europe",
     "confidence": 74,
     "tags": [
-      "Jewish diaspora"
+      "Jewish culture"
     ],
     "description": "Klezmerschwof",
-    "evidence": "Source listing references klezmer or Jewish diasporic musical traditions."
+    "evidence": "Source listing references klezmer / Jewish musical tradition."
   },
   {
     "id": "s-026",
     "pool": "street-fest",
     "name": "Tanz & Poesie der Derwische",
-    "country": "Sufi / Islamic tradition",
-    "region": "Middle East / Global",
+    "country": "Sufi / Middle East",
+    "region": "Middle East",
     "confidence": 62,
     "tags": [
       "Sufi",
-      "Islamic tradition"
+      "Middle East"
     ],
     "description": "Sufi-Zentrum Rabbaniyya",
     "evidence": "Source listing explicitly references Sufi or dervish performance tradition."
@@ -1716,14 +1706,14 @@
     "id": "s-064",
     "pool": "street-fest",
     "name": "Gabo Naas",
-    "country": "Peru",
+    "country": "Latin America",
     "region": "Latin America",
-    "confidence": 84,
+    "confidence": 78,
     "tags": [
-      "Peru"
+      "Latin America"
     ],
     "description": "Die Gabo Naas Group nimmt das Publikum mit auf eine musikalische Reise durch Lateinamerika – von Zamba und Huayno bis Candombe, Festejo und Son, modern interpretiert und doch fest in der Tradition verwurzelt.",
-    "evidence": "Source listing explicitly references Peru or Peruvian folklore."
+    "evidence": "Manual review: the description says journey through Latin America and lists forms from multiple Latin American traditions, so a single-country tag would be too narrow."
   },
   {
     "id": "s-065",
@@ -1759,9 +1749,7 @@
     "region": "Latin America",
     "confidence": 86,
     "tags": [
-      "Colombia",
-      "African diaspora",
-      "Caribbean"
+      "Colombia"
     ],
     "description": "Palo Santo fängt den Spirit der kolumbianischen Küste ein. Mit Trommeln, Gaita, Bass und Piano bringen sie die Hitze und Energie des Karnevals direkt auf die Bühne.",
     "evidence": "Source listing points to Colombian-origin genres, with Caribbean or Afro-Colombian signals where stated."
@@ -1770,14 +1758,15 @@
     "id": "s-068",
     "pool": "street-fest",
     "name": "Antajayu",
-    "country": "Chile",
+    "country": "Chile / Guatemala",
     "region": "Latin America",
-    "confidence": 84,
+    "confidence": 86,
     "tags": [
-      "Chile"
+      "Chile",
+      "Guatemala"
     ],
     "description": "Zwischen den Anden und Neukölln: Antajayú – mit Wurzeln in Chile und Guatemala – verbindet traditionelle andine Klänge mit Rock, Jazz und eigenen Kompositionen. Musik, die Welten verbindet.",
-    "evidence": "Source listing explicitly references Chile or Chilean dance traditions."
+    "evidence": "Manual review: the description explicitly names roots in Chile and Guatemala with Andean sounds."
   },
   {
     "id": "s-069",
@@ -1809,12 +1798,11 @@
     "id": "s-071",
     "pool": "street-fest",
     "name": "LA MEKANICA",
-    "country": "Cuba / Caribbean",
+    "country": "Cuba",
     "region": "Caribbean",
     "confidence": 84,
     "tags": [
-      "Cuba",
-      "Caribbean"
+      "Cuba"
     ],
     "description": "LA MEKANICA ist eine kubanische Timba- und Salsa-Band. Gegründet 2017, steht sie mit neuer Besetzung wieder auf der Bühne. Zehn Musiker*innen aus Kuba verbinden kraftvolle Bläser mit modernen Timba-Rhythmen und Salsa",
     "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
@@ -1836,12 +1824,11 @@
     "id": "s-073",
     "pool": "street-fest",
     "name": "La Guagua Music",
-    "country": "Argentina / Latin America",
+    "country": "Argentina",
     "region": "Latin America",
     "confidence": 70,
     "tags": [
-      "Argentina",
-      "Latin America"
+      "Argentina"
     ],
     "description": "Dieses Kollektiv für Tango und lateinamerikanische Lieder transportiert wie ein bunter Bus klangvolle Geschichten, deren Essenz durch inspirierte Musiker*innen direkt die Herzen des Publikums berührt.",
     "evidence": "Source listing points to tango or Argentine musical heritage with broader Latin American framing."
@@ -1850,14 +1837,15 @@
     "id": "s-074",
     "pool": "street-fest",
     "name": "A Panda do Sol",
-    "country": "Brazil",
+    "country": "Brazil / Caribbean",
     "region": "Latin America",
-    "confidence": 86,
+    "confidence": 84,
     "tags": [
-      "Brazil"
+      "Brazil",
+      "Caribbean"
     ],
     "description": "Das Berliner Kollektiv A Panda do Sol verbindet Samba aus Brasilien, karibische Grooves, Chanson und Jazz zu warmen, poetischen Konzerten voller Rhythmus, Nostalgie und sonniger Energie.",
-    "evidence": "Source listing uses Brazilian genres or place signals such as samba, maracatu, Bahia, or Pernambuco."
+    "evidence": "Manual review: the description explicitly combines Samba from Brazil with Caribbean grooves."
   },
   {
     "id": "s-075",
@@ -1876,12 +1864,11 @@
     "id": "s-076",
     "pool": "street-fest",
     "name": "Pasaje abierto",
-    "country": "Cuba / Caribbean",
+    "country": "Cuba",
     "region": "Caribbean",
     "confidence": 86,
     "tags": [
-      "Cuba",
-      "Caribbean"
+      "Cuba"
     ],
     "description": "Heiße Rhythmen aus Kuba treffen auf die pulsierende Energie Berlins. Pasaje Abierto bringt unter der Leitung von Wiljoph Sunday Mounkassa Williams „Bebito“ authentischen Latin Sound und karibische Leidenschaft auf die Bühne.",
     "evidence": "Reviewed from source description: Cuban rhythms and Caribbean passion are explicitly named."
@@ -1923,8 +1910,7 @@
     "tags": [
       "Peru",
       "Colombia",
-      "Venezuela",
-      "African diaspora"
+      "Venezuela"
     ],
     "description": "Cuatro Piraguas bringt afro-peruanische Rhythmen und Folklore aus Kolumbien und Venezuela auf die Bühne. Ihre Musik lädt zum Tanzen und Lauschen ein und erzählt von Gerechtigkeit, Natur und dem Alltag",
     "evidence": "Source description explicitly mentions Afro-Peruvian rhythms and folklore from Colombia and Venezuela."
@@ -1933,13 +1919,11 @@
     "id": "s-080",
     "pool": "street-fest",
     "name": "Alafia con Iré",
-    "country": "Cuba / Caribbean",
+    "country": "Cuba",
     "region": "Caribbean",
     "confidence": 84,
     "tags": [
-      "Cuba",
-      "Caribbean",
-      "African diaspora"
+      "Cuba"
     ],
     "description": "Alafia con Iré ist eine kubanische Musikgruppe in Berlin, die die Tradition der afrokubanischen Musik und insbesondere auch der kubanischen Rumba auf die Bühne bringt und auch eigene Kompositionen spielt.",
     "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
@@ -1961,15 +1945,14 @@
     "id": "s-082",
     "pool": "street-fest",
     "name": "Cherry Bandora",
-    "country": "Turkey / Anatolia",
-    "region": "Middle East / Europe",
-    "confidence": 84,
+    "country": "Greece",
+    "region": "Europe / Mediterranean",
+    "confidence": 78,
     "tags": [
-      "Turkey",
-      "Anatolia"
+      "Greece"
     ],
     "description": "Greek Bouzouki Surf – Psychedelic Oriental Groove",
-    "evidence": "Source listing explicitly references Turkish or Anatolian music and performance traditions."
+    "evidence": "Manual review: the only specific cultural signal in the source text is Greek Bouzouki."
   },
   {
     "id": "s-083",
@@ -2084,14 +2067,14 @@
     "id": "s-091",
     "pool": "street-fest",
     "name": "Oku & Baba Shango",
-    "country": "African diaspora",
-    "region": "Africa / Diaspora",
+    "country": "Africa",
+    "region": "Africa",
     "confidence": 55,
     "tags": [
-      "African diaspora"
+      "Africa"
     ],
     "description": "Afrofunk & Afrobeat",
-    "evidence": "Source listing uses broad African or Afro-diasporic musical markers without a single dominant national signal."
+    "evidence": "Source description uses Afrofunk and Afrobeat without one specific country."
   },
   {
     "id": "s-092",
@@ -2123,13 +2106,13 @@
     "id": "s-094",
     "pool": "street-fest",
     "name": "Ares Gratal Duo",
-    "country": "Spain / Catalonia / Sephardic diaspora",
+    "country": "Spain / Catalonia / Sephardic",
     "region": "Europe",
     "confidence": 86,
     "tags": [
       "Spain",
       "Catalonia",
-      "Sephardic diaspora"
+      "Sephardic"
     ],
     "description": "Katalanische Sängerin und Multiinstrumentalistin aus Lleida, heute in Berlin. Zwischen Improvisation, Eigenkompositionen und sephardischer Musik erzählt sie persönliche Geschichten in mehreren Sprachen.",
     "evidence": "Reviewed from source description: Catalan artist from Lleida and Sephardic music are explicitly named."
@@ -2441,13 +2424,12 @@
     "id": "s-118",
     "pool": "street-fest",
     "name": "Candumbe",
-    "country": "Uruguay / Chile / African diaspora",
+    "country": "Uruguay / Chile",
     "region": "Latin America",
     "confidence": 88,
     "tags": [
       "Uruguay",
-      "Chile",
-      "African diaspora"
+      "Chile"
     ],
     "description": "CANDUMBE vereint afro-uruguayischen Candombe und afro-chilenischen Tumbe in einer kraftvollen musikalischen und tänzerischen Begegnung. Trommeln, Bewegung und kollektive Energie schaffen einen interkulturellen Raum, der afrikanisches Erbe im Cono Sur lebendig macht",
     "evidence": "Reviewed from source description: Afro-Uruguayan Candombe and Afro-Chilean Tumbe are explicitly named."
@@ -2922,12 +2904,11 @@
     "id": "s-154",
     "pool": "street-fest",
     "name": "Mukunda Cruz",
-    "country": "Argentina / Latin America",
+    "country": "Argentina",
     "region": "Latin America",
     "confidence": 70,
     "tags": [
-      "Argentina",
-      "Latin America"
+      "Argentina"
     ],
     "description": "Mukunda Cruz ist das Projekt des argentinischen Musikers Martin Cruz (Berlin seit 2016). Er verbindet andine & argentinische Folklore mit Rock-Pop und Jazz. 2025 erschien sein Debütalbum „Canciones irregulares“.",
     "evidence": "Source listing points to tango or Argentine musical heritage with broader Latin American framing."
@@ -3083,12 +3064,11 @@
     "id": "s-166",
     "pool": "street-fest",
     "name": "Kira",
-    "country": "Caribbean diaspora / Berlin",
-    "region": "Caribbean / Diaspora",
+    "country": "Caribbean",
+    "region": "Caribbean",
     "confidence": 70,
     "tags": [
-      "Caribbean diaspora",
-      "Berlin"
+      "Caribbean"
     ],
     "description": "KIRASOL ist eine Popsängerin aus Berlin mit karibischen Roots. Ihre Musik ist modern, bunt und bildhaft. Mit ihren Texten erzählt sie Geschichten vom Leben und der Liebe",
     "evidence": "Source description explicitly mentions Caribbean roots in a Berlin-based act."
@@ -3097,12 +3077,11 @@
     "id": "s-167",
     "pool": "street-fest",
     "name": "Havanna Berlin",
-    "country": "Cuba / Caribbean",
+    "country": "Cuba",
     "region": "Caribbean",
     "confidence": 84,
     "tags": [
-      "Cuba",
-      "Caribbean"
+      "Cuba"
     ],
     "description": "Havana Berlin Express verbindet kubanische Salsa, Son und Rumba mit europäischem Jazz. Die Band um Sergio Medina begeistert mit einer energiegeladenen Mischung aus karibischen Rhythmen und moderner Improvisation.",
     "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
@@ -3125,14 +3104,14 @@
     "id": "s-169",
     "pool": "street-fest",
     "name": "DJ Emo",
-    "country": "Ghana",
-    "region": "Africa",
-    "confidence": 90,
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
     "tags": [
-      "Ghana"
+      "General"
     ],
     "description": "Emos Musik ist ein seelenbewegendes Elixier, eine emotionale Reise, die direkt zum Herzen spricht. Mit jeder Note verbindet er mühelos elektronische Meisterschaft mit reichen kulturellen Einflüssen und erschafft so ein Klangerlebnis, das schlichtweg fesselnd ist.",
-    "evidence": "Source description explicitly references Ghana, Ghanaian Black Stars, or Highlife music."
+    "evidence": "Manual review: the description mentions cultural influences generally, but no reliable country or regional culture signal."
   },
   {
     "id": "s-170",
@@ -3207,15 +3186,14 @@
     "id": "s-175",
     "pool": "street-fest",
     "name": "Fulya",
-    "country": "Germany / Berlin",
-    "region": "Europe",
-    "confidence": 58,
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
     "tags": [
-      "Germany",
-      "Berlin"
+      "General"
     ],
     "description": "Stellen Sie sich einen Raum voller orientalischer Muster vor. Der Geruch von Räucherstäbchen, das spirituelle Gefühl in Kombination mit Magie. So lässt sich Fulya am besten mit ihren RnB/Pop Hits beschreiben. Sie ist bereits bei vielen großartigen Events aufgetreten, wie zum Beispiel der Berlin Fashion Week Anfang des Jahres.",
-    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+    "evidence": "Manual review: Berlin Fashion Week is only an event reference, and the remaining description is too broad for a reliable nationality tag."
   },
   {
     "id": "s-176",
@@ -3235,14 +3213,14 @@
     "id": "s-177",
     "pool": "street-fest",
     "name": "DJ Haizel",
-    "country": "African diaspora",
-    "region": "Africa / Diaspora",
+    "country": "Africa",
+    "region": "Africa",
     "confidence": 55,
     "tags": [
-      "African diaspora"
+      "Africa"
     ],
     "description": "Haizel ist ein Berliner DJ, der Afro, Amapiano und globale Rhythmen zu energiegeladenen Sets verbindet und damit die Tanzfläche bewegt und verschiedene Dance-Communities zusammenbringt.",
-    "evidence": "Source listing uses broad African or Afro-diasporic musical markers without a single dominant national signal."
+    "evidence": "Source description uses broad Afro/Amapiano/global rhythm framing without one specific country."
   },
   {
     "id": "s-178",
@@ -3261,25 +3239,25 @@
     "id": "s-179",
     "pool": "street-fest",
     "name": "Buba Diakité",
-    "country": "African diaspora",
-    "region": "Africa / Diaspora",
+    "country": "Africa",
+    "region": "Africa",
     "confidence": 55,
     "tags": [
-      "African diaspora"
+      "Africa"
     ],
     "description": "Bouba Diakité und Downtownsteppas geben African Reggae Music mit Djembé zum Besten mit tanzbaren positiven African Vibrations, Lebensfreude und gleichzeitig Songtexte mit Tiefgang. Die Nähe und Kommunikation zum Publikum zeichnen sie bei ihren live Auftritten aus.",
-    "evidence": "Source listing uses broad African or Afro-diasporic musical markers without a single dominant national signal."
+    "evidence": "Source description uses African Reggae Music and African vibrations without one specific country."
   },
   {
     "id": "s-180",
     "pool": "street-fest",
     "name": "Mariama",
-    "country": "Fulani / West African diaspora",
-    "region": "Africa / Diaspora",
+    "country": "Fulani / West Africa",
+    "region": "Africa",
     "confidence": 84,
     "tags": [
       "Fulani",
-      "West African diaspora"
+      "West Africa"
     ],
     "description": "mari.ama ist eine Afropean-Künstlerin, Singer-Songwriterin und Kuratorin mit Fulani-Wurzeln. Sie verbindet Soul und Pop mit westafrikanischen Rhythmen und spiegelt in ihrer Musik kulturelle Vielfalt und transnationale Identität wider.",
     "evidence": "Source description explicitly mentions Fulani roots and west African rhythms."
@@ -3288,14 +3266,14 @@
     "id": "s-181",
     "pool": "street-fest",
     "name": "Kingsley Q.",
-    "country": "African diaspora",
-    "region": "Africa / Diaspora",
+    "country": "Africa",
+    "region": "Africa",
     "confidence": 55,
     "tags": [
-      "African diaspora"
+      "Africa"
     ],
     "description": "Von radioeins als einer der spannendsten Newcomer gefeiert, verbindet der Listen to Berlin - Award-Gewinner Kingsley Q Pop, R&B & Afro-Vibes zu seinem Sound, der bereits 40 Mio.+ Streams verzeichnet.",
-    "evidence": "Source listing uses broad African or Afro-diasporic musical markers without a single dominant national signal."
+    "evidence": "Source description uses Afro-Vibes without one specific country."
   },
   {
     "id": "s-182",
@@ -3328,14 +3306,14 @@
     "id": "s-184",
     "pool": "street-fest",
     "name": "AktivTribe",
-    "country": "African diaspora",
-    "region": "Africa / Diaspora",
+    "country": "Africa",
+    "region": "Africa",
     "confidence": 55,
     "tags": [
-      "African diaspora"
+      "Africa"
     ],
     "description": "Aktiv Trybe ist eine Live-Band aus Berlin, die Afrobeat mit modernen Einflüssen verbindet. Mit energiegeladenen Rhythmen, starken Grooves und Fusion-Sounds bringen sie afrikanische Musiktraditionen auf die Bühne.",
-    "evidence": "Source listing uses broad African or Afro-diasporic musical markers without a single dominant national signal."
+    "evidence": "Source description uses Afrobeat and African music traditions without one specific country."
   },
   {
     "id": "s-185",
@@ -3369,13 +3347,13 @@
     "id": "s-187",
     "pool": "street-fest",
     "name": "MaVert",
-    "country": "African diaspora",
-    "region": "Africa / Diaspora",
+    "country": "Africa",
+    "region": "Africa",
     "confidence": 55,
     "tags": [
-      "African diaspora"
+      "Africa"
     ],
     "description": "MaVert ist ein in Berlin ansässiger DJ und Tänzer, der afro-elektronische Sounds, afrikanische Rhythmen und Dance Music zu energiegeladenen Fusion-Sets verbindet – geprägt von Bewegung, Groove und einer tiefen Liebe zur Musik.",
-    "evidence": "Source listing uses broad African or Afro-diasporic musical markers without a single dominant national signal."
+    "evidence": "Source description uses afro-electronic sounds and African rhythms without one specific country."
   }
 ]
