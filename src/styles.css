@@ -152,13 +152,53 @@ h3 {
 }
 
 .sectionHeader p,
-.methodology p {
+.methodology p,
+.accordionToggle p {
   line-height: 1.65;
   color: #53443b;
 }
 
+.sampleAccordion {
+  padding: 0;
+  overflow: hidden;
+}
+
+.accordionToggle {
+  width: 100%;
+  appearance: none;
+  border: 0;
+  background: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 24px;
+  cursor: pointer;
+  text-align: left;
+  color: inherit;
+  font: inherit;
+}
+
+.accordionToggle h2 {
+  margin-bottom: 6px;
+}
+
+.accordionToggle p {
+  margin: 0;
+}
+
+.chevron {
+  flex: 0 0 auto;
+  transition: transform .2s ease;
+}
+
+.chevron.open {
+  transform: rotate(180deg);
+}
+
 .tableWrap {
   overflow: auto;
+  padding: 0 24px 24px;
 }
 
 table {
@@ -182,11 +222,24 @@ th {
   color: #806f66;
 }
 
-.pill {
+.pill,
+.tag {
   display: inline-block;
   border-radius: 999px;
   padding: 5px 10px;
   font-weight: 700;
+}
+
+.tagList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.tag {
+  background: #f1e8ff;
+  color: #5b247a;
+  font-size: 12px;
 }
 
 .pill.high {
@@ -255,6 +308,15 @@ th {
   .card {
     padding: 18px;
     border-radius: 22px;
+  }
+
+  .sampleAccordion {
+    padding: 0;
+  }
+
+  .accordionToggle,
+  .tableWrap {
+    padding: 18px;
   }
 
   .metric {
