@@ -1,1 +1,3405 @@
-[{"id":"p-001","pool":"parade","name":"Sapucaiu no Samba","country":"Brazil","region":"Latin America","confidence":94,"evidence":"Source description names Manguebeat from Recife and presents Brazilian samba/percussion carnival culture."},{"id":"p-002","pool":"parade","name":"Org. por Bolivia","country":"Bolivia","region":"Latin America","confidence":96,"evidence":"Group name explicitly references Bolivia and the description presents Suri Sikuri Andean folklore."},{"id":"p-003","pool":"parade","name":"AdlerA e.V.","country":"Ukraine","region":"Europe","confidence":96,"evidence":"Description identifies the Ukrainian-German center and uses Ukrainian cultural symbols and colors."},{"id":"p-004","pool":"parade","name":"Kashiwa-ren","country":"Japan","region":"East Asia","confidence":95,"evidence":"Description presents a Mikoshi, a portable shrine carried in many local Japanese festivals."},{"id":"p-005","pool":"parade","name":"Calaca e.V.","country":"Latin America / diaspora","region":"Latin America / Diaspora","confidence":58,"evidence":"Calaca has a Spanish-language/Latin American naming signal, but the description is primarily political and artistic rather than country-specific."},{"id":"p-006","pool":"parade","name":"BRAZUKAIADA und Furiosa","country":"Brazil","region":"Latin America","confidence":92,"evidence":"Description references samba, Furiosa, Capoeira and Portuguese phrasing, all strong Brazilian cultural signals."},{"id":"p-007","pool":"parade","name":"SunKidz 44 – Wir sind Neukölln!!!","country":"Germany / Berlin","region":"Europe","confidence":72,"evidence":"Description locates the group in Neukölln and the Musikschule Paul Hindemith network; no external national culture is foregrounded."},{"id":"p-008","pool":"parade","name":"Colores de Quisqueya","country":"Dominican Republic","region":"Caribbean","confidence":98,"evidence":"Description explicitly says the group represents Dominican culture and mentions Merengue, Bachata and the Dominican Republic."},{"id":"p-010","pool":"parade","name":"100% Tempelhofer Feld","country":"Germany / Berlin","region":"Europe","confidence":76,"evidence":"Description focuses on Tempelhofer Feld, Berlin housing politics and local activism."},{"id":"p-011","pool":"parade","name":"Booty Therapy","country":"African diaspora / Afro-urban culture","region":"Africa / Diaspora","confidence":62,"evidence":"Description references afro-urban dances and FLINTA* collective practice without naming one country."},{"id":"p-012","pool":"parade","name":"Anclas e.V. / Latido Verde","country":"Latin America / diaspora","region":"Latin America / Diaspora","confidence":60,"evidence":"Spanish-language name and movement group suggest Latin American diaspora context, but the source description focuses on ocean protection rather than a country."},{"id":"p-013","pool":"parade","name":"Kalibani","country":"Syria / Argentina / Latin America","region":"Middle East / Latin America","confidence":64,"evidence":"Description explicitly mentions Syrian ethnic groups and also Argentine tango/Latino Murga elements, so the signal is mixed."},{"id":"p-014","pool":"parade","name":"Verein für Suurbier Kultur und Handwerk e.V.","country":"Germany / Berlin","region":"Europe","confidence":70,"evidence":"Description frames a Berlin club and cultural-handwork association; no specific external nationality is named."},{"id":"p-015","pool":"parade","name":"Amistad Salsera","country":"Cuba / Caribbean / Latin America","region":"Latin America / Caribbean","confidence":66,"evidence":"Description combines Salsa and Hip-Hop; salsa is transnational with strong Caribbean and Latin American roots."},{"id":"p-016","pool":"parade","name":"Koreanischer Verein Berlin e.V. \"Arirang Korea\"","country":"South Korea / Korea","region":"East Asia","confidence":98,"evidence":"Name and description explicitly present Korean traditions, Korean culture and Arirang Korea."},{"id":"p-017","pool":"parade","name":"Belarus tanzt mit dem Drachen","country":"Belarus","region":"Europe","confidence":98,"evidence":"Description explicitly names Belarusian folklore and an independent Belarusian initiative group."},{"id":"p-018","pool":"parade","name":"KUD Ljiljani e.V.","country":"Bosnia / Balkans","region":"Europe","confidence":88,"evidence":"Description presents Bosniak culture and traditions from Bosnia, Kosovo, Sandžak and ex-Yugoslavia."},{"id":"p-019","pool":"parade","name":"Verein der Tibeter in Deutschland e.V.","country":"Tibet / Tibetan diaspora","region":"Asia / Diaspora","confidence":98,"evidence":"Name and description explicitly focus on Tibetan culture, language and identity in Germany."},{"id":"p-020","pool":"parade","name":"Minab School","country":"Middle East","region":"Middle East","confidence":58,"evidence":"Description says it presents mourning cultures of the Middle East but does not name a specific country."},{"id":"p-021","pool":"parade","name":"Kuker Berlin","country":"Bulgaria","region":"Europe","confidence":98,"evidence":"Description explicitly says Bulgaria is represented with Bulgarian folklore and authentic Kukeri costumes."},{"id":"p-022","pool":"parade","name":"Exylium","country":"Germany / Berlin / diaspora","region":"Europe / Diaspora","confidence":54,"evidence":"Description references Rostock-Lichtenhagen, Berlin squatting history and marginalized voices rather than a single nationality."},{"id":"p-023","pool":"parade","name":"Saya interkultureller Tanz und Musik","country":"Turkey","region":"Middle East / Europe","confidence":95,"evidence":"Description explicitly identifies the group as Turkish and references Saz and Turkish music."},{"id":"p-024","pool":"parade","name":"Juxirkus Schöneberg","country":"Germany / Berlin","region":"Europe","confidence":78,"evidence":"Description identifies the group as Berlin-Schöneberg's long-running children and youth circus."},{"id":"p-026","pool":"parade","name":"Laura la Risa Niñas y Flores","country":"Spain","region":"Europe","confidence":88,"evidence":"Description centers Flamenco, traditional costumes and Spanish-language naming."},{"id":"p-027","pool":"parade","name":"#WAS BEWEGT DICH","country":"Germany / Berlin","region":"Europe","confidence":68,"evidence":"Description references Berlin performing arts schools and a broad solidarity performance, with no external country signal."},{"id":"p-028","pool":"parade","name":"Grupo Folclórico Impulso de Berlim","country":"Portugal","region":"Europe","confidence":98,"evidence":"Description explicitly presents northern Portuguese dance, music, costumes and the Portuguese flag colors."},{"id":"p-029","pool":"parade","name":"ABENTEUER TANZ","country":"Peru / multicultural","region":"Latin America / Global","confidence":72,"evidence":"Description says the group is led by artist Lilia Gomez from Peru while presenting a broader multicultural peace theme."},{"id":"p-030","pool":"parade","name":"Hello China!","country":"China","region":"East Asia","confidence":98,"evidence":"Description explicitly presents Chinese culture, Hanfu clothing, dragon and lion dances, and pandas."},{"id":"p-031","pool":"parade","name":"Ecuador Multicolor","country":"Ecuador","region":"Latin America","confidence":98,"evidence":"Name and description explicitly refer to celebrating in an Ecuadorian way with Andean popular festival traditions."},{"id":"p-032","pool":"parade","name":"Berlin Indiawaale","country":"India","region":"South Asia","confidence":96,"evidence":"Description explicitly celebrates connection to India through music, dance, fashion and movement."},{"id":"p-033","pool":"parade","name":"Ballet Folclorico Perú Berlin","country":"Peru","region":"Latin America","confidence":98,"evidence":"Name and description explicitly present Peruvian culture, identity and folklore."},{"id":"p-034","pool":"parade","name":"Bengalisches Kulturforum","country":"Bangladesh / India / Bengali culture","region":"South Asia","confidence":86,"evidence":"Description presents Mangal-Shobhajatra as a Bengali New Year procession in Bangladesh and India."},{"id":"p-035","pool":"parade","name":"Bloco Explosão & Tanzteam Step by Step e.V.","country":"Brazil","region":"Latin America","confidence":94,"evidence":"Description references Bloco Explosão and afro-Brazilian rhythms."},{"id":"p-036","pool":"parade","name":"Maracatu-Treffen","country":"Brazil","region":"Latin America","confidence":90,"evidence":"Maracatu is an Afro-Brazilian performance tradition, and the group name is directly tied to it."},{"id":"p-037","pool":"parade","name":"Ramanbaug Yuva Manch Germany e.V.","country":"India / Maharashtra","region":"South Asia","confidence":96,"evidence":"Description presents Indian folklore and a Dhol-Tasha procession from Maharashtra."},{"id":"p-038","pool":"parade","name":"Dança de Coraçâo Kizomba Semba de Angola","country":"Angola","region":"Africa","confidence":98,"evidence":"Name and description explicitly present Kizomba and Semba de Angola and Angolan culture."},{"id":"p-039","pool":"parade","name":"Bolivien Folk","country":"Bolivia / Guaraní","region":"Latin America","confidence":92,"evidence":"Name references Bolivia and the description presents Guaraní culture and Arete Guasu."},{"id":"p-040","pool":"parade","name":"MiCali e.V.","country":"Colombia","region":"Latin America","confidence":96,"evidence":"Description explicitly presents Salsa Caleña from Cali, Colombia and an Afro-Colombian freedom fighter."},{"id":"p-041","pool":"parade","name":"12Volt Zuckersession Jam Culture ArtQueen","country":"Global / multicultural","region":"Global","confidence":50,"evidence":"Description lists participants and influences from Sweden, Chile, Venezuela, Peru, Algeria, Italy, Ukraine and Berlin, so no single country dominates."},{"id":"p-042","pool":"parade","name":"Berlin Kannada Balaga e.V.","country":"India / Karnataka","region":"South Asia","confidence":98,"evidence":"Description explicitly says the group celebrates Karnataka and Kannada community traditions."},{"id":"p-043","pool":"parade","name":"Canoafolk","country":"Colombia / Afro-Colombian culture","region":"Latin America / Africa diaspora","confidence":96,"evidence":"Description presents Bullerengue as an Afro-Colombian dance from Colombia's Caribbean coast."},{"id":"p-044","pool":"parade","name":"Flor de Fuego Izalco","country":"El Salvador","region":"Latin America","confidence":98,"evidence":"Description explicitly calls it a dance and folklore group from El Salvador and references Panchimalco."},{"id":"p-045","pool":"parade","name":"Dil Se Pakistan","country":"Pakistan","region":"South Asia","confidence":98,"evidence":"Name and description explicitly present Pakistan's cultural heritage and regional folk dances."},{"id":"p-046","pool":"parade","name":"Ríos Profundos","country":"South America","region":"Latin America","confidence":58,"evidence":"Description states a fictional South American country and political symbolism, without naming a real nationality."},{"id":"p-047","pool":"parade","name":"Berlin Burly Tribe","country":"Germany / Berlin","region":"Europe","confidence":62,"evidence":"Description identifies a Berlin burlesque collective; the cultural signal is performance genre rather than nationality."},{"id":"p-048","pool":"parade","name":"De Berlin Son","country":"Spain / Galicia","region":"Europe","confidence":98,"evidence":"Description explicitly says the group is from Galicia in northern Spain and presents Galician instruments and dances."},{"id":"p-049","pool":"parade","name":"Salseras/os United","country":"Cuba / Caribbean","region":"Caribbean / Latin America","confidence":74,"evidence":"Description says Son and Salsa Cubana merge with Berlin 1920s styling."},{"id":"p-050","pool":"parade","name":"Urso KiTi Schubsen","country":"Brazil / Pernambuco","region":"Latin America","confidence":84,"evidence":"The Urso/CorUrsão naming and carnival rhythm signal points to Brazilian bear-carnival traditions, especially Pernambuco, though the source text is poetic."},{"id":"p-051","pool":"parade","name":"Nepali Heritage Troupe","country":"Nepal","region":"South Asia","confidence":98,"evidence":"Name and description explicitly present Nepal's traditions and cultural heritage."},{"id":"p-052","pool":"parade","name":"Grupo Chile","country":"Chile","region":"Latin America","confidence":98,"evidence":"Description explicitly names Chile and presents the Chilean national dance La Cueca."},{"id":"p-053","pool":"parade","name":"EDO COMMUNITY BERLIN e.V.","country":"Nigeria / Edo","region":"Africa","confidence":98,"evidence":"Description explicitly presents the culture, tradition and history of the Edo people from Nigeria."},{"id":"p-055","pool":"parade","name":"ESAN AKOAMHEN PROGRESSIVE UNION e.V.","country":"Nigeria / Esan","region":"Africa","confidence":98,"evidence":"Description explicitly identifies Esan dance and the Esan people in Nigeria."},{"id":"p-056","pool":"parade","name":"Colombiacarnaval","country":"Colombia","region":"Latin America","confidence":98,"evidence":"Name and description explicitly present Colombian literature, Macondo symbolism and Colombian cultural identity."},{"id":"p-057","pool":"parade","name":"Kangkiling e.V.","country":"Gambia / African diaspora","region":"Africa","confidence":94,"evidence":"Description says the organization celebrates Gambian and African heritage and presented Gambia at Karneval der Kulturen."},{"id":"p-058","pool":"parade","name":"Armenische Jugend Berlin & Brandenburg (AJBB)","country":"Armenia","region":"Caucasus / West Asia","confidence":98,"evidence":"Name and description explicitly present Armenian identity, Ararat and Armenian youth culture."},{"id":"p-060","pool":"parade","name":"GRUPO PERU","country":"Peru","region":"Latin America","confidence":98,"evidence":"Description explicitly presents Marinera Norteña as Peru's national dance."},{"id":"p-061","pool":"parade","name":"Egbe Omo Oduduwa e.V. Berlin","country":"Nigeria / Yoruba","region":"Africa","confidence":96,"evidence":"Description explicitly references the Yorùbá community, language and cultural heritage."},{"id":"p-062","pool":"parade","name":"StreetUniverCity Berlin e.V.","country":"Germany / Berlin","region":"Europe","confidence":70,"evidence":"Description presents a Berlin street performance and Live-Rap intervention around violence and exclusion."},{"id":"p-063","pool":"parade","name":"Knicki, Kröte, Karuna: Homeless Tatütataa!","country":"Germany / Berlin","region":"Europe","confidence":74,"evidence":"Description names Karuna.family and Berlin homelessness/social work context."},{"id":"p-064","pool":"parade","name":"Freak de l´Afrique","country":"African diaspora","region":"Africa / Diaspora","confidence":82,"evidence":"Description explicitly presents modern African sound, Afro Fusion and African diaspora culture in Berlin."},{"id":"p-065","pool":"parade","name":"Ghana Carnival 4 BLACK STARS","country":"Ghana","region":"Africa","confidence":98,"evidence":"Name and description explicitly present Ghana, Black Stars, Hi-Life music and Ghanaian traditional smocks."},{"id":"p-066","pool":"parade","name":"Zur Senke e.V.","country":"Germany / Berlin","region":"Europe","confidence":68,"evidence":"Description presents a Berlin arts/culture association and local club/soundsystem culture."},{"id":"p-067","pool":"parade","name":"Yaam","country":"African diaspora","region":"Africa / Diaspora","confidence":86,"evidence":"Description explicitly says YAAM stands for afrodiasporic culture in Berlin, with Djembe, street culture and Capoeira references."},{"id":"p-068","pool":"parade","name":"NIGERIAN MOVEMENT x AFRO HAUS","country":"Nigeria / African diaspora","region":"Africa / Diaspora","confidence":90,"evidence":"Name and description reference Nigerian Afrobeat artist Fela Kuti and modern African music such as Afrobeats, Amapiano and Afro House."},{"id":"p-069","pool":"parade","name":"Caribbean Colors","country":"Caribbean region","region":"Caribbean","confidence":90,"evidence":"Name and description explicitly present Caribbean carnival energy, costumes, music and dance."},{"id":"p-070","pool":"parade","name":"Reggaeinberlin.de","country":"Jamaica","region":"Caribbean","confidence":92,"evidence":"Description states reggae culture spread from Jamaica and uses Jamaica Strong / One Love references."},{"id":"s-001","pool":"street-fest","name":"AFRO HAUS Music Corner","country":"African diaspora","region":"Africa / Diaspora","confidence":72,"evidence":"Music Corner description lists Afrobeats, Amapiano, High-life, Soul and Hip-Hop with community-focused Afro-diasporic programming."},{"id":"s-002","pool":"street-fest","name":"Tropical Disco","country":"Jamaica / UK soundsystem culture","region":"Caribbean / Europe","confidence":76,"evidence":"Description explicitly references Jamaican and English sound-system culture, reggae and world music."},{"id":"s-003","pool":"street-fest","name":"Sinti Corner","country":"Sinti / Roma culture","region":"Europe / Diaspora","confidence":70,"evidence":"Stage name and Rosenbergs framing identify a Sinti cultural corner."},{"id":"s-004","pool":"street-fest","name":"Rogerio","country":"Global / multicultural","region":"Global","confidence":50,"evidence":"Description invites musicians from all over the world to share their cultures, without a single country signal."},{"id":"s-005","pool":"street-fest","name":"Heilig-Kreuz-Kirche programme","country":"Intercultural / interfaith","region":"Global","confidence":50,"evidence":"Description combines music, talks, readings, spiritual impulses and cultural contributions from different communities."},{"id":"s-006","pool":"street-fest","name":"Dança de Coraçâo","country":"Angola","region":"Africa","confidence":98,"evidence":"Description explicitly represents the Angolan couple dance Kizomba Semba de Angola."},{"id":"s-007","pool":"street-fest","name":"ORWOHaus","country":"Germany / Berlin","region":"Europe","confidence":62,"evidence":"Description presents a Berlin self-managed rehearsal-house collective and diverse local music infrastructure."},{"id":"s-008","pool":"street-fest","name":"Perry Stage","country":"Jamaica / reggae diaspora","region":"Caribbean / Diaspora","confidence":82,"evidence":"Description presents Berlin's reggae DJ scene, rocksteady, dancehall and Jamaican musical cosmos."},{"id":"s-009","pool":"street-fest","name":"ONMYMIND","country":"African / Caribbean / Latin American diaspora","region":"Africa / Caribbean / Latin America","confidence":64,"evidence":"Description explicitly cites African, Caribbean and Latin American music scenes including Afrohouse, Amapiano, Baile Funk, Bouyon, Dancehall and Soca."},{"id":"s-010","pool":"street-fest","name":"Latin Hell","country":"Latin America","region":"Latin America","confidence":84,"evidence":"Description says the Music Corner represents the musical and cultural diversity of all Latin America."},{"id":"s-011","pool":"street-fest","name":"Aroeiras","country":"Brazil","region":"Latin America","confidence":92,"evidence":"Programme lists Forró and Samba de Coco and describes Brazilian Forró and Samba de Coco."},{"id":"s-012","pool":"street-fest","name":"Foro in the City","country":"Brazil","region":"Latin America","confidence":88,"evidence":"Programme labels the act as Brazilian dance music."},{"id":"s-013","pool":"street-fest","name":"MA-Trio","country":"Japan","region":"East Asia","confidence":78,"evidence":"Programme description references traditional Honkyoku, a shakuhachi/Japanese Zen Buddhist music tradition."},{"id":"s-014","pool":"street-fest","name":"The Balkonians","country":"Balkans","region":"Europe","confidence":88,"evidence":"Programme labels the act Acoustic Balkan Fusion."},{"id":"s-015","pool":"street-fest","name":"Tants in Gartn Eydn","country":"Jewish diaspora / Eastern Europe","region":"Europe / Diaspora","confidence":82,"evidence":"Programme labels the act Klezmerschwof, pointing to klezmer and Jewish diasporic music."},{"id":"s-016","pool":"street-fest","name":"Sufi-Zentrum Rabbaniyya","country":"Sufi / Islamic tradition","region":"Middle East / Global","confidence":62,"evidence":"Programme lists Tanz & Poesie der Derwische by Sufi-Zentrum Rabbaniyya."},{"id":"s-017","pool":"street-fest","name":"Klänge und Tanz der Alewiten","country":"Alevi culture / Turkey","region":"Middle East / Europe","confidence":72,"evidence":"Programme explicitly references Alevi sounds and dance."},{"id":"s-018","pool":"street-fest","name":"Gabo Naas","country":"Latin America","region":"Latin America","confidence":82,"evidence":"Description presents a musical journey through Latin America including Zamba, Huayno, Candombe, Festejo and Son."},{"id":"s-019","pool":"street-fest","name":"Cayeye","country":"Latin America / salsa","region":"Latin America / Caribbean","confidence":68,"evidence":"Programme labels Salsa and describes a Salsa Brava band with Latin American energy."},{"id":"s-020","pool":"street-fest","name":"Laura la Risa Niñas y Flores","country":"Spain","region":"Europe","confidence":88,"evidence":"Description identifies Laura la Risa as a Flamenco dancer and pioneer of children's flamenco in Berlin."},{"id":"s-021","pool":"street-fest","name":"Palo Santo","country":"Colombia / Afro-Colombian culture","region":"Latin America / Africa diaspora","confidence":94,"evidence":"Programme lists Bullerengue, Afro-Colombian and Cumbia, and describes Colombian coastal spirit."},{"id":"s-022","pool":"street-fest","name":"Antajayu","country":"Chile / Guatemala / Andes","region":"Latin America","confidence":82,"evidence":"Description says the act has roots in Chile and Guatemala and connects traditional Andean sounds with other genres."},{"id":"s-023","pool":"street-fest","name":"Feu Marinho","country":"Brazil","region":"Latin America","confidence":90,"evidence":"Programme labels Brazilian jazz and description says Feu Marinho Quintett (BR) connects Brazilian music, jazz and eastern influences."},{"id":"s-024","pool":"street-fest","name":"Kumbia Ambassadors","country":"Chile / Colombia / Latin America","region":"Latin America","confidence":78,"evidence":"Description says the group was founded by Chilean musicians and plays Cumbia, a Colombian-rooted Latin American genre."},{"id":"s-025","pool":"street-fest","name":"LA MEKANICA","country":"Cuba","region":"Caribbean","confidence":96,"evidence":"Description explicitly says LA MEKANICA is a Cuban Timba and Salsa band with musicians from Cuba."},{"id":"s-026","pool":"street-fest","name":"Ateze","country":"Mexico / Latinx diaspora","region":"Latin America / Diaspora","confidence":82,"evidence":"Description says Ateze was born in Mexico, grew up in Berlin and connects Latinx roots with Berlin."},{"id":"s-027","pool":"street-fest","name":"La Guagua Music","country":"Latin America / tango","region":"Latin America","confidence":66,"evidence":"Programme labels Tango and Latin American songs."},{"id":"s-028","pool":"street-fest","name":"A Panda do Sol","country":"Brazil / Caribbean","region":"Latin America / Caribbean","confidence":70,"evidence":"Description says the Berlin collective combines samba from Brazil with Caribbean grooves."},{"id":"s-029","pool":"street-fest","name":"Pasaje abierto","country":"Cuba / Caribbean","region":"Caribbean / Latin America","confidence":86,"evidence":"Description says hot rhythms from Cuba meet Berlin energy and lists Salsa, Son and Latin Jazz."},{"id":"s-030","pool":"street-fest","name":"Sonic Interventions","country":"Diaspora / trans-cultural Berlin","region":"Global / Diaspora","confidence":60,"evidence":"Description calls the group a diaspora-futurist ensemble from Berlin's transcultural jazz scene."},{"id":"s-031","pool":"street-fest","name":"Cuatro Piraguas","country":"Peru / Colombia / Venezuela","region":"Latin America","confidence":78,"evidence":"Description references Afro-Peruvian rhythms and folklore from Colombia and Venezuela."},{"id":"s-032","pool":"street-fest","name":"Alafia con Iré","country":"Cuba / Afro-Cuban diaspora","region":"Caribbean / Africa diaspora","confidence":94,"evidence":"Description explicitly identifies a Cuban music group presenting Afro-Cuban music and Cuban rumba."},{"id":"s-033","pool":"street-fest","name":"Canto Diáspora","country":"Latin America / diaspora","region":"Latin America / Diaspora","confidence":78,"evidence":"Description identifies a Berlin women's vocal ensemble performing Latin American folklore."},{"id":"s-034","pool":"street-fest","name":"Cherry Bandora","country":"Greece / Eastern Mediterranean","region":"Europe / Mediterranean","confidence":72,"evidence":"Programme labels Greek Bouzouki Surf and Psychedelic Oriental Groove."},{"id":"s-035","pool":"street-fest","name":"Baris Manco Tribute Band","country":"Turkey / Anatolia","region":"Middle East / Europe","confidence":84,"evidence":"Tribute to Barış Manço, a major Turkish rock musician, and Turkish/Anatolian stage context."},{"id":"s-036","pool":"street-fest","name":"Derdibol","country":"Turkey / Anatolia","region":"Middle East / Europe","confidence":68,"evidence":"Appears in the Turkish/Anatolian-oriented Rogerio block and is described as psychedelic-retro-pop."},{"id":"s-037","pool":"street-fest","name":"Djane Ipek","country":"Turkey / Anatolia","region":"Middle East / Europe","confidence":84,"evidence":"Programme labels the act Turkish Pop."},{"id":"s-038","pool":"street-fest","name":"Sevtap & Engin","country":"Turkey","region":"Middle East / Europe","confidence":92,"evidence":"Description says they interpret well-known Turkish songs."},{"id":"s-039","pool":"street-fest","name":"Ajvar","country":"Balkans","region":"Europe","confidence":82,"evidence":"Programme labels Balkan music and description says the group explores Balkan repertoire and influences."},{"id":"s-040","pool":"street-fest","name":"Kahraman Kilinc","country":"Turkey","region":"Middle East / Europe","confidence":88,"evidence":"Programme labels Turkish indie pop/rock."},{"id":"s-041","pool":"street-fest","name":"Gleis 11","country":"Turkey / Anatolia","region":"Middle East / Europe","confidence":78,"evidence":"Programme labels Anatolian psychedelic rock."},{"id":"s-042","pool":"street-fest","name":"Oku & Baba Shango","country":"African diaspora / Nigeria","region":"Africa / Diaspora","confidence":74,"evidence":"Programme labels Afrofunk and Afrobeat, with Shango/Yoruba cultural naming signal."},{"id":"s-043","pool":"street-fest","name":"Balkanova","country":"Balkans","region":"Europe","confidence":84,"evidence":"Programme labels Balkanfolk and World Jazz."},{"id":"s-044","pool":"street-fest","name":"Ares Gratal Duo","country":"Catalonia / Sephardic diaspora","region":"Europe / Mediterranean / Diaspora","confidence":76,"evidence":"Description identifies a Catalan singer from Lleida and Sephardic influences."},{"id":"s-045","pool":"street-fest","name":"Parka","country":"Turkey / Anatolia","region":"Middle East / Europe","confidence":78,"evidence":"Programme labels Anatolian folk rock."},{"id":"s-046","pool":"street-fest","name":"Neon Nazar","country":"Turkey / Anatolia","region":"Middle East / Europe","confidence":78,"evidence":"Programme labels Anatolian psychedelic."},{"id":"s-047","pool":"street-fest","name":"Ödül & Funk Alaturka","country":"Turkey / Anatolia","region":"Middle East / Europe","confidence":76,"evidence":"Name and programme label Funk Pop Orient / Alaturka indicate Turkish/Ottoman musical framing."},{"id":"s-048","pool":"street-fest","name":"Bloco Explosao","country":"Brazil","region":"Latin America","confidence":92,"evidence":"Programme lists funk, samba and reggae and the Bloco naming strongly signals Brazilian carnival percussion."},{"id":"s-049","pool":"street-fest","name":"River Rats","country":"France","region":"Europe","confidence":78,"evidence":"Programme labels French chanson and swing."},{"id":"s-050","pool":"street-fest","name":"Producciones Abismales","country":"Latin America / Spanish-language culture","region":"Latin America / Europe","confidence":52,"evidence":"Spanish-language company name; description is primarily ecological street theatre without a specific country."},{"id":"s-051","pool":"street-fest","name":"Pirates of Percussion","country":"Brazil / samba","region":"Latin America","confidence":76,"evidence":"Programme labels the act Samba-Trommelgruppe."},{"id":"s-052","pool":"street-fest","name":"Sapucaio no Samba","country":"Brazil","region":"Latin America","confidence":92,"evidence":"Programme labels Carnaval de Rua and describes samba, costumes, dance and drumming."},{"id":"s-053","pool":"street-fest","name":"Candumbe","country":"Uruguay / Chile / Afro-diaspora","region":"Latin America / Africa diaspora","confidence":92,"evidence":"Description explicitly combines Afro-Uruguayan Candombe and Afro-Chilean Tumbe."},{"id":"s-054","pool":"street-fest","name":"Coruja + Satter Bass","country":"Brazil","region":"Latin America","confidence":90,"evidence":"Programme labels Afro-Brazilian percussion and description references Brazilian grooves."},{"id":"s-055","pool":"street-fest","name":"Bateria de Samba Verde e Branco","country":"Brazil","region":"Latin America","confidence":96,"evidence":"Description explicitly presents Brazilian samba-school tradition and carnival culture."},{"id":"s-056","pool":"street-fest","name":"Marafoxé Nação Nagô","country":"Brazil / Pernambuco","region":"Latin America / Africa diaspora","confidence":96,"evidence":"Programme labels Maracatu from Recife-Pernambuco and description says the group comes from northeast Brazil."},{"id":"s-057","pool":"street-fest","name":"Castellers de Berlín","country":"Catalonia","region":"Europe","confidence":92,"evidence":"Programme labels Catalan human towers and description references UNESCO-recognized Castellers tradition."},{"id":"s-058","pool":"street-fest","name":"Abadá-Capoeira-Schule-Berlin","country":"Brazil","region":"Latin America","confidence":96,"evidence":"Description explicitly explains Capoeira as a martial art from Brazil."},{"id":"s-059","pool":"street-fest","name":"Samba Reggae Berlin","country":"Brazil / Bahia","region":"Latin America","confidence":90,"evidence":"Description says the group plays the groove from Bahia and is a Terra Brasilis project."},{"id":"s-060","pool":"street-fest","name":"Cortejo Baiano","country":"Brazil / Bahia","region":"Latin America / Africa diaspora","confidence":94,"evidence":"Description says Cortejo Baiano plays rhythms of Blocos Afro from Salvador da Bahia."},{"id":"s-061","pool":"street-fest","name":"Qi Gong und Viet Vo Dao Kung Fu Tiger","country":"China / Vietnam","region":"East Asia / Southeast Asia","confidence":78,"evidence":"Programme references Qi Gong and Viet Vo Dao Kung Fu."},{"id":"s-062","pool":"street-fest","name":"Qi Gong und Viet Vo Dao Kung Fu HAI TAN","country":"China / Vietnam","region":"East Asia / Southeast Asia","confidence":78,"evidence":"Programme references Qi Gong and Viet Vo Dao Kung Fu."},{"id":"s-063","pool":"street-fest","name":"Feierabend Cumbia","country":"Colombia / Latin America","region":"Latin America","confidence":72,"evidence":"Programme labels the act Cumbia, a Colombian-origin Latin American genre."},{"id":"s-064","pool":"street-fest","name":"Grupo Chile Berlin e.V.","country":"Chile","region":"Latin America","confidence":96,"evidence":"Description explicitly says Grupo Chile shows Chile's diversity through dance and Cueca."},{"id":"s-065","pool":"street-fest","name":"i BiRiCHiNi","country":"Italy","region":"Europe","confidence":92,"evidence":"Programme labels Italian children's choir and description references Italian music."},{"id":"s-066","pool":"street-fest","name":"Wayra Puka","country":"Andean South America","region":"Latin America","confidence":82,"evidence":"Description says Wayra Puka travels musically through the Andean region with Andean folklore."},{"id":"s-067","pool":"street-fest","name":"Daiana Lou","country":"Italy / Berlin","region":"Europe","confidence":82,"evidence":"Description calls the duo Italian-Berlin and says it combines Berlin street atmosphere with Italian soul."},{"id":"s-068","pool":"street-fest","name":"Puto Production","country":"Chile","region":"Latin America","confidence":92,"evidence":"Description identifies the act as a Berlin-based drumming sensation from Chile."},{"id":"s-069","pool":"street-fest","name":"Mukunda Cruz","country":"Argentina / Andes","region":"Latin America","confidence":88,"evidence":"Description identifies the project of Argentine musician Martin Cruz and references Andean and Argentine folklore."},{"id":"s-070","pool":"street-fest","name":"The Shallaras","country":"Australia / Italy","region":"Oceania / Europe","confidence":82,"evidence":"Description identifies the duo as Angela Cory from Australia and Mauro Pandolfino from Italy."},{"id":"s-071","pool":"street-fest","name":"DJ Marla Roots","country":"Brazil","region":"Latin America","confidence":94,"evidence":"Description says DJ Marla Roots comes from Brazil and mixes Brazilian styles including Rio Funk and Funk Carioca."},{"id":"s-072","pool":"street-fest","name":"India Waale","country":"India","region":"South Asia","confidence":96,"evidence":"Programme labels Indian folk dances and Bollywood dance; description presents cultures and traditions of India."},{"id":"s-073","pool":"street-fest","name":"Kira / KIRASOL","country":"Caribbean diaspora / Berlin","region":"Caribbean / Diaspora","confidence":70,"evidence":"Description says KIRASOL is a Berlin pop singer with Caribbean roots."},{"id":"s-074","pool":"street-fest","name":"Havanna Berlin","country":"Cuba","region":"Caribbean","confidence":92,"evidence":"Description says Havana Berlin Express connects Cuban Salsa, Son and Rumba with European jazz."},{"id":"s-075","pool":"street-fest","name":"DENIM","country":"African diaspora / Berlin","region":"Africa / Diaspora","confidence":72,"evidence":"Description presents Afrofuturism, realism and feminism in a Berlin band context."},{"id":"s-076","pool":"street-fest","name":"DJ Emo","country":"Africa / diaspora","region":"Africa / Diaspora","confidence":72,"evidence":"Programme lists Afrobeat, Highlife, Rhumba, Soukous and Makossa."},{"id":"s-077","pool":"street-fest","name":"New Yulu","country":"Mesoamerica / Central America","region":"Latin America","confidence":88,"evidence":"Description says the group connects traditional songs of Central America with modern and indigenous instruments and mesoamerican musical tradition."},{"id":"s-078","pool":"street-fest","name":"Tiliboo","country":"Senegal / Mandinka culture","region":"Africa","confidence":96,"evidence":"Description says Omar Diop comes from Casamance in southern Senegal and brings west African Mandinka culture to Berlin."},{"id":"s-079","pool":"street-fest","name":"Ruffin Nikon Loola & Band","country":"DR Congo / Congo","region":"Africa","confidence":94,"evidence":"Description references musical tradition of Kinshasa and authentic Congolese music in Lingala."},{"id":"s-080","pool":"street-fest","name":"Toshin","country":"Nigeria / Ireland","region":"Africa / Europe","confidence":86,"evidence":"Description identifies Toshín as a Nigerian-Irish influenced artist performing Soul, R&B and Afro-pop."},{"id":"s-081","pool":"street-fest","name":"Buba Diakité","country":"Africa / reggae diaspora","region":"Africa / Diaspora","confidence":66,"evidence":"Programme labels African Reggae and describes Djembé and African vibrations without naming a country."},{"id":"s-082","pool":"street-fest","name":"Mariama","country":"Fulani / West African diaspora","region":"Africa / Diaspora","confidence":84,"evidence":"Description calls mari.ama an Afropean artist with Fulani roots and west African rhythms."},{"id":"s-083","pool":"street-fest","name":"DammyDaas","country":"Nigeria","region":"Africa","confidence":94,"evidence":"Description says DammyDaas is Nigeria-born and Berlin-based, combining Soul, R&B and Afrobeats."},{"id":"s-084","pool":"street-fest","name":"In Living Color","country":"POC / diaspora collective","region":"Global / Diaspora","confidence":58,"evidence":"Description calls it a collective of POC artists creating space for new faces in the music scene."},{"id":"s-085","pool":"street-fest","name":"AktivTribe","country":"Africa / Afrobeat","region":"Africa / Diaspora","confidence":70,"evidence":"Description says the band connects Afrobeat with modern influences and African musical traditions."},{"id":"s-086","pool":"street-fest","name":"Mani Simon","country":"Zambia / United States","region":"Africa / North America","confidence":88,"evidence":"Description says Mani Simon was born in Zambia and raised in Pittsburgh."},{"id":"s-087","pool":"street-fest","name":"MaVert","country":"Africa / diaspora","region":"Africa / Diaspora","confidence":66,"evidence":"Description says MaVert plays afro-electronic sounds, African rhythms and dance music."}]
+[
+  {
+    "id": "p-001",
+    "pool": "parade",
+    "name": "Sapucaiu no Samba",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 94,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "Mit „Manguebeat – Von den Mangroven in die Welt“ lädt Sapucaiu no Samba ein, eine kulturelle Widerstandsbewegung zu feiern, die in den 1990er-Jahren in den Mangroven von Recife entstand – laut, kreativ und gegen soziale Ungleichheit. Wir bringen diesen rebellischen Puls nach Berlin: Unsere Bateria, Tänzerinnen, Musikerinnen und Stelzenläufer*innen verwandeln sich in einen Mangrovenwald mit Schlamm, Krabben, Fröschen und einer Satellitenschüssel als Symbol globaler Verbindung.",
+    "evidence": "Source description names Manguebeat from Recife and presents Brazilian samba/percussion carnival culture."
+  },
+  {
+    "id": "p-002",
+    "pool": "parade",
+    "name": "Org. por Bolivia",
+    "country": "Bolivia",
+    "region": "Latin America",
+    "confidence": 96,
+    "tags": [
+      "Bolivia"
+    ],
+    "description": "Der Tanz des Andenstraußes ( Suri Sikuri ) ist eine folkloristische Darbietung mit farbenfrohen Kostümen und einem einzigartigen Stil, inspiriert von diesem besonderen Vogel. Dabei werden elegante mit schnellen und kraftvollen Bewegungen verbunden. Gleichzeitig vermitteln wir eine wichtige Botschaft: Der Andenstrauß ist durch menschliche Einflüsse vom Aussterben bedroht. Unser Ziel ist es, Bewusstsein zu schaffen, seine Schönheit zu zeigen und zukünftige Generationen dazu zu ermutigen, ihn zu schützen und zu bewahren.",
+    "evidence": "Group name explicitly references Bolivia and the description presents Suri Sikuri Andean folklore."
+  },
+  {
+    "id": "p-003",
+    "pool": "parade",
+    "name": "AdlerA e.V.",
+    "country": "Ukraine",
+    "region": "Europe",
+    "confidence": 96,
+    "tags": [
+      "Ukraine"
+    ],
+    "description": "Das Ukrainisch-Deutsche Zentrum AdlerA trägt die Idee des Kinderschutzes. Kinder sind die Blumen der Menschheit, die von Familie und Gesellschaft geschützt werden sollten. Störche symbolisieren Heim, Fürsorge und Rückkehr zu den Wurzeln. Die Farben zeigen die ukrainischen Weizenfelder, die Kornkammer Europas, unter blauem Himmel als Symbol für Frieden, Hoffnung und Leben. Eine Geschichte von Liebe, Wurzeln und Verantwortung für Kinder und ihre Zukunft.",
+    "evidence": "Description identifies the Ukrainian-German center and uses Ukrainian cultural symbols and colors."
+  },
+  {
+    "id": "p-004",
+    "pool": "parade",
+    "name": "Kashiwa-ren",
+    "country": "Japan",
+    "region": "East Asia",
+    "confidence": 95,
+    "tags": [
+      "Japan"
+    ],
+    "description": "Wasshoi, wasshoi! Wir von Kashiwa-ren präsentieren einen Mikoshi, einen mobilen Schrein, der bei vielen lokalen Festumzügen in Japan prachtvoll durch die Straßen getragen wird. Ein Mikoshi ist so schwer, dass er nicht allein, sondern nur in aktiver Zusammenarbeit mit anderen getragen werden kann. In der kulturellen Vielfältigkeit aller Teilnehmer wollen wir die Diversität dieser Stadt zelebrieren und mit geeinten Kräften und der Leidenschaft jedes Einzelnen ein bleibendes Erlebnis für alle Beteiligten schaffen.",
+    "evidence": "Description presents a Mikoshi, a portable shrine carried in many local Japanese festivals."
+  },
+  {
+    "id": "p-005",
+    "pool": "parade",
+    "name": "Calaca e.V.",
+    "country": "Mexico / Latin American diaspora",
+    "region": "Latin America / Diaspora",
+    "confidence": 70,
+    "tags": [
+      "Mexico",
+      "Latin American diaspora"
+    ],
+    "description": "Seit 30 Jahren ist Calaca fester Bestandteil des Karnevals der Kulturen in Berlin. Drei Jahrzehnte künstlerischer Präsenz, politischer Haltung und kollektiven Engagements. Inmitten von Kriegen, Rassismus, Ausgrenzung und sozialen Ungleichheiten erhebt Calaca seine Stimme in einer karnevalesken Ästhetik, in der Kunst zu Widerstand, Erinnerung und Hoffnung wird. Unsere Sprache ist Körper, Farbe, Musik und Bewegung. Wir glauben an eine gerechte, vielfältige und solidarische Welt – und tanzen weiter. Heute, morgen und in den nächsten 30 Jahren.",
+    "evidence": "Calaca has a Spanish-language/Latin American naming signal, but the description is primarily political and artistic rather than country-specific."
+  },
+  {
+    "id": "p-006",
+    "pool": "parade",
+    "name": "BRAZUKAIADA und Furiosa",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 92,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "Zusammen mit der vollen Besetzung von Brazukaiada, die mit Normalität auch Kinder und Jugendliche mit unterschiedlichsten Beeinträchtigungen trainiert, sagen wir auch „Danke Rogério. Muito Obrigado Rogério.“ Dada ist Gründer und Kopf der Samba Band Furiosa. So paaren sich diesmal heiße Rhythmen einer multikulturellen Gruppe und inklusive Capoeira zu unübersehbarer, nicht nur brasilianischer Lebensfreude. Dadas Tatendrang, Optimismus und seine Großzügigkeit haben das Leben anderer bereichert und auch verändert. Danke für die unzähligen Auftritte, Reisen in ferne Länder und dein Da-Sein.",
+    "evidence": "Description references samba, Furiosa, Capoeira and Portuguese phrasing, all strong Brazilian cultural signals."
+  },
+  {
+    "id": "p-007",
+    "pool": "parade",
+    "name": "SunKidz 44 - Wir sind Neukölln!!!",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 84,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "Die SunKidz 44 - Wir sind Neukölln!!! - aus dem Sonnenallee-Kiez und anderen Neuköllner Gefilden ziehen mit ihrem Sonnenwagen als Zentralgestirn beim Umzug des Karneval der Kulturen ihre Bahn - umgeben von verschiedenen planetaren Formationen und Trabanten aus den Netzwerken der Neuköllner Musikschule Paul Hindemith.",
+    "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
+  },
+  {
+    "id": "p-008",
+    "pool": "parade",
+    "name": "Colores de Quisqueya",
+    "country": "Dominican Republic",
+    "region": "Caribbean",
+    "confidence": 98,
+    "tags": [
+      "Dominican Republic"
+    ],
+    "description": "Viva la República Dominicana! Als leidenschaftliche Tanzgruppe freuen wir uns riesig, zum ersten Mal beim Umzug die Dominikanische Kultur zu repräsentieren – authentisch, lebendig und warmherzig! Freut euch auf gefühlvolle Merengue- und Bachata-Rhythmen, farbenfrohe Kostüme und pure dominikanische Vibes! Spürt die Energie, die Lebensfreude und den calor humano – und lasst euch mitreißen zu einer kleinen Reise in die Dominikanische Republik! Wir bringen ein Stück Karibik auf die Straßen Berlins und zeigen, dass unsere Community ein leuchtender Teil der kulturellen Vielfalt dieser Stadt ist.",
+    "evidence": "Description explicitly says the group represents Dominican culture and mentions Merengue, Bachata and the Dominican Republic."
+  },
+  {
+    "id": "p-009",
+    "pool": "parade",
+    "name": "100% Tempelhofer Feld",
+    "country": "Germany / Berlin",
+    "region": "Europe",
+    "confidence": 76,
+    "tags": [
+      "Germany",
+      "Berlin"
+    ],
+    "description": "„Feld vs. Geld! Das Tempelhofer Feld ist in Gefahr! SPD und CDU arbeiten unter Hochdruck daran, noch vor der Wahl seinen Schutz vor Bebauung auszuhebeln, damit nach der Wahl die Baulobby dort Monopoly spielen kann! Billige Mieten? Was für ein Märchen! Die Investoren drängen doch genau deswegen aufs Feld um dort die höchsten Profite zu machen! Doch Berlin verteidigt seinen Lieblingspark: Sportler*innen und Gärtner*innen, Vögel und Schmetterlinge, Aktivist*innen und Bands stellen sich mit 100% Tempelhofer Feld dem Betongold entgegen! Seid dabei!“",
+    "evidence": "Description focuses on Tempelhofer Feld, Berlin housing politics and local activism."
+  },
+  {
+    "id": "p-010",
+    "pool": "parade",
+    "name": "Booty Therapy",
+    "country": "African diaspora / Afro-urban culture",
+    "region": "Africa / Diaspora",
+    "confidence": 62,
+    "tags": [
+      "African diaspora",
+      "Afro-urban culture"
+    ],
+    "description": "Booty Therapy steht für eine körperliche Praxis, die Bewegung nutzt, um gesellschaftliche Realitäten zu reflektieren und zu transformieren. In unseren Choreografien erscheinen Kampfgesten aus afro-urbanen Tänzen, die Erfahrungen von Unterdrückung, Konflikt und Widerstand verkörpern. Sie verwandeln reale Spannungen in Bewegung und ermöglichen einen körperlichen Umgang mit Trauma. Unsere Gruppe aus FLINTA*-Personen nutzt Tanz als kollektive Kraft, um Gewalt nicht zu verherrlichen, sondern sie zu transformieren. Wir tanzen keinen Krieg. Wir tanzen die Überwindung von Gewalt.",
+    "evidence": "Description references afro-urban dances and FLINTA* collective practice without naming one country."
+  },
+  {
+    "id": "p-011",
+    "pool": "parade",
+    "name": "Anclas e.V. / Latido Verde",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 84,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "Latido Verde möchte in diesem Jahr mit seinen Bewegungen nicht nur die Schönheit des Meeres, die Harmonie seiner Gewässer und das Leben in ihnen darstellen, sondern auch auf die Bedeutung des Schutzes der Meereswelt aufmerksam machen. Der Ozean ist eine Quelle des Lebens: Er reguliert das Klima, versorgt uns mit Nahrung und beherbergt eine große Artenvielfalt. Doch Verschmutzung, Plastik und der falsche Umgang mit Ressourcen bedrohen ihn täglich. Der Tanz ist eine Botschaft von Bewusstsein, Respekt und Hoffnung und lädt dazu ein Teil des Wandels zu werden.",
+    "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
+  },
+  {
+    "id": "p-012",
+    "pool": "parade",
+    "name": "Kalibani",
+    "country": "Argentina / Latin America",
+    "region": "Latin America",
+    "confidence": 70,
+    "tags": [
+      "Argentina",
+      "Latin America"
+    ],
+    "description": "„KALIBANI: Ein Anti-Kriegs-Schlachtross vorneweg, mittendrin eine als Gefängnis dekorierte Plattform. Das KiezOrchester in Häftlingkostümen, maskiert mit diversen Nationalflaggen, singt Lieder gegen Krieg, Abschiebung und Aufrüstung. Motto: „FREE THEM ALL – ABSCHIEBESTOPP!“. Murgos-Berlin tanzen in bunten Kostümen, mit Trommeln und Percussions zu Tango Argentino und Jazz. Motto: „Nunca Mas!“. Die Syrer*innen zeigen Tänze der ethnischen Gruppen in Syrien in deren Kostümen. Motto: „Vielfalt in Syrien!“ Die Murga aus Bielefeld tanzen in Latino-Kostümen zu ihren Trommeln.“",
+    "evidence": "Source listing points to tango or Argentine musical heritage with broader Latin American framing."
+  },
+  {
+    "id": "p-013",
+    "pool": "parade",
+    "name": "Verein für Suurbier Kultur und Handwerk e.V.",
+    "country": "Germany / Berlin",
+    "region": "Europe",
+    "confidence": 70,
+    "tags": [
+      "Germany",
+      "Berlin"
+    ],
+    "description": "Mit gutem Gefühl feiert der Verein für Suurbier-Kultur und -Handwerk sein zehnjähriges Jubiläum auf dem 30-jährigen Jubiläumskarneval. Mit dabei neben FARGO und Cruor Hilla sind tolle Bands mit und ohne Handicap aus Berlin und dem Rest der Welt.",
+    "evidence": "Description frames a Berlin club and cultural-handwork association; no specific external nationality is named."
+  },
+  {
+    "id": "p-014",
+    "pool": "parade",
+    "name": "Amistad Salsera",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 84,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "Salsa trifft Hip-Hop - Tanz als „Waffe“ gegen den Krieg! Inmitten von Chaos und Zerstörung verbinden sich diese Kulturen, geboren aus Widerstand und Sehnsucht, zu einer kraftvollen Bewegung. Wo Bomben fallen, antwortet der Körper mit Rebellion und Hoffnung. Salsa bringt Leidenschaft, Hip-Hop spricht die Sprache der Straße. Vereint sind die Krieger*innen des Lebens, deren Tanz Protest und Heilung zugleich ist. „Tanz statt Truppen“ - gegen den Krieg, Hass und Schweigen. Wir leben und tanzen!",
+    "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
+  },
+  {
+    "id": "p-015",
+    "pool": "parade",
+    "name": "Koreanischer Verein Berlin e.V. \"Arirang Korea\"",
+    "country": "South Korea / Korea",
+    "region": "East Asia",
+    "confidence": 98,
+    "tags": [
+      "South Korea",
+      "Korea"
+    ],
+    "description": "„KOREANISCHER VEREIN BERLIN e.V. “ARIRANG KOREA” Der „Arirang Korea““““ wird ein einzigartiges Event, das die kulturelle Vielfalt und die Harmonie der koreanischen Traditionen präsentiert. Der Umzug wird den Zuschauenden nicht nur die Schönheit der koreanischen Kultur näherbringen, sondern auch die Bedeutung von Einheit und Freude in der Gemeinschaft betonen. Die Teilnehmer*innen, die in bunten und traditionellen Kostümen durch die Straßen ziehen, werden mit Musik, Tanz und Symbolen die Zuschauenden in eine unvergessliche Reise durch Koreas reiche Geschichte und lebendige Kultur entführen.“",
+    "evidence": "Name and description explicitly present Korean traditions, Korean culture and Arirang Korea."
+  },
+  {
+    "id": "p-016",
+    "pool": "parade",
+    "name": "Belarus tanzt mit dem Drachen",
+    "country": "Belarus",
+    "region": "Europe",
+    "confidence": 98,
+    "tags": [
+      "Belarus"
+    ],
+    "description": "„Belarus – Die Stimme, die den Drachen zähmt In diesem Jahr nimmt zum ersten Mal eine unabhängige belarussische Initiativgruppe am Karneval der Kulturen teil. Im Zentrum der Performance steht ein Drache – ein mythisches Wesen der belarussischen Folklore. Durch Musik, Tanz und folkloristisch inspirierte Bilder verbinden sich alte Mythen mit der lebendigen Kultur von heute. Mythische Figuren und Menschen bewegen sich gemeinsam in einem Kreis – als Zeichen von Verbindung, Wandel und dem fortlaufenden Zyklus der Kultur. Um den Drachen zu überwinden, muss man aufhören ihn zu fürchten.“",
+    "evidence": "Description explicitly names Belarusian folklore and an independent Belarusian initiative group."
+  },
+  {
+    "id": "p-017",
+    "pool": "parade",
+    "name": "KUD Ljiljani e.V.",
+    "country": "Bosnia / Balkans",
+    "region": "Europe",
+    "confidence": 88,
+    "tags": [
+      "Bosnia",
+      "Balkans"
+    ],
+    "description": "KUD Ljiljani e.V. präsentiert mit Kindern und Jugendlichen die Traditionen aus Bosnien, dem Kosovo, Sandžak und anderen Teilen Ex‑Jugoslawiens. In traditionellen Tänzen und wechselnden Kostümen aus verschiedenen Epochen verkörpern sie bosniakische Kultur, überlieferte Rituale und festliche Bräuche. Multikulturelle Völkerverständigung, Gemeinschaft, Vielfalt und Freude stehen bei ihrem Auftritt im Mittelpunkt und bringen die Atmosphäre eines lebendigen Balkanfestes auf die Straße.",
+    "evidence": "Description presents Bosniak culture and traditions from Bosnia, Kosovo, Sandžak and ex-Yugoslavia."
+  },
+  {
+    "id": "p-018",
+    "pool": "parade",
+    "name": "Verein der Tibeter in Deutschland e.V.",
+    "country": "Tibet / Tibetan diaspora",
+    "region": "Asia / Diaspora",
+    "confidence": 98,
+    "tags": [
+      "Tibet",
+      "Tibetan diaspora"
+    ],
+    "description": "Der Verein der Tibeter in Deutschland e.V. ist eine Gemeinschaft, die Tibeterinnen und Tibeter in Deutschland miteinander verbindet und sich für die Bewahrung der tibetischen Kultur, Sprache und Identität einsetzt. Angesichts der anhaltenden Repressionen in Tibet unter der Herrschaft der Volksrepublik China ist diese Arbeit von besonderer Bedeutung.",
+    "evidence": "Name and description explicitly focus on Tibetan culture, language and identity in Germany."
+  },
+  {
+    "id": "p-019",
+    "pool": "parade",
+    "name": "Minab School",
+    "country": "Iran / Middle East",
+    "region": "Middle East",
+    "confidence": 70,
+    "tags": [
+      "Iran",
+      "Middle East"
+    ],
+    "description": "Wir stellen die Trauerkulturen des Nahen Ostens für Mütter vor, die ihre Kinder im Krieg verloren haben.",
+    "evidence": "Description says it presents mourning cultures of the Middle East but does not name a specific country."
+  },
+  {
+    "id": "p-020",
+    "pool": "parade",
+    "name": "Kuker Berlin",
+    "country": "Bulgaria",
+    "region": "Europe",
+    "confidence": 98,
+    "tags": [
+      "Bulgaria"
+    ],
+    "description": "Bulgarien präsentiert sich zum ersten Mal beim Karneval der Kulturen mit einer innovativen Synthese aus Tradition und Moderne. Das Konzept verbindet bulgarische Folklore mit urbaner Club-Ästhetik und betont zugleich die kulturelle Vielfalt Berlins. Authentische Kukeri aus einem kleinen Dorf mit ihren handgefertigten Kostümen sowie eine bulgarische Tanzgruppe bringen gemeinsam eine lebendige, farbenfrohe Fusion auf die Bühne - ein Brückenschlag zwischen Vergangenheit und Gegenwart.",
+    "evidence": "Description explicitly says Bulgaria is represented with Bulgarian folklore and authentic Kukeri costumes."
+  },
+  {
+    "id": "p-021",
+    "pool": "parade",
+    "name": "Exylium",
+    "country": "Germany / Berlin",
+    "region": "Europe",
+    "confidence": 68,
+    "tags": [
+      "Germany",
+      "Berlin"
+    ],
+    "description": "EXYLIUM2026 zeigt eine theatralische, interdisziplinäre Performance für marginalisierte Stimmen, ein Statement gegen historische Gewalt und kapitalistische Logik. Die Künstler*innen tragen Installationen aus recycelten Materialien, die an erlebte Gewalt erinnern und wie Asche und Trümmer vergangener Zerstörung nachhallen. Die Performance verbindet die Pogrome von Rostock-Lichtenhagen 1992 mit der Berliner Hausbesetzerbewegung und entwirft eine Zukunftsvision Berlins. Musik aus historischen Geräuschen und futuristischen Klängen trifft auf Tanz als kollektive Reflexion mit Publikumsbeteiligung.",
+    "evidence": "Source description centers German and Berlin historical references, including Rostock-Lichtenhagen and Berlin squatting history."
+  },
+  {
+    "id": "p-022",
+    "pool": "parade",
+    "name": "Saya interkultureller Tanz und Musik",
+    "country": "Turkey",
+    "region": "Middle East / Europe",
+    "confidence": 95,
+    "tags": [
+      "Turkey"
+    ],
+    "description": "Mit den Klängen der Saz und mitreißenden Rhythmen bringen wir die Vielfalt türkischer Musik auf die Straßen Berlins. Als türkische Gruppe feiern wir beim Karneval der Kulturen Musik, Tanz und Gemeinschaft. Kommt dazu – ob in Tracht oder in ziviler Kleidung – und feiert mit uns die kulturelle Vielfalt. Als Enkelgeneration der Migration verbinden wir Vergangenheit, Gegenwart und Zukunft.",
+    "evidence": "Description explicitly identifies the group as Turkish and references Saz and Turkish music."
+  },
+  {
+    "id": "p-023",
+    "pool": "parade",
+    "name": "Juxirkus Schöneberg",
+    "country": "Germany / Berlin",
+    "region": "Europe",
+    "confidence": 78,
+    "tags": [
+      "Germany",
+      "Berlin"
+    ],
+    "description": "Der Juxirkus, der älteste Kinder- und Jugendzirkus Berlins, gibt euch einen Einblick in unsere bunte Zirkuswelt. Seit fast 40 Jahren können interessierte Kinder und Jugendliche in unserem kleinen rot-grünen Zelt in Berlin-Schöneberg Zirkuskunst lernen. Unsere Präsentation wird vor allem eine große, improvisierte Zirkusshow sein. Wir zeigen euch unterschiedlichste, kleine Acts - seien es Menschenpyramiden, seien es kurze Jonglier-Einlagen oder Einrad-Choreografien. Wir freuen uns darauf, euch zu verzaubern.",
+    "evidence": "Description identifies the group as Berlin-Schöneberg's long-running children and youth circus."
+  },
+  {
+    "id": "p-024",
+    "pool": "parade",
+    "name": "Laura la Risa Niñas y Flores",
+    "country": "Spain",
+    "region": "Europe",
+    "confidence": 88,
+    "tags": [
+      "Spain"
+    ],
+    "description": "Flamenco – leidenschaftlich, lebendig, gemeinschaftsstiftend. Zwischen vier liebevoll gestalteten Lastenrädern, die überwiegend mit Blumen und Dekorationen aus Recyclingmaterialien geschmückt sind, tanzen Flamencotänzer*innen in traditionellen Kostümen.",
+    "evidence": "Description identifies Laura la Risa as a Flamenco dancer and pioneer of children's flamenco in Berlin."
+  },
+  {
+    "id": "p-025",
+    "pool": "parade",
+    "name": "#WAS BEWEGT DICH",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 84,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "Superheldinnen 2.0 – Zusammenhalt ist unsere Superkraft. Wir setzen ein Zeichen für kollektive Stärke und gesellschaftliche Verantwortung. In einer von globalen Krisen, politischen Spannungen und sozialen Herausforderungen geprägten Zeit verstehen wir unsere Performance als künstlerischen Appell für Solidarität und Resilienz, nicht von Einzelkämpfer*innen, sondern einer Gemeinschaft, deren Kraft im Miteinander liegt. Unser Beitrag soll Mut machen, Gemeinschaft sichtbar werden lassen und im Jubiläumsjahr des Karnevals ein zeitgemäßes, empowerndes Bild gesellschaftlicher Stärke vermitteln.",
+    "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
+  },
+  {
+    "id": "p-026",
+    "pool": "parade",
+    "name": "Grupo Folclórico Impulso de Berlim",
+    "country": "Portugal",
+    "region": "Europe",
+    "confidence": 98,
+    "tags": [
+      "Portugal"
+    ],
+    "description": "Grupo Folclórico Impulso präsentiert ein Stück Portugal für die Sinne: Ausschnitte aus unserem traditionellen Tanz- und Musikrepertoire aus dem Norden Portugals mit dem visuellen Highlight unserer Trachten, die kulturgeschichtlich bedeutungsvoll sind und unserem selbst konstruierten Lastenfahrrad in den Farben der portugiesischen Flagge lackiert und im Stil ländlicher portugiesischer Umzugsdekoration. Passend zur gelebten Umzugstradition in Portugal können optional einige Mini-Kostproben von portugiesischen Köstlichkeiten gereicht werden.",
+    "evidence": "Description explicitly presents northern Portuguese dance, music, costumes and the Portuguese flag colors."
+  },
+  {
+    "id": "p-027",
+    "pool": "parade",
+    "name": "ABENTEUER TANZ",
+    "country": "Peru",
+    "region": "Latin America",
+    "confidence": 84,
+    "tags": [
+      "Peru"
+    ],
+    "description": "Unter der Leitung der Künstlerin Lilia Gomez aus Peru wollen wir unser Thema „“TANZ FÜR FRIEDEN UND FREIHEIT““ bei unserem Jubiläum mit prächtigen Kostümen präsentieren. Wir sind viele – verschieden, und doch verbunden. Aus vielen Kulturen, auf einer gemeinsamen Erde. Durch Tanz, Musik und Kunst sprechen unsere Herzen. Wir tanzen für Frieden, Freiheit und Würde. Für Menschen und Solidarität. Gegen Gewalt, für Respekt und Zusammenhalt. Wir glauben an Brücken statt Mauern, an Hoffnung statt Angst. Denn Frieden heißt trotz aller Unterschiede zusammenzukommen. Gemeinsam sind wir sichtbar.",
+    "evidence": "Source description names artist Lilia Gomez from Peru while presenting a broader peace and solidarity performance."
+  },
+  {
+    "id": "p-028",
+    "pool": "parade",
+    "name": "Hello China!",
+    "country": "China",
+    "region": "East Asia",
+    "confidence": 98,
+    "tags": [
+      "China"
+    ],
+    "description": "2026 bringt die Chenyin Hanfu Society Berlin erneut die faszinierende Welt der chinesischen Kultur in den Karnevalszug. In vielfältigen, kunstvoll gestalteten Hanfu-Gewändern zeigen wir die Schönheit und Anmut traditioneller Kleidung, begleitet von kraftvollen Drachen- und Löwentänzen sowie fröhlichen Pandas. Als besonderes Highlight präsentieren wir handgefertigte Bambuslaternen und kunstvolle Dekorationen, die mit ihren Farben, Formen und filigranen Mustern begeistern. Freut euch auf ein lebendiges, farbenprächtiges Fest voller Bewegung, Eleganz und Tradition!",
+    "evidence": "Description explicitly presents Chinese culture, Hanfu clothing, dragon and lion dances, and pandas."
+  },
+  {
+    "id": "p-029",
+    "pool": "parade",
+    "name": "Ecuador Multicolor",
+    "country": "Ecuador",
+    "region": "Latin America",
+    "confidence": 98,
+    "tags": [
+      "Ecuador"
+    ],
+    "description": "Zum 30-jährigen Jubiläum des Karnevals der Kulturen möchten wir auf ecuadorianische Art feiern, mit einer “Fiesta Popular”. Inspiriert von Volksfesten der Andenregion zeigt unsere künstlerische Darstellung typische Figuren wie Clowns und Tiermasken sowie Tänzer*innen in farbenprächtigen Trachten. Alle tanzen gemeinsam zum Rhythmus der traditionellen Blas- und Percussion Musik. Während der Fiesta Popular möchten wir das Publikum zum Mitfeiern einladen und so die Straße in einen Ort der gemeinschaftlichen Begegnung verwandeln.",
+    "evidence": "Name and description explicitly refer to celebrating in an Ecuadorian way with Andean popular festival traditions."
+  },
+  {
+    "id": "p-030",
+    "pool": "parade",
+    "name": "Berlin Indiawaale",
+    "country": "India",
+    "region": "South Asia",
+    "confidence": 96,
+    "tags": [
+      "India"
+    ],
+    "description": "Mit „Farben der Seele – Ein Kaleidoskop der Vielfalt Indiens“ möchte Berlin Indiawaale einen Beitrag leisten, der herzlich, fröhlich und tief in den Werten des Karnevals der Kulturen verwurzelt ist. Durch Musik, Tanz, Mode und kollektive Bewegung feiern wir unsere Verbindung zu Indien und unsere Liebe für die kulturelle Vielfalt Berlins. Teil des Karnevals zu sein ist ein Privileg für uns – und wir bringen unsere volle Energie, Dankbarkeit und Freude ein.",
+    "evidence": "Description explicitly celebrates connection to India through music, dance, fashion and movement."
+  },
+  {
+    "id": "p-031",
+    "pool": "parade",
+    "name": "Ballet Folclorico Perú Berlin",
+    "country": "Peru",
+    "region": "Latin America",
+    "confidence": 98,
+    "tags": [
+      "Peru"
+    ],
+    "description": "„Das Ballet Folklórico Perú Berlin ist eine junge, wachsende Tanzgemeinschaft, die die peruanische Kultur und Identität in Berlin lebendig hält. Das Ensemble vereint Tänzerinnen und Tänzer aus verschiedenen Regionen Perus sowie aus anderen Ländern, verbunden durch die Liebe zur Folklore, Kultur und Tradition. Mehr als eine Tanzgruppe ist das Ballet Folklórico Perú Berlin eine Familie und ein kultureller Treffpunkt. Hier entstehen Freundschaften, Gemeinschaft, Stolz auf die eigenen Wurzeln und ein lebendiger Austausch, durch den die peruanische Kultur in Berlin sichtbar und erlebbar wird.“",
+    "evidence": "Name and description explicitly present Peruvian culture, identity and folklore."
+  },
+  {
+    "id": "p-032",
+    "pool": "parade",
+    "name": "Bengalisches Kulturforum",
+    "country": "Bangladesh / India / Bengali culture",
+    "region": "South Asia",
+    "confidence": 86,
+    "tags": [
+      "Bangladesh",
+      "India",
+      "Bengali culture"
+    ],
+    "description": "Die Mangal-Shobhajatra ist eine farbenfrohe und symbolische Prozession zum bengalischen Neujahrsfest (14. April) in Bangladesch und Indien. Sie vereint Menschen unterschiedlicher Sprachen und Kulturen und steht für Gemeinschaft, Offenheit und Hoffnung. Masken, Tierfiguren und bunte Symbole aus der Volkskunst, begleitet von Musik und Tanz, verwandeln die Prozession in eine bewegte Kunstbühne. Die Teilnehmenden tragen traditionelle Kleidung und feiern gemeinsam die kulturelle Vielfalt. 2016 wurde die Mangal-Shobhajatra von der UNESCO als immaterielles Kulturerbe der Menschheit anerkannt.",
+    "evidence": "Description presents Mangal-Shobhajatra as a Bengali New Year procession in Bangladesh and India."
+  },
+  {
+    "id": "p-033",
+    "pool": "parade",
+    "name": "Bloco Explosão & Tanzteam Step by Step e.V.",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 94,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "„Wir sind Feuer und Flamme für die Kultur in Berlin - kein Takt lässt sich kürzen! #Unkürzbar In Zeiten des drohenden Kulturkahlschlags trägt der Bloco Explosão den Herzschlag der Hauptstadt auf die Straße und setzt mit jedem Schlag ein Zeichen gegen den Rückgang kultureller Angebote. Unsere afrobrasilianischen Rhythmen entfachen ein Feuerwerk der Sinne, das zeigt: Kultur lebt, wenn wir sie spürbar machen! Zusammen mit der Tanzgruppe „“““Step by Step““““ würdigen wir den Karneval der Kulturen als beständiges Momentum der Kulturlandschaft Berlins.“",
+    "evidence": "Description references Bloco Explosão and afro-Brazilian rhythms."
+  },
+  {
+    "id": "p-034",
+    "pool": "parade",
+    "name": "Maracatu-Treffen",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 90,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "Widerstand, Harmonie und Frieden! Frieden ist nicht garantiert. Während Reiche und Mächtige Völker gegeneinander aufbringen, vertiefen sich Ungleichheiten weltweit. Umso wichtiger ist es, sich aktiv für Frieden einzusetzen. Der Karneval der Kulturen blüht auf den Straßen Berlins als Ort der Begegnung, an dem Gesten, Gesang und Körper eine mögliche Harmonie feiern. Das Maracatu-Treffen dankt dem KdK für 30 Jahre Widerstand und erinnert daran, dass ein Leben in Frieden ein grundlegendes Recht aller Menschen ist.",
+    "evidence": "Maracatu is an Afro-Brazilian performance tradition, and the group name is directly tied to it."
+  },
+  {
+    "id": "p-035",
+    "pool": "parade",
+    "name": "Ramanbaug Yuva Manch Germany e.V.",
+    "country": "India / Maharashtra",
+    "region": "South Asia",
+    "confidence": 96,
+    "tags": [
+      "India",
+      "Maharashtra"
+    ],
+    "description": "Drei unserer Besonderheiten: Wir sind laut, jedoch harmonisch und euphorisch! Wir präsentieren authentische indische Folklore mit einem Tempo, das die Beine bewegt und das Herz schlagen lässt. Auch dieses Jahr bringt Ramanbaug yuva Manch die Dhol-Tasha (Schlagzeugensemble) Prozession aus Maharashtra auf die Berliner Straßen, mit großartigen Rhythmen, traditionellen Trachten und energetischen Volkstänzen. Zudem präsentieren wir mit Stolz eine Vorführung des indischen traditionellen Kampfsports – eine Fusion der Kampfaktion mit dem Volks-Rhythmus, die die Herzen der Zuschauenden berüht!",
+    "evidence": "Description presents Indian folklore and a Dhol-Tasha procession from Maharashtra."
+  },
+  {
+    "id": "p-036",
+    "pool": "parade",
+    "name": "Dança de Coraçâo Kizomba Semba de Angola",
+    "country": "Angola",
+    "region": "Africa",
+    "confidence": 98,
+    "tags": [
+      "Angola"
+    ],
+    "description": "Wir sind lustig und herzlich und deswegen unentbehrlich! Unser Motto lautet: ,,Tanz des Herzens - Freunde der Sinne“. Mit der Karnevalsformation Dança de Coraçâo haben wir es uns zum Ziel gesetzt, unsere Kultur mit dem Kizomba Semba de Angola nachhaltig beim Karneval der Kulturen zu vertreten und das Publikum zu begeistern. Es ist unser Anliegen, das Verständnis für Kultur,Toleranz sowie das künstlerische Element in Musik und Tanz zu fördern und gleichzeitig der Angolanischen Kizombagesellschaft auf internationaler Ebene zu mehr Bedeutung zu verhelfen.",
+    "evidence": "Name and description explicitly present Kizomba and Semba de Angola and Angolan culture."
+  },
+  {
+    "id": "p-037",
+    "pool": "parade",
+    "name": "Bolivien Folk",
+    "country": "Bolivia / Guaraní",
+    "region": "Latin America",
+    "confidence": 92,
+    "tags": [
+      "Bolivia",
+      "Guaraní"
+    ],
+    "description": "Die Guaranís und ihr Kampf ums Überleben. Das Volk der Guaraní ist ein altes indigenes Volk Südamerikas. Für sie ist das Land ein heiliges Element, das ihre Identität und Kultur prägt. Die Guaranís kämpfen aufgrund der Zerstörung ihrer Gebiete um den Erhalt ihres Lebensraumes. Dessen Schutz ist die Verteidigung ihres Rechts auf Existenz. Wir präsentieren das Fest Arete Guasu, welches ein altes Fest mit Kostümen, Masken, Musik und Ritualen zu Ehren ihrer Kultur ist. Beim KdK möchten wir ihnen Gehör verschaffen, indem wir ihren Kampf ums Überleben darstellen.",
+    "evidence": "Name references Bolivia and the description presents Guaraní culture and Arete Guasu."
+  },
+  {
+    "id": "p-038",
+    "pool": "parade",
+    "name": "MiCali e.V.",
+    "country": "Colombia",
+    "region": "Latin America",
+    "confidence": 96,
+    "tags": [
+      "Colombia",
+      "Caribbean"
+    ],
+    "description": "Wir bringen die Energie und Lebensfreude der Salsa Caleña, eines Tanzstils aus Cali (Kolumbien), auf die Straße und zeigen, wie das Tanzen die Menschen zusammenbringt. Unsere Präsentation ist inspiriert von der Salsakultur in Cali, einer Stadt, in der die positive Energie und Liebe der Menschen zur Musik spürbar ist.",
+    "evidence": "Description explicitly presents Salsa Caleña from Cali, Colombia and an Afro-Colombian freedom fighter."
+  },
+  {
+    "id": "p-039",
+    "pool": "parade",
+    "name": "12Volt Zuckersession Jam Culture ArtQueen",
+    "country": "Sweden / Chile / Venezuela / Peru / Algeria / Italy / Ukraine / Berlin",
+    "region": "Latin America",
+    "confidence": 72,
+    "tags": [
+      "Sweden",
+      "Chile",
+      "Venezuela",
+      "Peru",
+      "Algeria",
+      "Italy",
+      "Ukraine",
+      "Berlin"
+    ],
+    "description": "Kaum etwas bringt Menschen so zusammen wie ’ne fette Jamsession. Die Crew von 12Volt bringt diesen Vibe auf die Straße und holt sich die schwedische Recycling-Kostümtruppe ArtQueen und Musiker*innen aus Chile, Venezuela, Peru, Algerien, Italien, der Ukraine, badisch Sibirien und dieses Jahr den Vibe der legendären berlinweiten Zuckersession (Zuckerzauber) mit ins Boot. Zu Funk, Afro und Rock wird einfach getanzt. Seit 2008 (10 Jahre vor FFF) rollt 12Volt mit selbstgebastelten Fahrradanhänger: Bühne, PA, Transport: alles 100% CO₂-frei. Keine Generatoren, Null Abgase, nur pure Energie.",
+    "evidence": "Source description lists Swedish, Chilean, Venezuelan, Peruvian, Algerian, Italian, Ukrainian and Berlin-based participants or influences."
+  },
+  {
+    "id": "p-040",
+    "pool": "parade",
+    "name": "Berlin Kannada Balaga e.V.",
+    "country": "India / Karnataka",
+    "region": "South Asia",
+    "confidence": 98,
+    "tags": [
+      "India",
+      "Karnataka"
+    ],
+    "description": "Berlin Kannada Balaga e.V. ist ein gemeinnütziger Verein mit Sitz in Berlin. Sein Ziel ist es, die Kannada-Gemeinschaft in Berlin und Umgebung zusammenzubringen, um alles zu feiern, was mit dem schönen Bundesstaat Karnataka zu tun hat. Die Teilnehmenden werden in die vielfältigen Traditionen des indischen Staates eintauchen, mit rhythmischen Trommelvorführungen (Tamate), energiegeladenen Volkstänzen und anmutigen klassischen Kunstformen. Das Fest verspricht ein authentisches Erlebnis der kulturellen Vielfalt Karnatakas und fördert Einheit und kulturelle Vielfalt.",
+    "evidence": "Description explicitly says the group celebrates Karnataka and Kannada community traditions."
+  },
+  {
+    "id": "p-041",
+    "pool": "parade",
+    "name": "Canoafolk",
+    "country": "Colombia / Afro-Colombian culture",
+    "region": "Latin America / Africa diaspora",
+    "confidence": 96,
+    "tags": [
+      "Colombia",
+      "Afro-Colombian culture"
+    ],
+    "description": "Wir bringen euch den Bullerengue, einen afro-kolumbianischen Tanz von der Karibikküste. Der Gesang der Frauen und das Klatschen und Trommeln prägen den erdverbundenen Rhythmus, die Füße bleiben fast immer am Boden. Der Gesang erzählt von Leid und Liebe. Aber durch den kraftvollen Tanz kommt Freude und Hoffnung zurück. Wir beleben Bullerengue auf moderne Weise und setzen damit ein Zeichen, das die kraftvolle, entschlossene Führung der Frau hervorhebt.",
+    "evidence": "Description presents Bullerengue as an Afro-Colombian dance from Colombia's Caribbean coast."
+  },
+  {
+    "id": "p-042",
+    "pool": "parade",
+    "name": "Flor de Fuego Izalco",
+    "country": "El Salvador",
+    "region": "Latin America",
+    "confidence": 98,
+    "tags": [
+      "El Salvador"
+    ],
+    "description": "„Flor de Fuego Izalco“, eine Tanz- und Folkloregruppe aus El Salvador, will dieses Jahr das „Festival de las Flores y Palmas“ aus der Stadt Panchimalco darstellen. Dieses Festival ist ein tief verwurzeltes kulturelles und religiöses Ereignis, das die indigene Kultur feiert. Es zeichnet sich durch farbenfrohe Umzüge, blumengeschmückte Palmen, Folklore-Tänze und lokale Gastronomie aus. „Flor de Fuego Izalco“ möchte dieses Fest den Berliner*innen und allen anderen Gästen und Teilnehmenden näherbringen, um so ein buntes und fröhliches Geburtstagsfest für und mit dem Karneval der Kulturen zu feiern.",
+    "evidence": "Description explicitly calls it a dance and folklore group from El Salvador and references Panchimalco."
+  },
+  {
+    "id": "p-043",
+    "pool": "parade",
+    "name": "Dil Se Pakistan",
+    "country": "Pakistan",
+    "region": "South Asia",
+    "confidence": 98,
+    "tags": [
+      "Pakistan"
+    ],
+    "description": "Dil Se Pakistan feiert das lebendige kulturelle Erbe Pakistans auf dem Karneval der Kulturen. Unsere Gruppe präsentiert farbenfrohe traditionelle Kleidung, Live-Trommeln und energiegeladene regionale Volkstänze, inspiriert von den Kulturen Punjabs, Sindhs, Khyber Pakhtunkhwas, Belutschistans und der nördlichen Regionen. Mit kraftvollen Rhythmen, fröhlicher Bewegung und kollektiver Tanzenergie zeigen wir stolz Pakistans reiche Traditionen und Vielfalt und teilen die Schönheit und den festlichen Geist unserer Kultur mit der Welt.",
+    "evidence": "Name and description explicitly present Pakistan's cultural heritage and regional folk dances."
+  },
+  {
+    "id": "p-044",
+    "pool": "parade",
+    "name": "Ríos Profundos",
+    "country": "South American",
+    "region": "Latin America",
+    "confidence": 58,
+    "tags": [
+      "South American",
+      "Latin America"
+    ],
+    "description": "NIE WIEDER STRAFFREIHEIT!",
+    "evidence": "Source frames the work through a fictional South American political setting, so it is tagged at subcontinental level rather than as a real country."
+  },
+  {
+    "id": "p-045",
+    "pool": "parade",
+    "name": "Berlin Burly Tribe",
+    "country": "Germany / Berlin",
+    "region": "Europe",
+    "confidence": 62,
+    "tags": [
+      "Germany",
+      "Berlin"
+    ],
+    "description": "Der Berlin Burly Tribe ist ein Kollektiv aus semi/professionellen Burlesque-Performer*innen. Gemeinsames Kreieren und Experimentieren steht bei uns an erster Stelle. Beim Burlesque geht es darum, Feminität zu zelebrieren und zu ehren. Feminität als Energie, die unabhängig vom Geschlecht erlebt und ausgelebt werden kann und das seit Jahrhunderten. Im Jubiläumsjahr führt der Burly Tribe das Publikum durch Burlesquegeschichte!",
+    "evidence": "Description identifies a Berlin burlesque collective; the cultural signal is performance genre rather than nationality."
+  },
+  {
+    "id": "p-046",
+    "pool": "parade",
+    "name": "De Berlin Son",
+    "country": "Spain / Galicia",
+    "region": "Europe",
+    "confidence": 98,
+    "tags": [
+      "Spain",
+      "Galicia"
+    ],
+    "description": "„DE BERLÍN SON ist eine Gruppe junger Menschen aus Galicien, dem grünen Norden Spaniens, die heute in Deutschland lebt und die eigene Kultur voller Stolz präsentiert. Mit traditionellen Instrumenten wie Gaitas (galicische Dudelsäcke) und Pandeiretas (Tamburine) sowie weiteren folkloristischen Klängen bringen wir die musikalische Identität Galiciens auf die Bühne. Unsere Tänze – darunter Muiñeiras, Jotas und Maneos – spiegeln die Energie und Lebensfreude unserer Heimat wider. In traditioneller Kleidung schaffen wir eine Atmosphäre, die das Publikum spüren lässt in Galicien zu sein.“",
+    "evidence": "Description explicitly says the group is from Galicia in northern Spain and presents Galician instruments and dances."
+  },
+  {
+    "id": "p-047",
+    "pool": "parade",
+    "name": "Salseras/os United",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 84,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "Wir sind ein bunter Haufen leidenschaftlicher Salsatänzer*innen aus Berlin. Mit weiblicher und männlicher Superpower bringen wir die Straße zum Beben. Durchtanzen ist Programm!",
+    "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
+  },
+  {
+    "id": "p-048",
+    "pool": "parade",
+    "name": "Urso KiTi Schubsen",
+    "country": "Brazil / Pernambuco",
+    "region": "Latin America",
+    "confidence": 84,
+    "tags": [
+      "Brazil",
+      "Pernambuco"
+    ],
+    "description": "CorUrsão - Bären-Hertz",
+    "evidence": "The Urso/CorUrsão naming and carnival rhythm signal points to Brazilian bear-carnival traditions, especially Pernambuco, though the source text is poetic."
+  },
+  {
+    "id": "p-049",
+    "pool": "parade",
+    "name": "Nepali Heritage Troupe",
+    "country": "Nepal",
+    "region": "South Asia",
+    "confidence": 98,
+    "tags": [
+      "Nepal"
+    ],
+    "description": "Unsere Gruppe besteht aus Menschen aus verschiedenen Altersgruppen und Lebensbereichen. Sie spiegelt sowohl die nepalesische Gemeinschaft als auch die vielfältige Gesellschaft hier in Berlin und in ganz Deutschland wider. Teilnehmende bringen ihre eigenen Erfahrungen, Talente und Ideen mit. Gemeinsam möchten wir beim Karneval der Kulturen die Traditionen und das kulturelle Erbe Nepals präsentieren und zeigen, wie Kultur Menschen verbindet und Gemeinschaft entstehen lässt. Zudem wollen wir zeigen, dass die Welt ein globales Dorf ist, in dem jede kleine Arbeit zählt.",
+    "evidence": "Name and description explicitly present Nepal's traditions and cultural heritage."
+  },
+  {
+    "id": "p-050",
+    "pool": "parade",
+    "name": "Grupo Chile",
+    "country": "Chile",
+    "region": "Latin America",
+    "confidence": 98,
+    "tags": [
+      "Chile"
+    ],
+    "description": "Zum 10-jährigen Jubiläum ihrer Teilnahme am Karneval der Kulturen bringt Grupo Chile Berlin e.V., wie schon vor zehn Jahren, den chilenischen Nationaltanz La Cueca auf die Straßen Berlins. Mit wirbelnden Tüchern, rhythmischen Schritten und farbenfrohen Trachten entsteht ein lebendiges Bild von Erinnerung und Begegnung. Die Performance schlägt eine Brücke zwischen Chile und Berlin und wird getragen von Menschen unterschiedlicher Herkunft, die gemeinsam die Vielfalt und Freude des Karnevals feiern.",
+    "evidence": "Description explicitly names Chile and presents the Chilean national dance La Cueca."
+  },
+  {
+    "id": "p-051",
+    "pool": "parade",
+    "name": "EDO COMMUNITY BERLIN e.V.",
+    "country": "Nigeria / Edo",
+    "region": "Africa",
+    "confidence": 98,
+    "tags": [
+      "Nigeria",
+      "Edo"
+    ],
+    "description": "„Die Edo Community Berlin e.V. freut sich beim diesjährigen Karneval der Kulturen vertreten zu sein und die reiche Kultur, Tradition und Geschichte des Edo-Volkes aus Nigeria zu präsentieren. Mit traditionellen Gewändern, Musik und Tanz möchten wir die kulturelle Vielfalt Nigerias sichtbar machen und ein Zeichen für interkulturellen Austausch, Gemeinschaft und Zusammenhalt setzen. Der KdK bietet uns die wunderbare Gelegenheit, unsere Wurzeln zu feiern und gleichzeitig Brücken zwischen verschiedenen Kulturen in Berlin zu bauen. Ein besonderer Dank an LEMFI. Einheit, Kultur und Gemeinschaft.“",
+    "evidence": "Description explicitly presents the culture, tradition and history of the Edo people from Nigeria."
+  },
+  {
+    "id": "p-052",
+    "pool": "parade",
+    "name": "ESAN AKOAMHEN PROGRESSIVE UNION e.V.",
+    "country": "Nigeria / Esan",
+    "region": "Africa",
+    "confidence": 98,
+    "tags": [
+      "Nigeria",
+      "Esan"
+    ],
+    "description": "„Der Esan-Tanz, auch Igbabonelimhin, ist ein traditionelles akrobatisches Masken- und Tanztheater, das einzigartig für die Esan-Leute in Nigeria ist. Der Name leitet sich von den Esan-Wörtern „“““Igbabo““““ (Klatschen) und „“““Elimhin““““ (Geist) ab, was wörtlich „“““Klatschen für die Geister““““ bedeutet. Asonogun ist ein traditionelles Musikgenre und ein sozialer Freizeittanz des Esan-Volkes. Er wird oft zusammen mit der akrobatischen Igbabonelimhin-Maskerade aufgeführt und ist ein unverwechselbarer kultureller Ausdruck, an dem Männer und Frauen beteiligt sind.“",
+    "evidence": "Description explicitly identifies Esan dance and the Esan people in Nigeria."
+  },
+  {
+    "id": "p-053",
+    "pool": "parade",
+    "name": "Colombiacarnaval",
+    "country": "Colombia",
+    "region": "Latin America",
+    "confidence": 98,
+    "tags": [
+      "Colombia"
+    ],
+    "description": "Macondo ist das magische Dorf, das der kolumbianische Schriftsteller Gabriel García Márquez in seinem berühmtesten Werk „Hundert Jahre Einsamkeit“ erschaffen hat. Dieses Werk prägte die kolumbianische Literatur tiefgreifend, und jenes Dorf voller magischem Realismus mit seinen unvergesslichen gelben Schmetterlingen symbolisiert Freude, Freiheit und die kulturelle Identität Kolumbiens. Mit diesem Thema möchten wir die Magie unserer Kultur zeigen und ein Macondo voller Farbe, Musik und Leben darstellen.",
+    "evidence": "Name and description explicitly present Colombian literature, Macondo symbolism and Colombian cultural identity."
+  },
+  {
+    "id": "p-054",
+    "pool": "parade",
+    "name": "Kangkiling e.V.",
+    "country": "Gambia / African diaspora",
+    "region": "Africa",
+    "confidence": 94,
+    "tags": [
+      "Gambia",
+      "African diaspora"
+    ],
+    "description": "Kangkiling e.V. ist eine in Berlin ansässige Kulturorganisation, die gegründet wurde, um das gambische und afrikanische Erbe durch Kunst, Gemeinschaft und öffentliche Präsenz zu feiern und zu bewahren. Nach einem historischen Debüt im Jahr 2025 — bei dem wir 🇬🇲 Gambia zum zweiten Mal stolz auf dem Karneval der Kulturen präsentierten — setzen wir uns dafür ein, 2026 mit einer noch stärkeren und inklusiveren Präsenz zurückzukehren. Unsere Teilnahme wird die Kraft, Einheit und künstlerische Exzellenz der gambischen und der afrikanischen Gemeinschaft insgesamt würdigen.",
+    "evidence": "Description says the organization celebrates Gambian and African heritage and presented Gambia at Karneval der Kulturen."
+  },
+  {
+    "id": "p-055",
+    "pool": "parade",
+    "name": "Armenische Jugend Berlin & Brandenburg (AJBB)",
+    "country": "Armenia",
+    "region": "Caucasus / West Asia",
+    "confidence": 98,
+    "tags": [
+      "Armenia"
+    ],
+    "description": "Wir sind unsere Berge - Մենք ենք մեր սարերը. Unter diesem kraftvollen Motto lädt die Armenische Jugend Berlin & Brandenburg euch zum KdK 2026 ein. Der Ararat steht im Zentrum unserer Geschichte und prägt unsere Erinnerung und Identität. Beim KdK schlagen wir eine Brücke zwischen jahrtausendealter Geschichte und der lebendigen Energie der jungen Generation in Deutschland. Erlebt die gastfreundliche Kraft Armeniens, unsere Rhythmen und unsere unauflösliche Verbindung zu unseren Wurzeln. Wir laden euch ein, Teil unserer Geschichte zu werden. Wir sind unsere Berge. Fest verwurzelt, weit blickend.",
+    "evidence": "Name and description explicitly present Armenian identity, Ararat and Armenian youth culture."
+  },
+  {
+    "id": "p-056",
+    "pool": "parade",
+    "name": "GRUPO PERU",
+    "country": "Peru",
+    "region": "Latin America",
+    "confidence": 98,
+    "tags": [
+      "Peru"
+    ],
+    "description": "„Marinera : Tanz der Einheit und des Friedens. Die Marinera Norteña, Perus Nationaltanz, vereint spanische Einflüsse mit der Lebensfreude und dem Temperament der Menschen aus dem Norden Perus. Während die Frauen barfuß die Erde berühren, umwerben sie die Männer mit Galanterie und Hut. Beide Partner meistern virtuose Zapateos von höchster Präzision. Jede Geste trägt Identität, jeder Schritt erzählt Geschichte. In Zeiten der Spaltung erheben wir unsere weißen Tücher als Zeichen von Einheit und Frieden – eine Choreografie der Hoffnung, die Harmonie schafft, wo Chaos herrscht.“",
+    "evidence": "Description explicitly presents Marinera Norteña as Peru's national dance."
+  },
+  {
+    "id": "p-057",
+    "pool": "parade",
+    "name": "Egbe Omo Oduduwa e.V. Berlin",
+    "country": "Nigeria / Yoruba",
+    "region": "Africa",
+    "confidence": 96,
+    "tags": [
+      "Nigeria",
+      "Yoruba"
+    ],
+    "description": "„Unser Auftrag: Stärkung der Yorùbá-Gemeinschaft in Berlin durch drei Säulen: 1. Kulturelle Verankerung: Bewahrung des Erbes durch Sprache, Feste und Werte (Ìwà Pẹ̀lẹ́) als Zuhause (Ile) für alle Generationen. 2. Politische Stimme: Vertretung der Community gegenüber Behörden, Kampf gegen Diskriminierung und Förderung von Bürgerengagement. 3. Wirtschaftliche Stärkung* Nutzung des Unternehmergeists (ajé) durch Netzwerke, Mentoring, Workshops und kooperative Spargruppen (Èsúsú). Wir sind euer Zuhause (Ile), eure Stimme (Ohùn) und euer Netzwerk (Ọpọ́). *Àṣẹ́!*“",
+    "evidence": "Description explicitly references the Yorùbá community, language and cultural heritage."
+  },
+  {
+    "id": "p-058",
+    "pool": "parade",
+    "name": "StreetUniverCity Berlin e.V.",
+    "country": "Germany / Berlin",
+    "region": "Europe",
+    "confidence": 70,
+    "tags": [
+      "Germany",
+      "Berlin"
+    ],
+    "description": "Music vs Violence – Just vibes &amp; dance.",
+    "evidence": "Description presents a Berlin street performance and Live-Rap intervention around violence and exclusion."
+  },
+  {
+    "id": "p-059",
+    "pool": "parade",
+    "name": "Knicki, Kröte, Karuna: Homeless Tatütataa!",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 84,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "Das DJ Pop-Duo Nummer (K)Eins - Knicki und Kröte - bringt mit der Karuna.family und ihrer stadtbekannten „“Feierwehr““ als Disco- und Hilfe-Mobil die Stimmen und Musikwünsche sonst „“ungehörter““ wohnungsloser Mitmenschen und Straßenkids lautstark auf den Karneval. „“Wohnungslos? Tatütataa!““ lädt uns ein, das fehlende Dach über dem Kopf als stark belastenden Lebensnotstand performativ, musikalisch und visuell zu spüren. Ihre grundgesetzliche Forderung: Wohnraum für ALLE! Musik, soziale Realität, Nachhaltigkeit, bunte Party und Straßenkunst werden hier zum dringlichen, lebendigen Umzugserlebnis.",
+    "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
+  },
+  {
+    "id": "p-060",
+    "pool": "parade",
+    "name": "Freak de l´Afrique",
+    "country": "African diaspora",
+    "region": "Africa / Diaspora",
+    "confidence": 82,
+    "tags": [
+      "African diaspora"
+    ],
+    "description": "„Africa Now – Berlin Forever“ ist unser Statement zum 30. Jubiläum des Karnevals der Kulturen. Freak de l’Afrique bringt den modernen Sound Afrikas auf die Straße und macht die kreative Kraft der Diaspora hör- und sichtbar. Unser Truck steht für Afro Fusion, für Bewegung, Verbindung und Zukunft. Wir feiern afrikanische Gegenwartskultur als festen Teil der urbanen Realität Berlins – getragen von einer jungen Community, die die kulturelle Zukunft der Stadt aktiv mitgestaltet.",
+    "evidence": "Description explicitly presents modern African sound, Afro Fusion and African diaspora culture in Berlin."
+  },
+  {
+    "id": "p-061",
+    "pool": "parade",
+    "name": "Ghana Carnival 4 BLACK STARS",
+    "country": "Ghana",
+    "region": "Africa",
+    "confidence": 98,
+    "tags": [
+      "Ghana"
+    ],
+    "description": "Ghana feiert unsere Black Stars und das 30-jährige Jubiläum des KdK mit unserer Hi-Life-Musik und -Tanz. Unsere Kostüme werden die Black Stars-Trikots sein, ergänzt durch traditionelle handgewebte Smocks, wie es unsere Kultur zur Feier verlangt. Unser Wagen wird in den Farben der Black Stars dekoriert und mit Bildern der Spieler geschmückt sein. 30 Jahre KdK, die Berlin und die Welt unterhalten, sind ein Grund zum Feiern – also schnappt euch eure Tanzschuhe für ein paar Hi-Life-Moves!",
+    "evidence": "Name and description explicitly present Ghana, Black Stars, Hi-Life music and Ghanaian traditional smocks."
+  },
+  {
+    "id": "p-062",
+    "pool": "parade",
+    "name": "Zur Senke e.V.",
+    "country": "Germany / Berlin",
+    "region": "Europe",
+    "confidence": 68,
+    "tags": [
+      "Germany",
+      "Berlin"
+    ],
+    "description": "Wir sind Zur Senke e.V., ein gemeinnütziger Verein zur Förderung von Kunst und Kultur. Wir geben jungen DJs Raum, sich kreativ auszuleben und bringen Menschen zusammen um gemeinsam zu feiern und zu tanzen. Als Soundsystemgruppe präsentieren wir unser Motto „Party muss kein Business sein“. Dafür werden drei unser DJs Techno, Hardgroove und Trance auflegen. Wir zeigen, dass Clubkultur solidarisch, zugänglich und nicht profitorientiert funktionieren kann! Dabei setzten wir auf Leidenschaft, Gemeinschaft und faire Bedingungen für alle. Wir freuen uns auf euch!",
+    "evidence": "Description presents a Berlin arts/culture association and local club/soundsystem culture."
+  },
+  {
+    "id": "p-063",
+    "pool": "parade",
+    "name": "Yaam",
+    "country": "African diaspora",
+    "region": "Africa / Diaspora",
+    "confidence": 86,
+    "tags": [
+      "African diaspora"
+    ],
+    "description": "Das Yaam (Young African Art Market), steht seit nun drei Jahrzehnten für afrodiasporische Kultur in Berlin. Zwischen Graffiti und Djembe, Street und Capoeira ist das Yaam eine Nische und Instanz zugleich. Mit unserem diesjährigen Wagen wollen wir eine Brücke schlagen zwischen unserer Prägung als Berliner Kulturstandort und der globalen Verantwortung, die wir alle als Gesellschaft tragen.",
+    "evidence": "Description explicitly says YAAM stands for afrodiasporic culture in Berlin, with Djembe, street culture and Capoeira references."
+  },
+  {
+    "id": "p-064",
+    "pool": "parade",
+    "name": "NIGERIAN MOVEMENT x AFRO HAUS",
+    "country": "Nigeria / African diaspora",
+    "region": "Africa / Diaspora",
+    "confidence": 90,
+    "tags": [
+      "Nigeria",
+      "African diaspora"
+    ],
+    "description": "Mit unserem Umzugswagen wollen wir ein Bewusstsein schaffen für kulturelle Teilhabe, Gemeinschaft und gegenseitige Wertschätzung - und zeigen, wie vielfältig, modern und lebendig die afrikanische Kultur heute ist. Musik vereint, das wollen wir durch den nigerianischen verstorbenen Afrobeat Künstler und Aktivisten Fela Kuti und dem aktuellen Erfolg moderner afrikanischer Musik, wie Afrobeats, Amapiano und Afro House verdeutlichen.",
+    "evidence": "Name and description reference Nigerian Afrobeat artist Fela Kuti and modern African music such as Afrobeats, Amapiano and Afro House."
+  },
+  {
+    "id": "p-065",
+    "pool": "parade",
+    "name": "Caribbean Colors",
+    "country": "Caribbean region",
+    "region": "Caribbean",
+    "confidence": 90,
+    "tags": [
+      "Caribbean region"
+    ],
+    "description": "„Caribbean Colors Mas Band bringt die Energie und Lebensfreude der Karibik auf die Straße. Mit farbenprächtigen Kostümen, mitreißender Musik und leidenschaftlichem Tanz feiern wir die Tradition des karibischen Karnevals.",
+    "evidence": "Name and description explicitly present Caribbean carnival energy, costumes, music and dance."
+  },
+  {
+    "id": "p-066",
+    "pool": "parade",
+    "name": "Reggaeinberlin.de",
+    "country": "Jamaica",
+    "region": "Caribbean",
+    "confidence": 92,
+    "tags": [
+      "Jamaica"
+    ],
+    "description": "Positive Vibration – Too much trouble in the world. Beim KdK feiern wir mit Reggae die Vielfalt. In Zeiten von Krieg und Naturkatastrophen geben satte Bässe, Rhythmus und Liebe neue Kraft. Die Reggaekultur hat sich von Jamaika aus in die ganze Welt verbreitet – wie Samen im Wind. Im vergangenen Jahr wurde Jamaika hart vom Hurrikan Melissa getroffen. Doch: Jamaica Strong! Unterstützt den Wiederaufbau und spendet auf helpjamaica.org. Spread the message: One Love. Musik schafft Liebe, Zusammenhalt und Solidarität – und das Bewusstsein, gemeinsam unseren Planeten besser zu schützen. Love&amp;Reggae.",
+    "evidence": "Description states reggae culture spread from Jamaica and uses Jamaica Strong / One Love references."
+  },
+  {
+    "id": "s-001",
+    "pool": "street-fest",
+    "name": "AFRO HAUS",
+    "country": "African diaspora",
+    "region": "Africa / Diaspora",
+    "confidence": 55,
+    "tags": [
+      "African diaspora"
+    ],
+    "description": "Im AFRO HAUS Music Corner treffen rhythmische Sounds, kreative Energie und Community aufeinander. Euch erwartet ein abwechslungsreiches Programm aus Afrobeats, Amapiano, High-life, Soul, Hip-Hop und modernen elektronischen Sounds, begleitet von täglichen Live-Acts, spontanen Performances und ausgewählten DJ-Sets.",
+    "evidence": "Source listing uses broad African or Afro-diasporic musical markers without a single dominant national signal."
+  },
+  {
+    "id": "s-002",
+    "pool": "street-fest",
+    "name": "Tropical Disco",
+    "country": "Jamaica / reggae diaspora",
+    "region": "Caribbean",
+    "confidence": 82,
+    "tags": [
+      "Jamaica",
+      "reggae diaspora"
+    ],
+    "description": "Das in Mailand gebaute Tropic Disco Sound System wird zum Berliner Karneval der ­Kulturen reisen, um den Geist der jamaikanischen und englischen Sound-System-Kultur zu feiern. Während der vier Veranstaltungstage wird die Tropic-Disco-Crew Künstler aus der ursprünglichen britischen Soundsystem-Szene sowie lokale DJs und Crews empfangen und einen Mix aus Reggae und Weltmusik anbieten.",
+    "evidence": "Source listing references reggae, dancehall, rocksteady, or Jamaica directly."
+  },
+  {
+    "id": "s-003",
+    "pool": "street-fest",
+    "name": "Sinti Corner",
+    "country": "Sinti / Roma culture",
+    "region": "Europe / Diaspora",
+    "confidence": 78,
+    "tags": [
+      "Sinti / Roma culture"
+    ],
+    "description": "Die Rosenbergs präsentieren: Lust, Laune, Tanz!",
+    "evidence": "Source listing explicitly identifies Sinti or Roma cultural framing."
+  },
+  {
+    "id": "s-004",
+    "pool": "street-fest",
+    "name": "Rogerio",
+    "country": "Global",
+    "region": "Global",
+    "confidence": 60,
+    "tags": [
+      "Global"
+    ],
+    "description": "Musiker*innen aus aller Welt, die den KdK besuchen und im Vorbeigehen spontan Musik machen möchten, sind eingeladen, ein Stück ihrer Kultur und den musikalischen Reichtum ihres Landes mit anderen zu zelebrieren. Wir nutzen die Bühne, um durch die universelle Sprache der Musik uns zu begegnen und auszutauschen.",
+    "evidence": "Source listing frames the entry as global or world-spanning rather than tied to one nationality."
+  },
+  {
+    "id": "s-005",
+    "pool": "street-fest",
+    "name": "Heilig-Kreuz-Kirche",
+    "country": "Intercultural",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "Intercultural"
+    ],
+    "description": "Das Programm verbindet Musik, Gespräche, Lesungen, spirituelle Impulse und kulturelle Beiträge aus unterschiedlichen Communities.",
+    "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
+  },
+  {
+    "id": "s-006",
+    "pool": "street-fest",
+    "name": "Dança de Coraçâo",
+    "country": "Angola",
+    "region": "Africa",
+    "confidence": 98,
+    "tags": [
+      "Angola"
+    ],
+    "description": "Unser Verein hat es sich zum Ziel gesetzt, den angolanischen Paartanz Kizomba Semba de Angola, mit seiner Kultur nachhaltig beim Karneval der Kulturen zu vertreten. In diesem Sinne ist es unser Anliegen, das allgemeine Verständnis für Kultur zu fördern. Wir laden alle Besucher*innen ein, den emotoionalen Tanz auszuprobieren und sich begeistern zu lassen. Tanz ist Leben!",
+    "evidence": "Description explicitly represents the Angolan couple dance Kizomba Semba de Angola."
+  },
+  {
+    "id": "s-007",
+    "pool": "street-fest",
+    "name": "ORWOHaus",
+    "country": "Germany / Berlin",
+    "region": "Europe",
+    "confidence": 62,
+    "tags": [
+      "Germany",
+      "Berlin"
+    ],
+    "description": "Bezahlbare Räume für Musiker*innen, in denen sie sich entwickeln und ungestört und nicht störend an Ihrer Musik arbeiten können, sind ein rares Gut. Das ORWOhaus e.V. ist das größte selbstverwaltete Proberaumhaus, das von den Musiker*innen verantwortungsvoll und nachhaltig betrieben wird. Es ist ein Ort der vielfältigen Musik. Für den KdK bringen wir den Proberaum zu euch auf die Straße und präsentieren Musiker*innen und ihre Passion getreu unserem Leitsatz »Musik verändert die Welt«.",
+    "evidence": "Description presents a Berlin self-managed rehearsal-house collective and diverse local music infrastructure."
+  },
+  {
+    "id": "s-008",
+    "pool": "street-fest",
+    "name": "Perry Stage",
+    "country": "Jamaica / reggae diaspora",
+    "region": "Caribbean",
+    "confidence": 82,
+    "tags": [
+      "Jamaica",
+      "reggae diaspora"
+    ],
+    "description": "Die zwei dienstältesten Aktivisten der Berliner Reggae-Community werden gemeinsam die gesamte musikalische Bandbreite der hiesigen urbanen Reggae DJ Szene präsentieren. Von Rocksteady über Dancehall bis hin zu Jungle – jegliche Styles des jamaikanschen Kosmos sind willkommen.",
+    "evidence": "Source listing references reggae, dancehall, rocksteady, or Jamaica directly."
+  },
+  {
+    "id": "s-009",
+    "pool": "street-fest",
+    "name": "ONMYMIND",
+    "country": "African / Caribbean / Brazilian diaspora",
+    "region": "Africa / Caribbean / Latin America",
+    "confidence": 64,
+    "tags": [
+      "African diaspora",
+      "Caribbean",
+      "Brazil"
+    ],
+    "description": "Afrohouse, Amapiano, Afrobeats, AfroSwing, Baile Funk, Bouyon, Batida, Gqom, Dancehall, Soca, R&B, Hip-Hop und globale Club Sounds treffen bei der ONMYMIND Corner hosted by DJ O’Nit auf sommerliche Day-Party-Energie mitten auf dem Karneval der Kulturen. Unsere musikalischen Einflüsse stammen aus verschiedenen ­ Kulturen und Communities weltweit, insbesondere aus afrikanischen, karibischen und lateinamerikanischen Musikszenen.",
+    "evidence": "Description explicitly cites African, Caribbean and Latin American music scenes including Afrohouse, Amapiano, Baile Funk, Bouyon, Dancehall and Soca."
+  },
+  {
+    "id": "s-010",
+    "pool": "street-fest",
+    "name": "Latin Hell",
+    "country": "Latin America-wide programme",
+    "region": "Latin America",
+    "confidence": 84,
+    "tags": [
+      "Latin America-wide programme"
+    ],
+    "description": "Die Latin Hell Music Corner vereint über 35 lateinamerikanische Künstler*innen aus verschiedenen Städten Deutschlands, um die musikalische und kulturelle Vielfalt ganz Lateinamerikas in Berlin zu repräsentieren. Mit authentischen Rhythmen, einer familiären Community und einer Atmosphäre zum Tanzen, Mitfeiern und Zusammenkommen schafft dieser Space ein echtes Stück lateinamerikanischer Kultur mitten im Karneval der Kulturen.",
+    "evidence": "Description says the Music Corner represents the musical and cultural diversity of all Latin America."
+  },
+  {
+    "id": "s-011",
+    "pool": "street-fest",
+    "name": "Bitte um Segen für das Fest",
+    "country": "Intercultural",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "Intercultural"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
+  },
+  {
+    "id": "s-012",
+    "pool": "street-fest",
+    "name": "Yoga & Meditation für Vielfalt",
+    "country": "Intercultural",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "Intercultural"
+    ],
+    "description": "Sigrid Künstner, bis 19:00",
+    "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
+  },
+  {
+    "id": "s-013",
+    "pool": "street-fest",
+    "name": "Orgel-Nachtmusik mit Segen zur Nacht",
+    "country": "Intercultural",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "Intercultural"
+    ],
+    "description": "Benno Scheerbarth + Pfarrerin Barbara von Bremen",
+    "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
+  },
+  {
+    "id": "s-014",
+    "pool": "street-fest",
+    "name": "Kirchenführung",
+    "country": "Intercultural",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "Intercultural"
+    ],
+    "description": "Marita Schmieder",
+    "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
+  },
+  {
+    "id": "s-015",
+    "pool": "street-fest",
+    "name": "Ohrpiraten",
+    "country": "Global",
+    "region": "Global",
+    "confidence": 60,
+    "tags": [
+      "Global"
+    ],
+    "description": "musikalische Weltreise",
+    "evidence": "Source listing frames the entry as global or world-spanning rather than tied to one nationality."
+  },
+  {
+    "id": "s-016",
+    "pool": "street-fest",
+    "name": "CALEO / Gitarrenduo",
+    "country": "Latin America",
+    "region": "Latin America",
+    "confidence": 55,
+    "tags": [
+      "Latin America"
+    ],
+    "description": "Jazz, Rock, Blues und Latin",
+    "evidence": "Source listing signals a broad Latin American context without a single dominant country match."
+  },
+  {
+    "id": "s-017",
+    "pool": "street-fest",
+    "name": "Aroeiras",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 92,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "Aroeiras spielt brasilianischen Forró und Samba de Coco mit Herz und Seele. Die vier Frauen bringen mit Akkordeon, Perkussion und bezauberndem Gesang ihre diversen kulturellen Einflüsse in ihre Musik ein.",
+    "evidence": "Programme lists Forró and Samba de Coco and describes Brazilian Forró and Samba de Coco."
+  },
+  {
+    "id": "s-018",
+    "pool": "street-fest",
+    "name": "Foro in the City",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 88,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "brasilianische Tanzmusik",
+    "evidence": "Programme labels the act as Brazilian dance music."
+  },
+  {
+    "id": "s-019",
+    "pool": "street-fest",
+    "name": "Orgel-Nachtmusik",
+    "country": "Intercultural",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "Intercultural"
+    ],
+    "description": "Reinhard Hoffmann",
+    "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
+  },
+  {
+    "id": "s-020",
+    "pool": "street-fest",
+    "name": "Segen zur Nacht",
+    "country": "Intercultural",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "Intercultural"
+    ],
+    "description": "Lydia Schulz",
+    "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
+  },
+  {
+    "id": "s-021",
+    "pool": "street-fest",
+    "name": "Pfingstgottesdienst",
+    "country": "Intercultural",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "Intercultural"
+    ],
+    "description": "Pfarrerin Christina Biere + Regionalkantor Johannes Stolte",
+    "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
+  },
+  {
+    "id": "s-022",
+    "pool": "street-fest",
+    "name": "Orgelführung",
+    "country": "Intercultural",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "Intercultural"
+    ],
+    "description": "Johannes Stolte",
+    "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
+  },
+  {
+    "id": "s-023",
+    "pool": "street-fest",
+    "name": "MA-Trio",
+    "country": "Japan",
+    "region": "East Asia",
+    "confidence": 82,
+    "tags": [
+      "Japan"
+    ],
+    "description": "traditionellen Honkyoku, Improvisation",
+    "evidence": "Source listing explicitly references Japanese traditions or instruments."
+  },
+  {
+    "id": "s-024",
+    "pool": "street-fest",
+    "name": "The Balkonians",
+    "country": "Balkans",
+    "region": "Europe",
+    "confidence": 88,
+    "tags": [
+      "Balkans"
+    ],
+    "description": "Acoustic Balkan Fusion",
+    "evidence": "Programme labels the act Acoustic Balkan Fusion."
+  },
+  {
+    "id": "s-025",
+    "pool": "street-fest",
+    "name": "Tants in Gartn Eydn",
+    "country": "Jewish diaspora / Eastern Europe",
+    "region": "Europe / Diaspora",
+    "confidence": 82,
+    "tags": [
+      "Jewish diaspora",
+      "Eastern Europe"
+    ],
+    "description": "Klezmerschwof",
+    "evidence": "Programme labels the act Klezmerschwof, pointing to klezmer and Jewish diasporic music."
+  },
+  {
+    "id": "s-026",
+    "pool": "street-fest",
+    "name": "Tanz & Poesie der Derwische",
+    "country": "Sufi / Islamic tradition",
+    "region": "Middle East / Global",
+    "confidence": 62,
+    "tags": [
+      "Sufi",
+      "Islamic tradition"
+    ],
+    "description": "Sufi-Zentrum Rabbaniyya",
+    "evidence": "Source listing explicitly references Sufi or dervish performance tradition."
+  },
+  {
+    "id": "s-027",
+    "pool": "street-fest",
+    "name": "»Wir weigern uns Feinde zu sein«",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Worte und Klänge der Versöhnung",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-028",
+    "pool": "street-fest",
+    "name": "Klänge und Tanz der Alewiten",
+    "country": "Alevi culture / Turkey",
+    "region": "Middle East / Europe",
+    "confidence": 72,
+    "tags": [
+      "Alevi culture",
+      "Turkey"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Programme explicitly references Alevi sounds and dance."
+  },
+  {
+    "id": "s-029",
+    "pool": "street-fest",
+    "name": "Interreligiöses Friedensgebet",
+    "country": "Intercultural",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "Intercultural"
+    ],
+    "description": "»Die Versöhnung stärken«",
+    "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
+  },
+  {
+    "id": "s-030",
+    "pool": "street-fest",
+    "name": "Begegnung",
+    "country": "Intercultural",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "Intercultural"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
+  },
+  {
+    "id": "s-031",
+    "pool": "street-fest",
+    "name": "Orgel und Abschlusssegen",
+    "country": "Intercultural",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "Intercultural"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
+  },
+  {
+    "id": "s-032",
+    "pool": "street-fest",
+    "name": "Intro Stage / DJ: Mishkeen",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Daytime: R&B / Nighttime: Grime UK Garage",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-033",
+    "pool": "street-fest",
+    "name": "DJ: Maria José",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-034",
+    "pool": "street-fest",
+    "name": "Js. Scotty",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Auftritt",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-035",
+    "pool": "street-fest",
+    "name": "Johnny Kulo",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Auftritt",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-036",
+    "pool": "street-fest",
+    "name": "Meron",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Auftritt",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-037",
+    "pool": "street-fest",
+    "name": "Milli Yap",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Auftritt",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-038",
+    "pool": "street-fest",
+    "name": "DJ: TICKLISH",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-039",
+    "pool": "street-fest",
+    "name": "DJ: SOSA",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "bis 22:00",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-040",
+    "pool": "street-fest",
+    "name": "{Sonic Breath} with Dongsinne",
+    "country": "Intercultural",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "Intercultural"
+    ],
+    "description": "Singing Bowls & Welcome Meditation",
+    "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
+  },
+  {
+    "id": "s-041",
+    "pool": "street-fest",
+    "name": "Perfomance Arts, Music: The Space",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-042",
+    "pool": "street-fest",
+    "name": "DJ: Chucky",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-043",
+    "pool": "street-fest",
+    "name": "DJ: Jewelz",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-044",
+    "pool": "street-fest",
+    "name": "DJ: Malengo",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-045",
+    "pool": "street-fest",
+    "name": "DJ: Yung Feels",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-046",
+    "pool": "street-fest",
+    "name": "Mike Nasa",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Auftritt",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-047",
+    "pool": "street-fest",
+    "name": "Chovoo",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Auftritt",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-048",
+    "pool": "street-fest",
+    "name": "Dimi Rompos",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Auftritt",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-049",
+    "pool": "street-fest",
+    "name": "Goldie",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Auftritt",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-050",
+    "pool": "street-fest",
+    "name": "Bipolar Soundsystem",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "bis 22:00",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-051",
+    "pool": "street-fest",
+    "name": "Perfomance Arts, Music: Jasmine guitar",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-052",
+    "pool": "street-fest",
+    "name": "DJ: Mr. Lee",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-053",
+    "pool": "street-fest",
+    "name": "DJ: Toolow",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-054",
+    "pool": "street-fest",
+    "name": "DJ: Dipped in Colors",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-055",
+    "pool": "street-fest",
+    "name": "DJ: Stinhow",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-056",
+    "pool": "street-fest",
+    "name": "Kaysanova",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Auftritt",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-057",
+    "pool": "street-fest",
+    "name": "Chris Paka",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Auftritt",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-058",
+    "pool": "street-fest",
+    "name": "Benzko",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Auftritt",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-059",
+    "pool": "street-fest",
+    "name": "DJ: Medussar",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-060",
+    "pool": "street-fest",
+    "name": "DJ: Onit",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-061",
+    "pool": "street-fest",
+    "name": "Comedy",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-062",
+    "pool": "street-fest",
+    "name": "No Ghetto Soundsystem",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "bis 18:00",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-063",
+    "pool": "street-fest",
+    "name": "Wayra Puka",
+    "country": "Andean South America",
+    "region": "Latin America",
+    "confidence": 82,
+    "tags": [
+      "Andean South America"
+    ],
+    "description": "Wayra Puka, gegründet vor 7 Jahren in Berlin, bringt mit 10 Musiker*innen aus Südamerika Andenklänge nach Europa. Eine musikalische Reise von Argentinien bis Kolumbien voller vielfältiger Rhythmen.",
+    "evidence": "Description says Wayra Puka travels musically through the Andean region with Andean folklore."
+  },
+  {
+    "id": "s-064",
+    "pool": "street-fest",
+    "name": "Gabo Naas",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 84,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "Die Gabo Naas Group nimmt das Publikum mit auf eine musikalische Reise durch Lateinamerika – von Zamba und Huayno bis Candombe, Festejo und Son, modern interpretiert und doch fest in der Tradition verwurzelt.",
+    "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
+  },
+  {
+    "id": "s-065",
+    "pool": "street-fest",
+    "name": "Cayeye",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 84,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "Cayeye ist eine 12-köpfige Salsa Brava Band aus Berlin mit 70er-Vibes, lateinamerikanischer Hitze und purer Tanzenergie. Live verschmelzen Klassiker und eigene Arrangements zu Salsa, der das Herz berührt und die Hüften schwingen lässt.",
+    "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
+  },
+  {
+    "id": "s-066",
+    "pool": "street-fest",
+    "name": "Laura la Risa Niñas y Flores",
+    "country": "Spain",
+    "region": "Europe",
+    "confidence": 88,
+    "tags": [
+      "Spain"
+    ],
+    "description": "Laura la Risa – Flamencotänzerin, Choreografin und Pionierin des Kinderflamencos in Berlin. Seit 1996 beim KdK, steht sie für Inklusion, kulturelle Vielfalt und künstlerisch-pädagogische Projekte in Berlin.",
+    "evidence": "Description identifies Laura la Risa as a Flamenco dancer and pioneer of children's flamenco in Berlin."
+  },
+  {
+    "id": "s-067",
+    "pool": "street-fest",
+    "name": "Palo Santo",
+    "country": "Colombia / Afro-Colombian culture",
+    "region": "Latin America / Africa diaspora",
+    "confidence": 94,
+    "tags": [
+      "Colombia",
+      "Caribbean",
+      "African diaspora"
+    ],
+    "description": "Palo Santo fängt den Spirit der kolumbianischen Küste ein. Mit Trommeln, Gaita, Bass und Piano bringen sie die Hitze und Energie des Karnevals direkt auf die Bühne.",
+    "evidence": "Programme lists Bullerengue, Afro-Colombian and Cumbia, and describes Colombian coastal spirit."
+  },
+  {
+    "id": "s-068",
+    "pool": "street-fest",
+    "name": "Antajayu",
+    "country": "Chile",
+    "region": "Latin America",
+    "confidence": 84,
+    "tags": [
+      "Chile"
+    ],
+    "description": "Zwischen den Anden und Neukölln: Antajayú – mit Wurzeln in Chile und Guatemala – verbindet traditionelle andine Klänge mit Rock, Jazz und eigenen Kompositionen. Musik, die Welten verbindet.",
+    "evidence": "Source listing explicitly references Chile or Chilean dance traditions."
+  },
+  {
+    "id": "s-069",
+    "pool": "street-fest",
+    "name": "Feu Marinho",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 90,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "Feu Marinho Quintett (BR) verbindet brasilianische Musik, Jazz und östliche Einflüsse. In „Volume“, seinem kommenden Album 2026, präsentiert er originalen Sound, geprägt von internationalen Kollaborationen und Auftritten in Europa, Asien und Afrika.",
+    "evidence": "Programme labels Brazilian jazz and description says Feu Marinho Quintett (BR) connects Brazilian music, jazz and eastern influences."
+  },
+  {
+    "id": "s-070",
+    "pool": "street-fest",
+    "name": "Kumbia Ambassadors",
+    "country": "Colombia",
+    "region": "Latin America",
+    "confidence": 78,
+    "tags": [
+      "Colombia",
+      "Caribbean"
+    ],
+    "description": "Kumbia Ambassadors wurde 2024 in Berlin von chilenischen Musikern gegründet. Sie verbinden tropische Musik mit experimentellen Klängen. Ihre energiegeladenen Shows mischen Cumbia, Punk und elektronische Musik",
+    "evidence": "Source listing points to Colombian-origin genres, with Caribbean or Afro-Colombian signals where stated."
+  },
+  {
+    "id": "s-071",
+    "pool": "street-fest",
+    "name": "LA MEKANICA",
+    "country": "Cuba",
+    "region": "Caribbean",
+    "confidence": 96,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "LA MEKANICA ist eine kubanische Timba- und Salsa-Band. Gegründet 2017, steht sie mit neuer Besetzung wieder auf der Bühne. Zehn Musiker*innen aus Kuba verbinden kraftvolle Bläser mit modernen Timba-Rhythmen und Salsa",
+    "evidence": "Description explicitly says LA MEKANICA is a Cuban Timba and Salsa band with musicians from Cuba."
+  },
+  {
+    "id": "s-072",
+    "pool": "street-fest",
+    "name": "Ateze",
+    "country": "Mexico / Latinx diaspora",
+    "region": "Latin America / Diaspora",
+    "confidence": 82,
+    "tags": [
+      "Mexico",
+      "Latinx diaspora"
+    ],
+    "description": "Ateze, geboren in Mexiko und aufgewachsen in Berlin, verbindet seine Latinx-Wurzeln mit der urbanen Atmosphäre Berlins. Sein zweisprachiger Sound vereint Pop, Reggaeton und R&B/RnB, während er Themen wie Liebe, Verlust und Liebeskummer selbstbewusst und ehrlich behandelt.",
+    "evidence": "Description says Ateze was born in Mexico, grew up in Berlin and connects Latinx roots with Berlin."
+  },
+  {
+    "id": "s-073",
+    "pool": "street-fest",
+    "name": "La Guagua Music",
+    "country": "Argentina / Latin America",
+    "region": "Latin America",
+    "confidence": 70,
+    "tags": [
+      "Argentina",
+      "Latin America"
+    ],
+    "description": "Dieses Kollektiv für Tango und lateinamerikanische Lieder transportiert wie ein bunter Bus klangvolle Geschichten, deren Essenz durch inspirierte Musiker*innen direkt die Herzen des Publikums berührt.",
+    "evidence": "Source listing points to tango or Argentine musical heritage with broader Latin American framing."
+  },
+  {
+    "id": "s-074",
+    "pool": "street-fest",
+    "name": "A Panda do Sol",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 86,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "Das Berliner Kollektiv A Panda do Sol verbindet Samba aus Brasilien, karibische Grooves, Chanson und Jazz zu warmen, poetischen Konzerten voller Rhythmus, Nostalgie und sonniger Energie.",
+    "evidence": "Source listing uses Brazilian genres or place signals such as samba, maracatu, Bahia, or Pernambuco."
+  },
+  {
+    "id": "s-075",
+    "pool": "street-fest",
+    "name": "MIRMIX",
+    "country": "Global",
+    "region": "Global",
+    "confidence": 60,
+    "tags": [
+      "Global"
+    ],
+    "description": "Global Brass Fusion",
+    "evidence": "Source listing frames the entry as global or world-spanning rather than tied to one nationality."
+  },
+  {
+    "id": "s-076",
+    "pool": "street-fest",
+    "name": "Pasaje abierto",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean / Latin America",
+    "confidence": 86,
+    "tags": [
+      "Cuba",
+      "Caribbean",
+      "Latin America"
+    ],
+    "description": "Heiße Rhythmen aus Kuba treffen auf die pulsierende Energie Berlins. Pasaje Abierto bringt unter der Leitung von Wiljoph Sunday Mounkassa Williams „Bebito“ authentischen Latin Sound und karibische Leidenschaft auf die Bühne.",
+    "evidence": "Description says hot rhythms from Cuba meet Berlin energy and lists Salsa, Son and Latin Jazz."
+  },
+  {
+    "id": "s-077",
+    "pool": "street-fest",
+    "name": "Sonic Interventions",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 84,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "Sonic Interventions ist ein diaspora-futuristisches Ensemble aus Berlin. 2020 aus der transkulturellen Jazzszene Berlins hervorgegangen, verbindet die Gruppe Live Improvsation, Jazz, Groove und Ritual zu kollektiven Erfahrungen musikalischer Utopie.",
+    "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
+  },
+  {
+    "id": "s-078",
+    "pool": "street-fest",
+    "name": "Preisverleihung",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-079",
+    "pool": "street-fest",
+    "name": "Cuatro Piraguas",
+    "country": "Peru / Colombia / Venezuela",
+    "region": "Latin America",
+    "confidence": 78,
+    "tags": [
+      "Peru",
+      "Colombia",
+      "Venezuela",
+      "African diaspora"
+    ],
+    "description": "Cuatro Piraguas bringt afro-peruanische Rhythmen und Folklore aus Kolumbien und Venezuela auf die Bühne. Ihre Musik lädt zum Tanzen und Lauschen ein und erzählt von Gerechtigkeit, Natur und dem Alltag",
+    "evidence": "Description references Afro-Peruvian rhythms and folklore from Colombia and Venezuela."
+  },
+  {
+    "id": "s-080",
+    "pool": "street-fest",
+    "name": "Alafia con Iré",
+    "country": "Cuba / Afro-Cuban diaspora",
+    "region": "Caribbean / Africa diaspora",
+    "confidence": 94,
+    "tags": [
+      "Cuba",
+      "Caribbean",
+      "African diaspora"
+    ],
+    "description": "Alafia con Iré ist eine kubanische Musikgruppe in Berlin, die die Tradition der afrokubanischen Musik und insbesondere auch der kubanischen Rumba auf die Bühne bringt und auch eigene Kompositionen spielt.",
+    "evidence": "Description explicitly identifies a Cuban music group presenting Afro-Cuban music and Cuban rumba."
+  },
+  {
+    "id": "s-081",
+    "pool": "street-fest",
+    "name": "Canto Diáspora",
+    "country": "Latin American diaspora",
+    "region": "Latin America / Diaspora",
+    "confidence": 78,
+    "tags": [
+      "Latin American diaspora"
+    ],
+    "description": "Canto Diáspora ist ein Berliner Frauenvokalensemble unter der Leitung von Carolina Riaño. Stimmen aus Lateinamerika verbinden Tradition und Gegenwart – getragen von Zusammenhalt, Erinnerung und sinnlicher gemeinsamer Kraft.",
+    "evidence": "Description identifies a Berlin women's vocal ensemble performing Latin American folklore."
+  },
+  {
+    "id": "s-082",
+    "pool": "street-fest",
+    "name": "Cherry Bandora",
+    "country": "Turkey / Anatolia",
+    "region": "Middle East / Europe",
+    "confidence": 84,
+    "tags": [
+      "Turkey",
+      "Anatolia"
+    ],
+    "description": "Greek Bouzouki Surf – Psychedelic Oriental Groove",
+    "evidence": "Source listing explicitly references Turkish or Anatolian music and performance traditions."
+  },
+  {
+    "id": "s-083",
+    "pool": "street-fest",
+    "name": "Baris Manco Tribute Band",
+    "country": "Turkey / Anatolia",
+    "region": "Middle East / Europe",
+    "confidence": 84,
+    "tags": [
+      "Turkey",
+      "Anatolia"
+    ],
+    "description": "Folk Rock",
+    "evidence": "Source listing explicitly references Turkish or Anatolian music and performance traditions."
+  },
+  {
+    "id": "s-084",
+    "pool": "street-fest",
+    "name": "Derdibol",
+    "country": "Turkey / Anatolia",
+    "region": "Middle East / Europe",
+    "confidence": 68,
+    "tags": [
+      "Turkey",
+      "Anatolia"
+    ],
+    "description": "Psychedelic-Retro-Pop",
+    "evidence": "Appears in the Turkish/Anatolian-oriented Rogerio block and is described as psychedelic-retro-pop."
+  },
+  {
+    "id": "s-085",
+    "pool": "street-fest",
+    "name": "Djane Ipek",
+    "country": "Turkey / Anatolia",
+    "region": "Middle East / Europe",
+    "confidence": 84,
+    "tags": [
+      "Turkey",
+      "Anatolia"
+    ],
+    "description": "Türkisch Pop",
+    "evidence": "Source listing explicitly references Turkish or Anatolian music and performance traditions."
+  },
+  {
+    "id": "s-086",
+    "pool": "street-fest",
+    "name": "Sevtap & Engin",
+    "country": "Turkey",
+    "region": "Middle East / Europe",
+    "confidence": 92,
+    "tags": [
+      "Turkey"
+    ],
+    "description": "Sevtap & Engin sind Berliner Musiker mit langjähriger Bühnenerfahrung. Sie interpretiert bekannte türkische Songs mit Gitarre, Cajon und Percussion poppig, rockig, warm, lebendig und voller Seele",
+    "evidence": "Description says they interpret well-known Turkish songs."
+  },
+  {
+    "id": "s-087",
+    "pool": "street-fest",
+    "name": "June May July",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Psych-Funk",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-088",
+    "pool": "street-fest",
+    "name": "Ajvar",
+    "country": "Balkans",
+    "region": "Europe",
+    "confidence": 82,
+    "tags": [
+      "Balkans"
+    ],
+    "description": "Ajvar spielt eigene Kompositionen mit Einflüssen aus dem Balkan sowie ausgewählte Perlen des bestehenden Balkan-Repertoires. Die internationale Gruppe erkundet gemeinsam, was dieser Musik ihren unverwechselbaren Charakter und lebendigen Charme verleiht – besetzt mit Ira Shiran am Akkordeon, Penelope Gkika an der Violine, Michael Glucksmann an der E-Gitarre und Hans Bilger am Kontrabass.",
+    "evidence": "Programme labels Balkan music and description says the group explores Balkan repertoire and influences."
+  },
+  {
+    "id": "s-089",
+    "pool": "street-fest",
+    "name": "Kahraman Kilinc",
+    "country": "Turkey",
+    "region": "Middle East / Europe",
+    "confidence": 88,
+    "tags": [
+      "Turkey"
+    ],
+    "description": "Türkische Indie Pop / Rock",
+    "evidence": "Programme labels Turkish indie pop/rock."
+  },
+  {
+    "id": "s-090",
+    "pool": "street-fest",
+    "name": "Gleis 11",
+    "country": "Turkey / Anatolia",
+    "region": "Middle East / Europe",
+    "confidence": 84,
+    "tags": [
+      "Turkey",
+      "Anatolia"
+    ],
+    "description": "Anatolian psychedelic Rock",
+    "evidence": "Source listing explicitly references Turkish or Anatolian music and performance traditions."
+  },
+  {
+    "id": "s-091",
+    "pool": "street-fest",
+    "name": "Oku & Baba Shango",
+    "country": "African diaspora / Nigeria",
+    "region": "Africa / Diaspora",
+    "confidence": 74,
+    "tags": [
+      "African diaspora",
+      "Nigeria"
+    ],
+    "description": "Afrofunk & Afrobeat",
+    "evidence": "Programme labels Afrofunk and Afrobeat, with Shango/Yoruba cultural naming signal."
+  },
+  {
+    "id": "s-092",
+    "pool": "street-fest",
+    "name": "DJ Erci E",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Hip-Hop / Funk Soul",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-093",
+    "pool": "street-fest",
+    "name": "Balkanova",
+    "country": "Balkans",
+    "region": "Europe",
+    "confidence": 84,
+    "tags": [
+      "Balkans"
+    ],
+    "description": "Balkanfolk & World Jazz",
+    "evidence": "Programme labels Balkanfolk and World Jazz."
+  },
+  {
+    "id": "s-094",
+    "pool": "street-fest",
+    "name": "Ares Gratal Duo",
+    "country": "Catalonia / Sephardic diaspora",
+    "region": "Europe / Mediterranean / Diaspora",
+    "confidence": 76,
+    "tags": [
+      "Catalonia",
+      "Sephardic diaspora"
+    ],
+    "description": "Katalanische Sängerin und Multiinstrumentalistin aus Lleida, heute in Berlin. Zwischen Improvisation, Eigenkompositionen und sephardischer Musik erzählt sie persönliche Geschichten in mehreren Sprachen.",
+    "evidence": "Description identifies a Catalan singer from Lleida and Sephardic influences."
+  },
+  {
+    "id": "s-095",
+    "pool": "street-fest",
+    "name": "Parka",
+    "country": "Turkey / Anatolia",
+    "region": "Middle East / Europe",
+    "confidence": 84,
+    "tags": [
+      "Turkey",
+      "Anatolia"
+    ],
+    "description": "Anatolian Folk Rock",
+    "evidence": "Source listing explicitly references Turkish or Anatolian music and performance traditions."
+  },
+  {
+    "id": "s-096",
+    "pool": "street-fest",
+    "name": "Bidar",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Alternative Jazz, R&B",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-097",
+    "pool": "street-fest",
+    "name": "Neon Nazar",
+    "country": "Turkey / Anatolia",
+    "region": "Middle East / Europe",
+    "confidence": 84,
+    "tags": [
+      "Turkey",
+      "Anatolia"
+    ],
+    "description": "Anatolian Psychedelic",
+    "evidence": "Source listing explicitly references Turkish or Anatolian music and performance traditions."
+  },
+  {
+    "id": "s-098",
+    "pool": "street-fest",
+    "name": "Ödül & Funk Alaturka",
+    "country": "Turkey / Anatolia",
+    "region": "Middle East / Europe",
+    "confidence": 84,
+    "tags": [
+      "Turkey",
+      "Anatolia"
+    ],
+    "description": "Funk Pop Orient",
+    "evidence": "Source listing explicitly references Turkish or Anatolian music and performance traditions."
+  },
+  {
+    "id": "s-099",
+    "pool": "street-fest",
+    "name": "DJ Aziza A",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Hip-Hop Funk Orient",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-100",
+    "pool": "street-fest",
+    "name": "Bloco Explosao",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 92,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "Als Gäste haben wir die Bahia Connection. Wir werden mit über 60 Trommlern am Start sein. Unsere Gruppe probt jede Woche in der Samba-Etage in Berlin Neukölln. Sie ist offen für neue Mitspieler!",
+    "evidence": "Programme lists funk, samba and reggae and the Bloco naming strongly signals Brazilian carnival percussion."
+  },
+  {
+    "id": "s-101",
+    "pool": "street-fest",
+    "name": "Arsen",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Melodic Power Rock",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-102",
+    "pool": "street-fest",
+    "name": "River Rats",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 84,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "Französischer Chanson, Swing",
+    "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
+  },
+  {
+    "id": "s-103",
+    "pool": "street-fest",
+    "name": "Nilipek",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 84,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "Singer Songwriter, Indie Pop",
+    "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
+  },
+  {
+    "id": "s-104",
+    "pool": "street-fest",
+    "name": "Compagnie Noire Machine",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "SMILE ist eine herzerwärmende und humorvolle Zirkusperformance ohne Sprache, in dem die Zirkusartist*innen Achille Piot und Theresa Zinser einem umherfliegendem, wandelbaren Lächeln begegnen und sich auf ein gemeinsames Abenteuer mit ihm einlassen.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-105",
+    "pool": "street-fest",
+    "name": "Company Haa",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Tanz im urbanen Raum",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-106",
+    "pool": "street-fest",
+    "name": "Producciones Abismales",
+    "country": "Spanish-language theatre / Latin American diaspora",
+    "region": "Latin America / Diaspora",
+    "confidence": 58,
+    "tags": [
+      "Spanish-language culture",
+      "Latin American diaspora"
+    ],
+    "description": "Zwei Meeresarten treffen aufeinander, die sich unter normalen Umständen niemals begegnet wären. Klimawandel im Ozean? Ja! Leider… Riesige Fischpuppen beginnen eine beispiellose Wanderung. Sind sie sogenannte invasive Arten? Komm und schau es Dir an…",
+    "evidence": "Spanish-language company name and ecological street-theatre framing suggest a Spanish-language cultural signal without a specific country."
+  },
+  {
+    "id": "s-107",
+    "pool": "street-fest",
+    "name": "Pirates of Percussion",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 86,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "Wir sind eine leidenschaftliche Samba-Trommelgruppe, die auf dem RAW-Gelände beheimatet ist. Kommt vorbei, tanzt und genießt heiße Rhythmen mit einem Kaltgetränk. Wir freuen uns auf Euch!",
+    "evidence": "Source listing uses Brazilian genres or place signals such as samba, maracatu, Bahia, or Pernambuco."
+  },
+  {
+    "id": "s-108",
+    "pool": "street-fest",
+    "name": "GEW Trommelgruppe & Wododrums aus Woltersdorf",
+    "country": "Germany / Berlin",
+    "region": "Europe",
+    "confidence": 58,
+    "tags": [
+      "Germany",
+      "Berlin"
+    ],
+    "description": "Nicht nur für die Demos sind wir in dieser Fusion in der Lage Menschen in unseren rhythmischen Spirit eintauchen zu lassen. Kommt vorbei und lasst es mit uns krachen und ne schöne Partystimmung entstehen lassen.",
+    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+  },
+  {
+    "id": "s-109",
+    "pool": "street-fest",
+    "name": "Sapucaio no Samba",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 92,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "Erlebt die mitreißende Energie des Samba, individuelle Kostüme und spontane Tanz- und Trommelperformances hautnah. Über 100 Tänzerinnen und Trommler aus aller Welt feiern mit euch – kommt vorbei, spürt den Rhythmus und tanzt mit!",
+    "evidence": "Programme labels Carnaval de Rua and describes samba, costumes, dance and drumming."
+  },
+  {
+    "id": "s-110",
+    "pool": "street-fest",
+    "name": "Heike Maria unVORStellBAR & Clozi Wildner",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Wir helfen Euch, ungewöhnliche Fantasiekostüme aus Recyclingmaterialien zu gestalten. Gerne könnt Ihr auch Dinge mitbringen, die Ihr verwenden wollt.",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-111",
+    "pool": "street-fest",
+    "name": "Augustine Otto & Mujer Gallina",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Baut, gestaltet und bemalt mit uns eine Stadt aus Papkartons. Eimerweise Farben werden zur Verfügung gestellt, Ihr könnt loslegen, experimentieren, räumliche Erfahrungen sammeln in eurer City, mit Pinseln und Farbe Spaß haben! Bringt gerne Malkittel mit!",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-112",
+    "pool": "street-fest",
+    "name": "Oliver & Christa",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Wir möchten mit Euch jonglieren und lachen: Flowerstick… Diabolo…Teller drehen… Ihr werdet sehen… mit Anleitung zum verstehen… Circus Kultur…ein buntes Treiben… die Fun Art Workers…",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-113",
+    "pool": "street-fest",
+    "name": "do it together",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Siebdruck für Groß und Klein",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-114",
+    "pool": "street-fest",
+    "name": "Hexe Klex",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Hexe Klex vermittelt auch den Kleinsten das Nähen mit der Hand, den Größeren erst recht, ganz egal ob mit stumpfer oder spitzer Nadel. Wir gestalten gemeinsam farbenfrohe Mäuse, kleine Fingerpüppchen, Sorgen fressende Monster oder bunte Blumen zum Anstecken.",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-115",
+    "pool": "street-fest",
+    "name": "Zakapüs",
+    "country": "Global",
+    "region": "Global",
+    "confidence": 60,
+    "tags": [
+      "Global"
+    ],
+    "description": "Madame Zakapüs hat seltsame Kreaturen gesammelt. Ein Bestiarium mit Fabelwesen aus aller Welt: ein riesiger Frosch, Geister, singende Skelette, Aliens… Dies ist die Geschichte ihrer Begegnungen mit diesen ungewöhnlichen Geschöpfen.",
+    "evidence": "Source listing frames the entry as global or world-spanning rather than tied to one nationality."
+  },
+  {
+    "id": "s-116",
+    "pool": "street-fest",
+    "name": "Berliner Grossfiguren",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Wo kommen wir her? Wo gehen wir hin? Spaghetti oder Kekse? Den wirklich wichtigen Fragen im Leben ist Professor Wuschel mit Euch auf der Spur…",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-117",
+    "pool": "street-fest",
+    "name": "Grotest Maru: COSMO",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Mobiles, interaktives Straßentheater – Walk Act",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-118",
+    "pool": "street-fest",
+    "name": "Candumbe",
+    "country": "Uruguay / Chile / Afro-diaspora",
+    "region": "Latin America / Africa diaspora",
+    "confidence": 92,
+    "tags": [
+      "Uruguay",
+      "Chile",
+      "African diaspora"
+    ],
+    "description": "CANDUMBE vereint afro-uruguayischen Candombe und afro-chilenischen Tumbe in einer kraftvollen musikalischen und tänzerischen Begegnung. Trommeln, Bewegung und kollektive Energie schaffen einen interkulturellen Raum, der afrikanisches Erbe im Cono Sur lebendig macht",
+    "evidence": "Description explicitly combines Afro-Uruguayan Candombe and Afro-Chilean Tumbe."
+  },
+  {
+    "id": "s-119",
+    "pool": "street-fest",
+    "name": "Wir sind »Vetter Sound«",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 86,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "Sambagruppe",
+    "evidence": "Source listing uses Brazilian genres or place signals such as samba, maracatu, Bahia, or Pernambuco."
+  },
+  {
+    "id": "s-120",
+    "pool": "street-fest",
+    "name": "Coruja + Satter Bass",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 90,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "Ein Projekt von Kerstin Schreier und Christian Sluzalek. Zwei Gruppen - ein Sound. Wir spielen einen bunten Mix aus modernen und traditionellen brasilianischen Grooves gewürzt mit eigenen Arrangements.",
+    "evidence": "Programme labels Afro-Brazilian percussion and description references Brazilian grooves."
+  },
+  {
+    "id": "s-121",
+    "pool": "street-fest",
+    "name": "Luciana Arcuri",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Eine spontane Improvisation mit der Clownin Maria Eugenia, bei der Ihr von ihrer Ausstrahlung, Magie, Musik und Witzen überrascht werden könnt.",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-122",
+    "pool": "street-fest",
+    "name": "Bateria de Samba Verde e Branco",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 96,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "Die Bateria Verde e Branco ist ein Berliner Samba-Projekt, das die Tradition der brasilianischen Sambaschulen und die Kultur des Karnevals authentisch nach Berlin bringt. Sie verbindet Musik, Lernen und Gemeinschaft durch die Energie des Sambas.",
+    "evidence": "Description explicitly presents Brazilian samba-school tradition and carnival culture."
+  },
+  {
+    "id": "s-123",
+    "pool": "street-fest",
+    "name": "Marafoxé Nação Nagô",
+    "country": "Brazil / Pernambuco",
+    "region": "Latin America / Africa diaspora",
+    "confidence": 96,
+    "tags": [
+      "Brazil",
+      "Pernambuco"
+    ],
+    "description": "Marafoxé Nação Nagô kommt aus dem Nordosten Brasiliens. Für den Karneval der Kulturen bringen wir gemeinsam mit Maracatu-Gruppen aus München, der Schweiz und Italien Menschen zusammen und lassen die Trommeln für Gemeinsamkeit und Frieden sprechen.",
+    "evidence": "Programme labels Maracatu from Recife-Pernambuco and description says the group comes from northeast Brazil."
+  },
+  {
+    "id": "s-124",
+    "pool": "street-fest",
+    "name": "Heike Maria unVORStellBAR & Clozi",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Recycling-Kostüme",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-125",
+    "pool": "street-fest",
+    "name": "Castellers de Berlín",
+    "country": "Catalonia",
+    "region": "Europe",
+    "confidence": 92,
+    "tags": [
+      "Catalonia"
+    ],
+    "description": "Wir sind leidenschaftliche #Hochstapler*innen im wahrsten Sinne des Wortes. Seit 2018 bauen wir von der UNESCO als Weltkulturerbe anerkannte Menschentürme in unserer Stadt. Kommt zu unserer Aufführung und helft uns, den Himmel zu erreichen!",
+    "evidence": "Programme labels Catalan human towers and description references UNESCO-recognized Castellers tradition."
+  },
+  {
+    "id": "s-126",
+    "pool": "street-fest",
+    "name": "MIZWIZ and FRIENDS",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Der Axolotl bleibt für immer ein Kind und regeneriert sich selbst- ein Wunder! Lasst uns in den Sound tauchen der den friedlich-fröhlichen Lurch plätschern lässt.",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-127",
+    "pool": "street-fest",
+    "name": "Abadá-Capoeira-Schule-Berlin",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 96,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "Capoeira ist eine von afrikanischen Sklaven entwickelte Kampfkunst aus Brasilien. Nach 400 Jahren heute eine Kunst und Kultur mit Kampf, Musik und Akrobatik, viel Kameradschaft und einer Riesenmenge an Spaß!",
+    "evidence": "Description explicitly explains Capoeira as a martial art from Brazil."
+  },
+  {
+    "id": "s-128",
+    "pool": "street-fest",
+    "name": "Samba Reggae Berlin",
+    "country": "Brazil / Bahia",
+    "region": "Latin America",
+    "confidence": 90,
+    "tags": [
+      "Brazil",
+      "Bahia"
+    ],
+    "description": "Einmal im Monat treffen sich in der ufa Fabrik Percussionisten aus verschiedenen Berliner und bundesweiten Gruppen um ihre Begeisterung an den Samba-Reggae-Rhythmen zu teilen. Ein Terra Brasilis Projekt.",
+    "evidence": "Description says the group plays the groove from Bahia and is a Terra Brasilis project."
+  },
+  {
+    "id": "s-129",
+    "pool": "street-fest",
+    "name": "Cortejo Baiano",
+    "country": "Brazil / Bahia",
+    "region": "Latin America / Africa diaspora",
+    "confidence": 94,
+    "tags": [
+      "Brazil",
+      "Bahia"
+    ],
+    "description": "Der Cortejo Baiano aus Berlin spielt die Rhythmen der Blocos Afro aus Salvador da Bahia. Energiegeladene Grooves von Ilê Aiyê, Olodum, Malê Debalê und vielen weiteren Blocos laden zum Tanzen ein.",
+    "evidence": "Description says Cortejo Baiano plays rhythms of Blocos Afro from Salvador da Bahia."
+  },
+  {
+    "id": "s-130",
+    "pool": "street-fest",
+    "name": "Batik mit Blumen",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Workshop bis 19:00",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-131",
+    "pool": "street-fest",
+    "name": "100% Tempelhof",
+    "country": "Germany / Berlin",
+    "region": "Europe",
+    "confidence": 58,
+    "tags": [
+      "Germany",
+      "Berlin"
+    ],
+    "description": "Infostand bis 19:00",
+    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+  },
+  {
+    "id": "s-132",
+    "pool": "street-fest",
+    "name": "Paint The Moment",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Workshop bis 20:00",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-133",
+    "pool": "street-fest",
+    "name": "Umsonstladen",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 84,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "Geben & Nehmen gegen die Wegwerfgesellschaft bis 19:00",
+    "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
+  },
+  {
+    "id": "s-134",
+    "pool": "street-fest",
+    "name": "Sport Connection Berlin",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Infostand & Aktionen bis 19:00",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-135",
+    "pool": "street-fest",
+    "name": "Bike Stunt Berlin",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Stunt Show",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-136",
+    "pool": "street-fest",
+    "name": "Groove & Connect",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Hip-Hop Tanzworkshop mit Lena Zinnen",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-137",
+    "pool": "street-fest",
+    "name": "Seifenblasen-Instrumente bauen mit den Bubble Brothers",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Workshop für Groß & Klein",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-138",
+    "pool": "street-fest",
+    "name": "0 dB Silent Riots",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "SILENT DISCO auf 3 Kanälen – OPEN DJ DESK bis 22:30",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-139",
+    "pool": "street-fest",
+    "name": "Stadtteilkomitees Berlin",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Informationen und Waffeln, Infostand bis 16:00",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-140",
+    "pool": "street-fest",
+    "name": "Qi Gong und Viet Vo Dao Kung Fu Tiger",
+    "country": "China / Vietnam",
+    "region": "East Asia / Southeast Asia",
+    "confidence": 78,
+    "tags": [
+      "China",
+      "Vietnam"
+    ],
+    "description": "Workshop mit Joulia Strauss",
+    "evidence": "Programme references Qi Gong and Viet Vo Dao Kung Fu."
+  },
+  {
+    "id": "s-141",
+    "pool": "street-fest",
+    "name": "Qi Gong und Viet Vo Dao Kung Fu HAI TAN",
+    "country": "China / Vietnam",
+    "region": "East Asia / Southeast Asia",
+    "confidence": 78,
+    "tags": [
+      "China",
+      "Vietnam"
+    ],
+    "description": "Workshop mit Joulia Strauss",
+    "evidence": "Programme references Qi Gong and Viet Vo Dao Kung Fu."
+  },
+  {
+    "id": "s-142",
+    "pool": "street-fest",
+    "name": "Die Sonderpreis-Gewinner:innen des Landeswettbewerbs Jugend musiziert (Pop)",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 84,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "„Lasst Euch überraschen, welche vielversprechenden jungen Talente aus den Kategorien Beats&Rhymes, und Singer/Songwriter Euch auf der shantYtown-Bühne einheizen werden. „",
+    "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
+  },
+  {
+    "id": "s-143",
+    "pool": "street-fest",
+    "name": "Feierabend Cumbia",
+    "country": "Colombia",
+    "region": "Latin America",
+    "confidence": 78,
+    "tags": [
+      "Colombia",
+      "Caribbean"
+    ],
+    "description": "Cumbia",
+    "evidence": "Source listing points to Colombian-origin genres, with Caribbean or Afro-Colombian signals where stated."
+  },
+  {
+    "id": "s-144",
+    "pool": "street-fest",
+    "name": "Back 2 Body – the Art of Connection",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Movement Workshop",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-145",
+    "pool": "street-fest",
+    "name": "Dave Dinger",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Techno-Saurier seit der Steinzeit. Alle Genres, keine Regeln, keine Grenzen. Schmelz im Sound – und wenn Dich was stresst: Drop it like a bass! 🦖🔊",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-146",
+    "pool": "street-fest",
+    "name": "Banan'O'Rama",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Interaktive Comedy-Show",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-147",
+    "pool": "street-fest",
+    "name": "Grupo Chile Berlin e.V.",
+    "country": "Chile",
+    "region": "Latin America",
+    "confidence": 96,
+    "tags": [
+      "Chile"
+    ],
+    "description": "Grupo Chile zeigt die Vielfalt Chiles durch Tanzen und Inszenierung. Die unterschiedliche Geografie und die ständigen Migrationsbewegungen haben den Charakter Chiles bereichert. Dazu gehören regionale Tänze, die Cueca, die von Tänzern in traditionellen Trachten präsentiert werden.",
+    "evidence": "Description explicitly says Grupo Chile shows Chile's diversity through dance and Cueca."
+  },
+  {
+    "id": "s-148",
+    "pool": "street-fest",
+    "name": "100% Tempelhofer Feld und Berliner Akteure",
+    "country": "Germany / Berlin",
+    "region": "Europe",
+    "confidence": 58,
+    "tags": [
+      "Germany",
+      "Berlin"
+    ],
+    "description": "Das Tempelhofer Feld ist ein Symbol für das Wohl und das Mitspracherecht der Menschen. Wir müssen unsere Bedürfnisse gegen die Macht des Kapitals und deren Handlanger in der Politik verteidigen.",
+    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+  },
+  {
+    "id": "s-149",
+    "pool": "street-fest",
+    "name": "i BiRiCHiNi",
+    "country": "Italy",
+    "region": "Europe",
+    "confidence": 92,
+    "tags": [
+      "Italy"
+    ],
+    "description": "Der Kinderchor i BiRiCHiNi- die kleinen Strolchensingt mit spontaner Freude am gemeinsamen Musikmachen Lieder aus dem unerschöpflichen Fundus italienischer Musik. Ltg. RACHELINA, mit Bigband FLINSTONES.",
+    "evidence": "Programme labels Italian children's choir and description references Italian music."
+  },
+  {
+    "id": "s-150",
+    "pool": "street-fest",
+    "name": "Daiana Lou",
+    "country": "Italy / Berlin",
+    "region": "Europe",
+    "confidence": 82,
+    "tags": [
+      "Italy",
+      "Berlin"
+    ],
+    "description": "Ein italienisch-berlinisches Alternative-Rock-Duo, das die raue Berliner Straßenatmosphäre mit italienischem Soul verbindet. Eine Mischung aus ätherischen Klängen, kraftvollen Beats und explosiver Energie.",
+    "evidence": "Description calls the duo Italian-Berlin and says it combines Berlin street atmosphere with Italian soul."
+  },
+  {
+    "id": "s-151",
+    "pool": "street-fest",
+    "name": "ALTES HAUS",
+    "country": "General",
+    "region": "Global",
+    "confidence": 55,
+    "tags": [
+      "General"
+    ],
+    "description": "Maxwell Smart vom Oldschool-Duo Smith&Smart mit seinem Elektro-House-Punk-Projekt ALTES HAUS. Live mit Drummer Alice Dufte (MUDDLING THRU). Widerspenstig, wild und dringend tanzbar: Minimal Lyrics, Maximum House!",
+    "evidence": "Source listing does not provide enough evidence for a reliable nationality or culture match."
+  },
+  {
+    "id": "s-152",
+    "pool": "street-fest",
+    "name": "Puto Production",
+    "country": "Chile",
+    "region": "Latin America",
+    "confidence": 92,
+    "tags": [
+      "Chile"
+    ],
+    "description": "Die in Berlin ansässige Trommelsensation aus Chile ist seit Jahrzehnten auf Berlins Straßen unterwegs. Eine Kombination aus traditionellen Beats mit modernen Electro Sounds. Tanz-Trance und Ekstase garantiert!",
+    "evidence": "Description identifies the act as a Berlin-based drumming sensation from Chile."
+  },
+  {
+    "id": "s-153",
+    "pool": "street-fest",
+    "name": "Discopunkx",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Die Discopunkx sind ein Berliner DJ Duo, die die Liebe zu alten Disco Tunes, Rare Funk und Electric Soul teilen.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-154",
+    "pool": "street-fest",
+    "name": "Mukunda Cruz",
+    "country": "Argentina / Andes",
+    "region": "Latin America",
+    "confidence": 88,
+    "tags": [
+      "Argentina",
+      "Andes"
+    ],
+    "description": "Mukunda Cruz ist das Projekt des argentinischen Musikers Martin Cruz (Berlin seit 2016). Er verbindet andine & argentinische Folklore mit Rock-Pop und Jazz. 2025 erschien sein Debütalbum „Canciones irregulares“.",
+    "evidence": "Description identifies the project of Argentine musician Martin Cruz and references Andean and Argentine folklore."
+  },
+  {
+    "id": "s-155",
+    "pool": "street-fest",
+    "name": "The Shallaras",
+    "country": "Australia / Italy",
+    "region": "Oceania / Europe",
+    "confidence": 82,
+    "tags": [
+      "Australia",
+      "Italy"
+    ],
+    "description": "The Shallaras — Angela Cory (Australia) & Mauro Pandolfino (Italy). Raw 50s/60s Rock’n’Roll, R&B & Garage. Wild, rhythmisch, dance-driven. Ein Duo mit dem Sound einer ganzen Band.",
+    "evidence": "Description identifies the duo as Angela Cory from Australia and Mauro Pandolfino from Italy."
+  },
+  {
+    "id": "s-156",
+    "pool": "street-fest",
+    "name": "OZZA36",
+    "country": "Germany / Berlin",
+    "region": "Europe",
+    "confidence": 58,
+    "tags": [
+      "Germany",
+      "Berlin"
+    ],
+    "description": "Hallo Friends, ich bin OZZA aus Kreuzberg. Hier aufgewachsen, verarbeite ich meine Eindrücke in Musik und zeige meine Perspektive. Meine Mukke soll verbinden und die neue Generation ansprechen – kommt vorbei!",
+    "evidence": "Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal."
+  },
+  {
+    "id": "s-157",
+    "pool": "street-fest",
+    "name": "SektSpätStück",
+    "country": "Cuba / Caribbean",
+    "region": "Caribbean",
+    "confidence": 84,
+    "tags": [
+      "Cuba",
+      "Caribbean"
+    ],
+    "description": "Sonntag & Sekt = Se best. SektSpätStück serviert knallige Beats, ploppende Lyrics und sprudelnde Bühnenpräsenz. So frech, wie es sich für vom Sekt getränkten Zungen gehört.",
+    "evidence": "Source listing references Cuban musical forms such as salsa, son, timba, or rumba."
+  },
+  {
+    "id": "s-158",
+    "pool": "street-fest",
+    "name": "BYDS",
+    "country": "Latin America",
+    "region": "Latin America",
+    "confidence": 55,
+    "tags": [
+      "Latin America"
+    ],
+    "description": "ByDS ist eine alternative Dance-Band aus Berlin. Ihr vielseitiger Sound vereint Alternative Rock-Pop mit dunklen elektronischen Latin-Fusion-Elementen und Trip-Hop, während ihre Texte auf Englisch, Deutsch und Spanisch die Zuhörer fesseln und zum Tanzen animieren.",
+    "evidence": "Source listing signals a broad Latin American context without a single dominant country match."
+  },
+  {
+    "id": "s-159",
+    "pool": "street-fest",
+    "name": "DJ Marla Roots",
+    "country": "Brazil",
+    "region": "Latin America",
+    "confidence": 94,
+    "tags": [
+      "Brazil"
+    ],
+    "description": "DJ Marla Roots stammt aus Brasilien und mixt brasilianische Styles wie Rio Funk oder Funk Carioca. nDie Liste an Auftritten in Clubs wie ://about:blank, Mensch Meier, SchwuZ und Yaam sprechen für sie und ihren Sound. Lasst uns tanzen!",
+    "evidence": "Description says DJ Marla Roots comes from Brazil and mixes Brazilian styles including Rio Funk and Funk Carioca."
+  },
+  {
+    "id": "s-160",
+    "pool": "street-fest",
+    "name": "DJ Batero",
+    "country": "Colombia",
+    "region": "Latin America",
+    "confidence": 78,
+    "tags": [
+      "Colombia",
+      "Caribbean"
+    ],
+    "description": "Von Disco bis Salsa, HipHop bis Pop, Cumbia bis Rock. Da das Leben als Batero (spanisch: Schlagzeuger) sehr anstrengend sein kann und die ewige Schlepperei von Drums und Cymbals auf die Eier geht, gibt es seit 2006 DJ Batero!",
+    "evidence": "Source listing points to Colombian-origin genres, with Caribbean or Afro-Colombian signals where stated."
+  },
+  {
+    "id": "s-161",
+    "pool": "street-fest",
+    "name": "India Waale",
+    "country": "India",
+    "region": "South Asia",
+    "confidence": 96,
+    "tags": [
+      "India"
+    ],
+    "description": "Die Einheit in der Vielfalt ist unser Motto, unsere Darbietung ist eine Komposition der diversen Kulturen und Traditionen Indiens. Wir sind zurück, trotz der schwieriger Zeiten und möchten Euch einladen, an unserer farbenprächtigen Feier des Lebens mit unseren Tänzen teilzunehmen.",
+    "evidence": "Programme labels Indian folk dances and Bollywood dance; description presents cultures and traditions of India."
+  },
+  {
+    "id": "s-162",
+    "pool": "street-fest",
+    "name": "D!E GÄNG (Luna & Chaja)",
+    "country": "Jamaica / reggae diaspora",
+    "region": "Caribbean",
+    "confidence": 82,
+    "tags": [
+      "Jamaica",
+      "reggae diaspora"
+    ],
+    "description": "D!E GÄNG verbindet Kinder und Eltern mit HipHop, Dancehall und Ska. Gegründet von Ben Pavlidis mit seiner Tochter Chaja, rocken Chaja und Luna heute gemeinsam die Bühne und sorgen für echte Familien-Party.",
+    "evidence": "Source listing references reggae, dancehall, rocksteady, or Jamaica directly."
+  },
+  {
+    "id": "s-163",
+    "pool": "street-fest",
+    "name": "# WAS BEWEGT DICH",
+    "country": "Germany / Berlin",
+    "region": "Europe",
+    "confidence": 68,
+    "tags": [
+      "Germany",
+      "Berlin"
+    ],
+    "description": "Eine Tanz- Performance der Karnevals- Fuß- Gruppe des motion*s Tanzstudio in Berlin Kreuzberg und der Bühnenkunstschule Academy. Vom Umzug bis zum Straßenfest direkt nach shantYtown: #WAS BEWEGT DICH?",
+    "evidence": "Description references Berlin performing arts schools and a broad solidarity performance, with no external country signal."
+  },
+  {
+    "id": "s-164",
+    "pool": "street-fest",
+    "name": "TANZEN3000 mit Tal Siano",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Eine Stunde geführter Workshop. Unsere Mission ist es, Menschen zu ermutigen und zu inspirieren, WIRKLICH ZU TANZEN. Verbinde Dich mit deinem Körper, verbinde Dich mit deinen Emotionen, verbinde Dich mit dem Kollektiv.",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-165",
+    "pool": "street-fest",
+    "name": "PASCAL de Lacaze",
+    "country": "Jamaica / reggae diaspora",
+    "region": "Caribbean",
+    "confidence": 82,
+    "tags": [
+      "Jamaica",
+      "reggae diaspora"
+    ],
+    "description": "DJ Pascal de Lacaze von Ecstatic Dance Berlin rockt die Hütte. Schwing die Hüften zu Downtempo, Tropical, Dancehall und Bass House und lass Dich noch mal ordentlich von Pascals dynamischer Live-Percussion durchschütteln! Tanzen? Auf jeden!",
+    "evidence": "Source listing references reggae, dancehall, rocksteady, or Jamaica directly."
+  },
+  {
+    "id": "s-166",
+    "pool": "street-fest",
+    "name": "Kira",
+    "country": "Caribbean diaspora / Berlin",
+    "region": "Caribbean / Diaspora",
+    "confidence": 70,
+    "tags": [
+      "Caribbean diaspora",
+      "Berlin"
+    ],
+    "description": "KIRASOL ist eine Popsängerin aus Berlin mit karibischen Roots. Ihre Musik ist modern, bunt und bildhaft. Mit ihren Texten erzählt sie Geschichten vom Leben und der Liebe",
+    "evidence": "Source description explicitly mentions Caribbean roots in a Berlin-based act."
+  },
+  {
+    "id": "s-167",
+    "pool": "street-fest",
+    "name": "Havanna Berlin",
+    "country": "Cuba",
+    "region": "Caribbean",
+    "confidence": 92,
+    "tags": [
+      "Cuba"
+    ],
+    "description": "Havana Berlin Express verbindet kubanische Salsa, Son und Rumba mit europäischem Jazz. Die Band um Sergio Medina begeistert mit einer energiegeladenen Mischung aus karibischen Rhythmen und moderner Improvisation.",
+    "evidence": "Description says Havana Berlin Express connects Cuban Salsa, Son and Rumba with European jazz."
+  },
+  {
+    "id": "s-168",
+    "pool": "street-fest",
+    "name": "DENIM",
+    "country": "African diaspora / Berlin",
+    "region": "Africa / Diaspora",
+    "confidence": 72,
+    "tags": [
+      "African diaspora",
+      "Berlin"
+    ],
+    "description": "DENIM ist eine 2025 gegründete Berliner Band, die Afrofuturismus, Realismus und Feminismus verbindet. Mit tanzbaren Songs über Liebe, Träume und Menschlichkeit und Emilys kraftvoller Stimme entsteht ein warmer, einzigartiger Sound.",
+    "evidence": "Description presents Afrofuturism, realism and feminism in a Berlin band context."
+  },
+  {
+    "id": "s-169",
+    "pool": "street-fest",
+    "name": "DJ Emo",
+    "country": "Africa / diaspora",
+    "region": "Africa / Diaspora",
+    "confidence": 72,
+    "tags": [
+      "Africa",
+      "diaspora"
+    ],
+    "description": "Emos Musik ist ein seelenbewegendes Elixier, eine emotionale Reise, die direkt zum Herzen spricht. Mit jeder Note verbindet er mühelos elektronische Meisterschaft mit reichen kulturellen Einflüssen und erschafft so ein Klangerlebnis, das schlichtweg fesselnd ist.",
+    "evidence": "Programme lists Afrobeat, Highlife, Rhumba, Soukous and Makossa."
+  },
+  {
+    "id": "s-170",
+    "pool": "street-fest",
+    "name": "DJ",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Listed on the official programme page without an individual description.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-171",
+    "pool": "street-fest",
+    "name": "New Yulu",
+    "country": "Central America / Mesoamerican cultures",
+    "region": "Latin America",
+    "confidence": 88,
+    "tags": [
+      "Central America",
+      "Mesoamerican cultures"
+    ],
+    "description": "New Yulu verbinden traditionelle Songs Mittelamerikas mit modernen und indigenen Instrumenten. Folklore trifft auf Blues, Latin und Soul – eine moderne Interpretation mesoamerikanischer Musiktradition.",
+    "evidence": "Description says the group connects traditional songs of Central America with modern and indigenous instruments and mesoamerican musical tradition."
+  },
+  {
+    "id": "s-172",
+    "pool": "street-fest",
+    "name": "Bando Berlin",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "BANDO steht für Gemeinschaft und Berlin. Seit 26 Jahren erzeugt die Band mit Ölfässern, Metallteilen und Synthesizer einen einzigartigen, rhythmischen Sound, der Menschen begeistert, verbindet und jede Crowd zum Tanzen bringt.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-173",
+    "pool": "street-fest",
+    "name": "Tiliboo",
+    "country": "Senegal / Mandinka culture",
+    "region": "Africa",
+    "confidence": 96,
+    "tags": [
+      "Senegal",
+      "Mandinka culture"
+    ],
+    "description": "TILIBOO AFROBEAT wird von dem Sänger, Perkussionist und Komponist Omar Diop geleitet. Omar stammt aus der Casamance-Region im Süden Senegals und bringt mit seinem einzigartigen Fusion-Sound die westafrikanische Mandinka-Kultur nach Berlin.",
+    "evidence": "Description says Omar Diop comes from Casamance in southern Senegal and brings west African Mandinka culture to Berlin."
+  },
+  {
+    "id": "s-174",
+    "pool": "street-fest",
+    "name": "Ruffin Nikon Loola & Band",
+    "country": "DR Congo / Congo",
+    "region": "Africa",
+    "confidence": 94,
+    "tags": [
+      "DR Congo",
+      "Congo"
+    ],
+    "description": "Ruffin Nkoy Loola verbindet die musikalische Tradition Kinshasas mit Einflüssen von Franco, Tabu Ley und Miriam Makeba. Der in Berlin lebende Sänger bringt authentische kongolesische Musik in Lingala auf internationale Bühnen.",
+    "evidence": "Description references musical tradition of Kinshasa and authentic Congolese music in Lingala."
+  },
+  {
+    "id": "s-175",
+    "pool": "street-fest",
+    "name": "Fulya",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Stellen Sie sich einen Raum voller orientalischer Muster vor. Der Geruch von Räucherstäbchen, das spirituelle Gefühl in Kombination mit Magie. So lässt sich Fulya am besten mit ihren RnB/Pop Hits beschreiben. Sie ist bereits bei vielen großartigen Events aufgetreten, wie zum Beispiel der Berlin Fashion Week Anfang des Jahres.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-176",
+    "pool": "street-fest",
+    "name": "Toshin",
+    "country": "Nigeria / Ireland",
+    "region": "Africa / Europe",
+    "confidence": 86,
+    "tags": [
+      "Nigeria",
+      "Ireland"
+    ],
+    "description": "Toshín ist eine nigerianisch-irisch geprägte Künstlerin mit kraftvoller Stimme und starker Bühnenpräsenz. Sie verbindet Soul, R&B und Afro-Pop zu emotionalen, energiegeladenen Live-Shows voller Storytelling und Empowerment.",
+    "evidence": "Description identifies Toshín as a Nigerian-Irish influenced artist performing Soul, R&B and Afro-pop."
+  },
+  {
+    "id": "s-177",
+    "pool": "street-fest",
+    "name": "DJ Haizel",
+    "country": "Global",
+    "region": "Global",
+    "confidence": 60,
+    "tags": [
+      "Global"
+    ],
+    "description": "Haizel ist ein Berliner DJ, der Afro, Amapiano und globale Rhythmen zu energiegeladenen Sets verbindet und damit die Tanzfläche bewegt und verschiedene Dance-Communities zusammenbringt.",
+    "evidence": "Source listing frames the entry as global or world-spanning rather than tied to one nationality."
+  },
+  {
+    "id": "s-178",
+    "pool": "street-fest",
+    "name": "Laras Feuerstein",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "Lars Feuerstein macht Musik für Kinder und die ganze Familie. Intelligente Texte, die Kids ernstnehmen. Fröhlich, frech, nachdenklich. Immer tanzbar und mitsingbar. Ein Kinderkonzert für alle!",
+    "evidence": "Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal."
+  },
+  {
+    "id": "s-179",
+    "pool": "street-fest",
+    "name": "Buba Diakité",
+    "country": "Africa / reggae diaspora",
+    "region": "Africa / Diaspora",
+    "confidence": 66,
+    "tags": [
+      "Africa",
+      "reggae diaspora"
+    ],
+    "description": "Bouba Diakité und Downtownsteppas geben African Reggae Music mit Djembé zum Besten mit tanzbaren positiven African Vibrations, Lebensfreude und gleichzeitig Songtexte mit Tiefgang. Die Nähe und Kommunikation zum Publikum zeichnen sie bei ihren live Auftritten aus.",
+    "evidence": "Programme labels African Reggae and describes Djembé and African vibrations without naming a country."
+  },
+  {
+    "id": "s-180",
+    "pool": "street-fest",
+    "name": "Mariama",
+    "country": "Fulani / West African diaspora",
+    "region": "Africa / Diaspora",
+    "confidence": 84,
+    "tags": [
+      "Fulani",
+      "West African diaspora"
+    ],
+    "description": "mari.ama ist eine Afropean-Künstlerin, Singer-Songwriterin und Kuratorin mit Fulani-Wurzeln. Sie verbindet Soul und Pop mit westafrikanischen Rhythmen und spiegelt in ihrer Musik kulturelle Vielfalt und transnationale Identität wider.",
+    "evidence": "Description calls mari.ama an Afropean artist with Fulani roots and west African rhythms."
+  },
+  {
+    "id": "s-181",
+    "pool": "street-fest",
+    "name": "Kingsley Q.",
+    "country": "African diaspora",
+    "region": "Africa / Diaspora",
+    "confidence": 55,
+    "tags": [
+      "African diaspora"
+    ],
+    "description": "Von radioeins als einer der spannendsten Newcomer gefeiert, verbindet der Listen to Berlin - Award-Gewinner Kingsley Q Pop, R&B & Afro-Vibes zu seinem Sound, der bereits 40 Mio.+ Streams verzeichnet.",
+    "evidence": "Source listing uses broad African or Afro-diasporic musical markers without a single dominant national signal."
+  },
+  {
+    "id": "s-182",
+    "pool": "street-fest",
+    "name": "DammyDaas",
+    "country": "Nigeria",
+    "region": "Africa",
+    "confidence": 94,
+    "tags": [
+      "Nigeria"
+    ],
+    "description": "DammyDaas ist ein in Nigeria geborener, in Berlin lebender Künstler, der Soul, R&B und Afrobeats zu kraftvollen Live-Performances verbindet. Mit starker Bühnenpräsenz begeistert er ein diverses Publikum.",
+    "evidence": "Description says DammyDaas is Nigeria-born and Berlin-based, combining Soul, R&B and Afrobeats."
+  },
+  {
+    "id": "s-183",
+    "pool": "street-fest",
+    "name": "In Living Color",
+    "country": "POC / diaspora collective",
+    "region": "Global / Diaspora",
+    "confidence": 58,
+    "tags": [
+      "POC",
+      "diaspora collective"
+    ],
+    "description": "In Living Color ist ein Kollektiv von POC Künstler*innen, gegründet von Ben Olayinka und Emo Rugene, das neuen Gesichtern in der Musikszene Raum gibt und Events organisiert, die die Grenzen der Clubkultur erweitern. Es verbindet Musik und Bewegung mit RUN-N-RAVE, einer der größten Laufpartys Berlins, und veranstaltet seit Jahren ausgelassene Partys in Spätis, bei denen jeder die Möglichkeit hat, gute Musik zu hören und in entspannter Atmosphäre mit der Nachbarschaft in Kontakt zu treten.",
+    "evidence": "Description calls it a collective of POC artists creating space for new faces in the music scene."
+  },
+  {
+    "id": "s-184",
+    "pool": "street-fest",
+    "name": "AktivTribe",
+    "country": "Africa / Afrobeat",
+    "region": "Africa / Diaspora",
+    "confidence": 70,
+    "tags": [
+      "Africa",
+      "Afrobeat"
+    ],
+    "description": "Aktiv Trybe ist eine Live-Band aus Berlin, die Afrobeat mit modernen Einflüssen verbindet. Mit energiegeladenen Rhythmen, starken Grooves und Fusion-Sounds bringen sie afrikanische Musiktraditionen auf die Bühne.",
+    "evidence": "Description says the band connects Afrobeat with modern influences and African musical traditions."
+  },
+  {
+    "id": "s-185",
+    "pool": "street-fest",
+    "name": "MTCHL",
+    "country": "Berlin",
+    "region": "Europe",
+    "confidence": 55,
+    "tags": [
+      "Berlin"
+    ],
+    "description": "MTCHL bringt gemeinsam mit SKYDOJO frischen Sound zum Karneval der Kulturen. Mit Neo-Soul, Pop und R&B, getragen von warmen Live-Instrumenten, liefert er eine energiegeladene Show voller Groove, Soul und echter Bühnenpower.",
+    "evidence": "Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal."
+  },
+  {
+    "id": "s-186",
+    "pool": "street-fest",
+    "name": "Mani Simon",
+    "country": "Zambia / United States",
+    "region": "Africa / North America",
+    "confidence": 88,
+    "tags": [
+      "Zambia",
+      "United States"
+    ],
+    "description": "Der in Sambia geborene und in Pittsburgh aufgewachsene Mani Simon verbindet Pop, Soul und Hip-Hop mit persönlichem Storytelling. In Berlin schreibt er ehrlich und nahbar über Identität, Grenzen und Selbstfindung.",
+    "evidence": "Description says Mani Simon was born in Zambia and raised in Pittsburgh."
+  },
+  {
+    "id": "s-187",
+    "pool": "street-fest",
+    "name": "MaVert",
+    "country": "Africa / diaspora",
+    "region": "Africa / Diaspora",
+    "confidence": 66,
+    "tags": [
+      "Africa",
+      "diaspora"
+    ],
+    "description": "MaVert ist ein in Berlin ansässiger DJ und Tänzer, der afro-elektronische Sounds, afrikanische Rhythmen und Dance Music zu energiegeladenen Fusion-Sets verbindet – geprägt von Bewegung, Groove und einer tiefen Liebe zur Musik.",
+    "evidence": "Description says MaVert plays afro-electronic sounds, African rhythms and dance music."
+  }
+]

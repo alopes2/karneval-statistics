@@ -3,20 +3,12 @@ export function splitTags(value) {
   return value.split('/').map(tag => tag.trim()).filter(Boolean);
 }
 
-export function enrichEntries(entries, overrides) {
-  return entries.map(row => {
-    const override = overrides[row.id] || {};
-    const merged = {
-      ...row,
-      ...override,
-      description: override.description || row.description || row.evidence,
-    };
-
-    return {
-      ...merged,
-      tags: override.tags || row.tags || splitTags(merged.country),
-    };
-  });
+export function enrichEntries(entries) {
+  return entries.map(row => ({
+    ...row,
+    description: row.description || '',
+    tags: row.tags || splitTags(row.country),
+  }));
 }
 
 export function countTags(rows) {
