@@ -1,23 +1,14 @@
 import fs from 'node:fs/promises';
 
-import sourceRows from '../data/inferred-nationalities.json' with { type: 'json' };
 import {
   addGeneralTag,
   createId,
-  normalizeName,
   parseFestEntries,
   parseParadeEntries,
 } from './lib/karnevalData.mjs';
 
 const PARADE_URL = 'https://karneval.berlin/umzug/';
 const FEST_URL = 'https://karneval.berlin/fest/';
-
-const aliasToCurrentName = new Map([
-  ['afrohaus', 'AFRO HAUS Music Corner'],
-  ['heiligkreuzkirche', 'Heilig-Kreuz-Kirche programme'],
-  ['tanzpoesiederderwische', 'Sufi-Zentrum Rabbaniyya'],
-  ['kira', 'Kira / KIRASOL'],
-]);
 
 const regionByTag = new Map([
   ['Africa', 'Africa'],
@@ -29,6 +20,7 @@ const regionByTag = new Map([
   ['Armenia', 'Caucasus / West Asia'],
   ['Australia', 'Oceania'],
   ['Bangladesh', 'South Asia'],
+  ['Balkans', 'Europe'],
   ['Belarus', 'Europe'],
   ['Berlin', 'Europe'],
   ['Bolivia', 'Latin America'],
@@ -64,6 +56,7 @@ const regionByTag = new Map([
   ['Japan', 'East Asia'],
   ['Jewish diaspora', 'Europe / Diaspora'],
   ['Korea', 'East Asia'],
+  ['Kosovo', 'Europe'],
   ['Latin America', 'Latin America'],
   ['Latin American diaspora', 'Latin America / Diaspora'],
   ['Mexico', 'Latin America'],
@@ -94,19 +87,6 @@ const regionByTag = new Map([
   ['West African diaspora', 'Africa / Diaspora'],
   ['Zambia', 'Africa'],
 ]);
-
-function splitTags(value) {
-  if (!value) return [];
-  return value.split('/').map(tag => tag.trim()).filter(Boolean);
-}
-
-function enrichExistingRow(row) {
-  const tags = row.tags || splitTags(row.country);
-  return {
-    ...row,
-    tags,
-  };
-}
 
 function inferredDescription(entry) {
   return entry.description || entry.style || 'Listed on the official programme page without an individual description.';
@@ -179,8 +159,9 @@ function lowConfidence(tags, country, evidence) {
 
 function inferRow(entry) {
   const haystack = `${entry.name} ${entry.style} ${entry.description}`.toLowerCase();
+  const has = pattern => pattern.test(haystack);
 
-  if (/abenteuer tanz/.test(haystack) || /lilia gomez aus peru/.test(haystack)) {
+  if (has(/abenteuer tanz/) || has(/lilia gomez aus peru/)) {
     return {
       country: 'Peru',
       confidence: 84,
@@ -189,7 +170,7 @@ function inferRow(entry) {
     };
   }
 
-  if (/ríos profundos|rios profundos/.test(haystack)) {
+  if (has(/ríos profundos|rios profundos/)) {
     return {
       country: 'South American',
       confidence: 58,
@@ -198,7 +179,7 @@ function inferRow(entry) {
     };
   }
 
-  if (/12volt|zuckersession|artqueen/.test(haystack)) {
+  if (has(/12volt|zuckersession|artqueen/)) {
     return {
       country: 'Sweden / Chile / Venezuela / Peru / Algeria / Italy / Ukraine / Berlin',
       confidence: 72,
@@ -207,7 +188,7 @@ function inferRow(entry) {
     };
   }
 
-  if (/exylium|rostock-lichtenhagen|hausbesetzerbewegung/.test(haystack)) {
+  if (has(/exylium|rostock-lichtenhagen|hausbesetzerbewegung/)) {
     return {
       country: 'Germany / Berlin',
       confidence: 68,
@@ -216,16 +197,114 @@ function inferRow(entry) {
     };
   }
 
-  if (/musikalische weltreise|global brass fusion|welt|global/.test(haystack)) {
+  if (has(/república dominicana|republica dominicana|dominikan|quisqueya/)) {
     return {
-      country: 'General',
-      confidence: 60,
-      tags: ['General'],
-      evidence: 'Source listing frames the entry as global or world-spanning rather than tied to one nationality.',
+      country: 'Dominican Republic',
+      confidence: 92,
+      tags: ['Dominican Republic', 'Caribbean'],
+      evidence: 'Source description explicitly references the Dominican Republic, Dominican culture, or Quisqueya.',
     };
   }
 
-  if (/producciones abismales/.test(haystack)) {
+  if (has(/bolivia|bolivian|bolivien|bolivianisch|suri sikuri/)) {
+    return {
+      country: 'Bolivia',
+      confidence: 90,
+      tags: ['Bolivia'],
+      evidence: 'Source name or description explicitly references Bolivia or Bolivian Andean folklore.',
+    };
+  }
+
+  if (has(/ukrain|україн/)) {
+    const tags = ['Ukraine'];
+    if (has(/deutsch|german|berlin/)) tags.push('Germany');
+    return {
+      country: tags.join(' / '),
+      confidence: 90,
+      tags,
+      evidence: 'Source description explicitly references Ukrainian or Ukrainian-German cultural context.',
+    };
+  }
+
+  if (has(/korea|koreanisch|korean|arirang/)) {
+    return {
+      country: 'Korea',
+      confidence: 90,
+      tags: ['Korea'],
+      evidence: 'Source description explicitly references Korean culture, Korea, or Arirang.',
+    };
+  }
+
+  if (has(/bosn|kosovo|sandžak|sandzak|ex‑jugoslaw|ex-jugoslaw|jugoslaw|balkan/)) {
+    const tags = [];
+    if (has(/bosn/)) tags.push('Bosnia');
+    if (has(/kosovo/)) tags.push('Kosovo');
+    if (has(/sandžak|sandzak|ex‑jugoslaw|ex-jugoslaw|jugoslaw|balkan/) || tags.length === 0) tags.push('Balkans');
+    return {
+      country: tags.join(' / '),
+      confidence: 84,
+      tags,
+      evidence: 'Source description explicitly references Bosnian, Kosovo, Sandžak, ex-Yugoslav or Balkan traditions.',
+    };
+  }
+
+  if (has(/bulgar|kuker|kukeri/)) {
+    return {
+      country: 'Bulgaria',
+      confidence: 90,
+      tags: ['Bulgaria'],
+      evidence: 'Source description explicitly references Bulgaria, Bulgarian folklore, or Kukeri traditions.',
+    };
+  }
+
+  if (has(/bangladesh|bangladesch|bengalisch|bengali|mangal-shobhajatra/)) {
+    const tags = ['Bangladesh'];
+    if (has(/\bindia\b|indien|indisch/)) tags.push('India');
+    return {
+      country: tags.join(' / '),
+      confidence: 88,
+      tags,
+      evidence: 'Source description explicitly references Bengali culture, Bangladesh, or Mangal-Shobhajatra.',
+    };
+  }
+
+  if (has(/ghana|black stars|hi-life|highlife/)) {
+    return {
+      country: 'Ghana',
+      confidence: 90,
+      tags: ['Ghana'],
+      evidence: 'Source description explicitly references Ghana, Ghanaian Black Stars, or Highlife music.',
+    };
+  }
+
+  if (has(/nigerianisch-irisch|nigerian-irish|nigerian irish/)) {
+    return {
+      country: 'Nigeria / Ireland',
+      confidence: 86,
+      tags: ['Nigeria', 'Ireland'],
+      evidence: 'Source description identifies the artist as Nigerian-Irish.',
+    };
+  }
+
+  if (has(/esan|igbabonelimhin|asonogun|oduduwa|yorùbá|yoruba|nigeria|nigerian/)) {
+    return {
+      country: 'Nigeria',
+      confidence: 90,
+      tags: ['Nigeria'],
+      evidence: 'Source description explicitly references Nigerian, Esan, or Yoruba culture.',
+    };
+  }
+
+  if (has(/mexico|mexiko|mexican|mexikan/)) {
+    return {
+      country: 'Mexico',
+      confidence: 86,
+      tags: ['Mexico'],
+      evidence: 'Source listing explicitly references Mexico or Mexican culture.',
+    };
+  }
+
+  if (has(/producciones abismales/)) {
     return {
       country: 'Spanish-language theatre / Latin American diaspora',
       confidence: 58,
@@ -234,24 +313,7 @@ function inferRow(entry) {
     };
   }
 
-  if (/kreuzberg|tempelhof|woltersdorf|100% tempelhof/.test(haystack)) {
-    return {
-      country: 'Germany / Berlin',
-      confidence: 58,
-      tags: ['Germany', 'Berlin'],
-      evidence: 'Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal.',
-    };
-  }
-
-  if (/(recycling|workshop|infostand|siebdruk|siebdruck|kostüm|kostüme|circus kultur|clownin|kinder|familie|urbanen raum)/.test(haystack)) {
-    return lowConfidence(['Berlin'], 'Berlin', 'Source listing is a local street-fest workshop, family programme or performance activity without a stronger nationality signal.');
-  }
-
-  if (/(interreligi|segen|gottesdienst|kirche|orgel|meditation|yoga|friedensgebet|begegnung)/.test(haystack)) {
-    return lowConfidence(['General'], 'General', 'Source programme item is framed as an interfaith or community activity rather than a specific nationality signal.');
-  }
-
-  if (/(sufi|rabbaniyya|derwisch|dervish|islamic)/.test(haystack)) {
+  if (has(/sufi|rabbaniyya|derwisch|dervish|islamic/)) {
     return {
       country: 'Sufi / Islamic tradition',
       confidence: 62,
@@ -260,43 +322,25 @@ function inferRow(entry) {
     };
   }
 
-  if (/(afro|afo|afrobeat|afrofunk|afrofutur|amapiano|highlife|makossa|soukous|mandinka|fulani|westafrican|african)/.test(haystack)) {
-    if (/nigeria|yoruba|fela/.test(haystack)) {
-      return {
-        country: 'Nigeria / African diaspora',
-        confidence: 82,
-        tags: ['Nigeria', 'African diaspora'],
-        evidence: 'Source language points to Nigerian and broader African-diasporic musical references.',
-      };
-    }
-    if (/senegal|casamance|mandinka/.test(haystack)) {
-      return {
-        country: 'Senegal',
-        confidence: 90,
-        tags: ['Senegal'],
-        evidence: 'Source description explicitly references Senegal or Mandinka cultural context.',
-      };
-    }
-    if (/zambia|sambia/.test(haystack)) {
-      return {
-        country: 'Zambia',
-        confidence: 90,
-        tags: ['Zambia'],
-        evidence: 'Source description explicitly identifies Zambian origin.',
-      };
-    }
-    if (/kinshasa|congo|lingala/.test(haystack)) {
-      return {
-        country: 'Congo',
-        confidence: 88,
-        tags: ['Congo'],
-        evidence: 'Source description explicitly references Congolese music or Kinshasa.',
-      };
-    }
-    return lowConfidence(['African diaspora'], 'African diaspora / general', 'Source listing uses broad African or Afro-diasporic musical markers without a single dominant national signal.');
+  if (has(/afro-peruan/) && has(/kolumbien|colombia/) && has(/venezuela/)) {
+    return {
+      country: 'Peru / Colombia / Venezuela',
+      confidence: 86,
+      tags: ['Peru', 'Colombia', 'Venezuela', 'African diaspora'],
+      evidence: 'Source description explicitly mentions Afro-Peruvian rhythms and folklore from Colombia and Venezuela.',
+    };
   }
 
-  if (/(samba|forro|forró|coco|capoeira|maracatu|bahia|baiano|bloco|bateria|funk carioca|rio funk|brazilian jazz|brasil|recife|pernambuco)/.test(haystack)) {
+  if (has(/argentinien bis kolumbien|argentina .*colombia|argentin.*kolumb/)) {
+    return {
+      country: 'Argentina / Colombia',
+      confidence: 78,
+      tags: ['Argentina', 'Colombia', 'South America'],
+      evidence: 'Source description frames the music as a South American journey from Argentina to Colombia.',
+    };
+  }
+
+  if (has(/\b(samba|forro|forró|capoeira|maracatu|bahia|baiano|bloco|bateria)\b|sambagruppe|funk carioca|rio funk|brazilian jazz|brasil|brasilian|brazil|brazilian|recife|pernambuco/)) {
     return {
       country: 'Brazil',
       confidence: 86,
@@ -305,10 +349,19 @@ function inferRow(entry) {
     };
   }
 
-  if (/(cumbia|colombia|colombian|bullerengue|gaita)/.test(haystack)) {
+  if (has(/galicia|galician|galicisch/)) {
+    return {
+      country: 'Spain',
+      confidence: 82,
+      tags: ['Spain'],
+      evidence: 'Source listing references Galician culture from northern Spain.',
+    };
+  }
+
+  if (has(/colombia|colombian|kolumbien|kolumbian|cali \(kolumbien\)|gabriel garcía márquez|garcia marquez|bullerengue/) || (has(/gaita/) && has(/colombia|colombian|kolumbien|kolumbian|karibikküste|costa|coast|caribe|caribbean/))) {
     const tags = ['Colombia'];
-    if (/bullerengue|afro-colombian/.test(haystack)) tags.push('African diaspora');
-    if (/bullerengue|costa|coast|caribe|cumbia/.test(haystack)) tags.push('Caribbean');
+    if (has(/bullerengue|afro-colombian|afro-kolumbian/)) tags.push('African diaspora');
+    if (has(/bullerengue|karibikküste|costa|coast|caribe|caribbean/)) tags.push('Caribbean');
     return {
       country: 'Colombia',
       confidence: tags.includes('African diaspora') ? 86 : 78,
@@ -317,9 +370,18 @@ function inferRow(entry) {
     };
   }
 
-  if (/(salsa|son|timba|rumba cubana|kubanisch|havana|havanna|cuba|cuban)/.test(haystack)) {
+  if (has(/flamenco|spain|spanish/)) {
+    return {
+      country: 'Spain',
+      confidence: 82,
+      tags: ['Spain'],
+      evidence: 'Source listing references Spanish regional or flamenco traditions.',
+    };
+  }
+
+  if (has(/timba|rumba cubana|kubanisch|kubanische|kubanischer|kubanischen|havana|havanna|cuba|cuban|afro-cuban|afrokuban/)) {
     const tags = ['Cuba', 'Caribbean'];
-    if (/afro-cuban|afrokuban/.test(haystack)) tags.push('African diaspora');
+    if (has(/afro-cuban|afrokuban|afrokubanisch|afrokubanische/)) tags.push('African diaspora');
     return {
       country: 'Cuba / Caribbean',
       confidence: 84,
@@ -328,8 +390,12 @@ function inferRow(entry) {
     };
   }
 
-  if (/(latin|latinx|tango|huayno|zamba|andean|andes|mesoamerican|central america|mittelamerikas|peru|peruvian|chile|cueca|argentin|uruguay)/.test(haystack)) {
-    if (/peru/.test(haystack)) {
+  if (has(/\b(salsa|salsera|salseras|salseros)\b/)) {
+    return lowConfidence(['Latin America'], 'Latin America / general', 'Source listing references salsa but does not provide a reliable Cuban or other country-specific signal.');
+  }
+
+  if (has(/latin|latinx|tango|huayno|zamba|andean|andes|mesoamerican|central america|mittelamerikas|peru|peruvian|chile|chilenisch|cueca|argentin|uruguay|cumbia/)) {
+    if (has(/peru|peruvian|huayno|festejo|afro-peruan/)) {
       return {
         country: 'Peru',
         confidence: 84,
@@ -337,7 +403,7 @@ function inferRow(entry) {
         evidence: 'Source listing explicitly references Peru or Peruvian folklore.',
       };
     }
-    if (/chile|cueca/.test(haystack)) {
+    if (has(/chile|chilenisch|cueca|afro-chilen/)) {
       return {
         country: 'Chile',
         confidence: 84,
@@ -345,7 +411,7 @@ function inferRow(entry) {
         evidence: 'Source listing explicitly references Chile or Chilean dance traditions.',
       };
     }
-    if (/argentin|tango/.test(haystack) && /uruguay/.test(haystack)) {
+    if ((has(/argentin|tango/) && has(/uruguay/)) || has(/candombe/)) {
       return {
         country: 'Argentina / Uruguay',
         confidence: 78,
@@ -353,7 +419,7 @@ function inferRow(entry) {
         evidence: 'Source listing centers tango or explicitly references both Argentina and Uruguay.',
       };
     }
-    if (/argentin|tango/.test(haystack)) {
+    if (has(/argentin|tango/)) {
       return {
         country: 'Argentina / Latin America',
         confidence: 70,
@@ -361,7 +427,7 @@ function inferRow(entry) {
         evidence: 'Source listing points to tango or Argentine musical heritage with broader Latin American framing.',
       };
     }
-    if (/mesoamerican|central america|mittelamerikas/.test(haystack)) {
+    if (has(/mesoamerican|central america|mittelamerikas/)) {
       return {
         country: 'Central America / Mesoamerican cultures',
         confidence: 82,
@@ -372,7 +438,68 @@ function inferRow(entry) {
     return lowConfidence(['Latin America'], 'Latin America / general', 'Source listing signals a broad Latin American context without a single dominant country match.');
   }
 
-  if (/(turkish|türk|anatolian|anatol|alevit|baris manco|barış manço|alaturka|oriental groove)/.test(haystack)) {
+  if (has(/\b(afro|afrobeats?|afrofunk|afrofutur|amapiano|highlife|makossa|soukous|mandinka|fulani|west ?african|african)\b/)) {
+    if (has(/nigerianisch-irisch|nigerian-irish|nigerian irish/)) {
+      return {
+        country: 'Nigeria / Ireland',
+        confidence: 86,
+        tags: ['Nigeria', 'Ireland'],
+        evidence: 'Source description identifies the artist as Nigerian-Irish.',
+      };
+    }
+    if (has(/nigeria|nigerian|yoruba|fela/)) {
+      return {
+        country: 'Nigeria / African diaspora',
+        confidence: 82,
+        tags: ['Nigeria', 'African diaspora'],
+        evidence: 'Source language points to Nigerian and broader African-diasporic musical references.',
+      };
+    }
+    if (has(/senegal|casamance|mandinka/)) {
+      return {
+        country: 'Senegal',
+        confidence: 90,
+        tags: ['Senegal'],
+        evidence: 'Source description explicitly references Senegal or Mandinka cultural context.',
+      };
+    }
+    if (has(/fulani/)) {
+      return {
+        country: 'Fulani / West African diaspora',
+        confidence: 84,
+        tags: ['Fulani', 'West African diaspora'],
+        evidence: 'Source description explicitly mentions Fulani roots and west African rhythms.',
+      };
+    }
+    if (has(/zambia|sambia/)) {
+      return {
+        country: 'Zambia',
+        confidence: 90,
+        tags: ['Zambia'],
+        evidence: 'Source description explicitly identifies Zambian origin.',
+      };
+    }
+    if (has(/kinshasa|congo|lingala/)) {
+      return {
+        country: 'Congo',
+        confidence: 88,
+        tags: ['Congo'],
+        evidence: 'Source description explicitly references Congolese music or Kinshasa.',
+      };
+    }
+    return lowConfidence(['African diaspora'], 'African diaspora / general', 'Source listing uses broad African or Afro-diasporic musical markers without a single dominant national signal.');
+  }
+
+  if (has(/musikalische weltreise|global brass fusion|globale rhythmen|global sounds|global club sounds/)) {
+    return {
+      country: 'General',
+      confidence: 60,
+      tags: ['General'],
+      evidence: 'Source listing frames the entry as global or world-spanning rather than tied to one nationality.',
+    };
+  }
+
+  if (has(/turkish|türk|anatolian|anatol|alevit|baris manco|barış manço|alaturka|oriental groove/)) {
     return {
       country: 'Turkey / Anatolia',
       confidence: 84,
@@ -381,7 +508,7 @@ function inferRow(entry) {
     };
   }
 
-  if (/(balkan|bosni|ajvar)/.test(haystack)) {
+  if (has(/balkan|bosni|ajvar/)) {
     return {
       country: 'Balkans',
       confidence: 76,
@@ -390,7 +517,7 @@ function inferRow(entry) {
     };
   }
 
-  if (/(greek|bouzouki)/.test(haystack)) {
+  if (has(/greek|bouzouki/)) {
     return {
       country: 'Greece',
       confidence: 80,
@@ -399,17 +526,8 @@ function inferRow(entry) {
     };
   }
 
-  if (/(flamenco|galicia|galician|spain|spanish)/.test(haystack)) {
-    return {
-      country: 'Spain',
-      confidence: 82,
-      tags: ['Spain'],
-      evidence: 'Source listing references Spanish regional or flamenco traditions.',
-    };
-  }
-
-  if (/(klezmer|sinti|roma)/.test(haystack)) {
-    if (/sinti/.test(haystack)) {
+  if (has(/klezmer|sinti|roma/)) {
+    if (has(/sinti/)) {
       return {
         country: 'Sinti / Roma culture',
         confidence: 78,
@@ -425,7 +543,7 @@ function inferRow(entry) {
     };
   }
 
-  if (/(japan|mikoshi|honkyoku|shakuhachi)/.test(haystack)) {
+  if (has(/japan|mikoshi|honkyoku|shakuhachi/)) {
     return {
       country: 'Japan',
       confidence: 82,
@@ -434,7 +552,7 @@ function inferRow(entry) {
     };
   }
 
-  if (/(india|indian|bollywood|kannada|bhangra)/.test(haystack)) {
+  if (has(/india|indian|bollywood|kannada|bhangra/)) {
     return {
       country: 'India',
       confidence: 84,
@@ -443,7 +561,7 @@ function inferRow(entry) {
     };
   }
 
-  if (/(qi gong|kung fu|viet vo dao|vietnam)/.test(haystack)) {
+  if (has(/qi gong|kung fu|viet vo dao|vietnam/)) {
     return {
       country: 'China / Vietnam',
       confidence: 76,
@@ -452,7 +570,7 @@ function inferRow(entry) {
     };
   }
 
-  if (/(reggae|dancehall|rocksteady|jamaica|one love)/.test(haystack)) {
+  if (has(/jamaica|jamaikan|jamaican|sound-system-kultur|reggae-community|reggaeinberlin|one love/)) {
     return {
       country: 'Jamaica / reggae diaspora',
       confidence: 82,
@@ -461,7 +579,7 @@ function inferRow(entry) {
     };
   }
 
-  if (/(karib|caribbean roots)/.test(haystack)) {
+  if (has(/karib|caribbean roots/)) {
     return {
       country: 'Caribbean diaspora / Berlin',
       confidence: 70,
@@ -470,48 +588,28 @@ function inferRow(entry) {
     };
   }
 
-  if (/(berlin|street|club|dj|performance|theater|theatre|workshop|show|laufparty|music scene|pop|r&b|neo-soul|family|bubble|bike|stunt|paint|grossfiguren|figuren)/.test(haystack)) {
-    return lowConfidence(['Berlin'], 'Berlin / general', 'Source listing mainly describes a Berlin-based local performance or activity rather than a strong nationality signal.');
+  if (has(/\bberlin(er|s|isch|ische|isches|ischen)?\b|kreuzberg|tempelhof|neukölln|neukoelln|schöneberg|schoeneberg|sonnenallee/)) {
+    return {
+      country: 'Germany / Berlin',
+      confidence: 58,
+      tags: ['Germany', 'Berlin'],
+      evidence: 'Source listing is anchored in Berlin or the Berlin-Brandenburg local context rather than an external nationality signal.',
+    };
+  }
+
+  if (has(/recycling|workshop|infostand|siebdruk|siebdruck|kostüm|kostüme|circus kultur|clownin|kinder|familie|urbanen raum/)) {
+    return lowConfidence(['General'], 'General', 'Source listing is a workshop, family programme or performance activity without a reliable nationality signal.');
+  }
+
+  if (has(/interreligi|segen|gottesdienst|kirche|orgel|meditation|yoga|friedensgebet|begegnung/)) {
+    return lowConfidence(['General'], 'General', 'Source programme item is framed as an interfaith or community activity rather than a specific nationality signal.');
   }
 
   return lowConfidence(['General'], 'General', 'Source listing does not provide enough evidence for a reliable nationality or culture match.');
 }
 
-function canonicalExistingName(entry) {
-  const normalized = normalizeName(entry.name);
-  return aliasToCurrentName.get(normalized) || entry.name;
-}
-
-function buildExistingMap() {
-  const map = {
-    parade: new Map(),
-    'street-fest': new Map(),
-  };
-  for (const row of sourceRows.map(enrichExistingRow)) {
-    map[row.pool].set(normalizeName(row.name), row);
-  }
-  return map;
-}
-
-function mergeSourceEntries(entries, existingMap) {
-  return entries.map((entry, index) => {
-    const existing = existingMap[entry.pool].get(normalizeName(canonicalExistingName(entry)));
-    const inferred = inferRow(entry);
-    const preserved = existing
-      ? {
-          country: existing.country,
-          region: existing.region,
-          confidence: existing.confidence,
-          tags: existing.tags,
-          evidence: existing.evidence,
-        }
-      : null;
-    const row = preserved && preserved.confidence > inferred.confidence
-      ? preserved
-      : inferred;
-
-    return makeRow(row, entry, index + 1);
-  });
+function mergeSourceEntries(entries) {
+  return entries.map((entry, index) => makeRow(inferRow(entry), entry, index + 1));
 }
 
 async function fetchHtml(url) {
@@ -527,10 +625,9 @@ async function main() {
   const [paradeHtml, festHtml] = await Promise.all([fetchHtml(PARADE_URL), fetchHtml(FEST_URL)]);
   const paradeEntries = parseParadeEntries(await paradeHtml);
   const festEntries = parseFestEntries(await festHtml);
-  const existingMap = buildExistingMap();
   const rows = [
-    ...mergeSourceEntries(paradeEntries, existingMap),
-    ...mergeSourceEntries(festEntries, existingMap),
+    ...mergeSourceEntries(paradeEntries),
+    ...mergeSourceEntries(festEntries),
   ];
 
   await fs.writeFile(

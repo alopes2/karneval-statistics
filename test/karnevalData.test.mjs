@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 
+import inferredRows from '../data/inferred-nationalities.json' with { type: 'json' };
 import {
   addGeneralTag,
   dedupeFestEntries,
@@ -106,4 +107,33 @@ test('parseParadeEntries extracts descriptions when details list is absent', () 
     parseParadeEntries(html)[0].description,
     'Unter der Leitung der Künstlerin Lilia Gomez aus Peru wollen wir unser Thema TANZ FÜR FRIEDEN UND FREIHEIT präsentieren.',
   );
+});
+
+test('generated data does not infer countries from unsupported generic genre text', () => {
+  const byName = new Map(inferredRows.map(row => [row.name, row]));
+
+  assert.deepEqual(byName.get('Knicki, Kröte, Karuna: Homeless Tatütataa!')?.tags, ['General']);
+  assert.equal(byName.get('Knicki, Kröte, Karuna: Homeless Tatütataa!')?.country, 'General');
+  assert.ok(!byName.get('Knicki, Kröte, Karuna: Homeless Tatütataa!')?.tags.includes('Cuba'));
+
+  assert.deepEqual(byName.get('De Berlin Son')?.tags, ['Spain']);
+  assert.ok(!byName.get('De Berlin Son')?.tags.includes('Colombia'));
+
+  assert.deepEqual(byName.get('Cuatro Piraguas')?.tags, ['Peru', 'Colombia', 'Venezuela', 'African diaspora']);
+  assert.deepEqual(byName.get('Toshin')?.tags, ['Nigeria', 'Ireland']);
+});
+
+test('generated data keeps explicit nationality signals ahead of generic programme wording', () => {
+  const byName = new Map(inferredRows.map(row => [row.name, row]));
+
+  assert.deepEqual(byName.get('Colores de Quisqueya')?.tags, ['Dominican Republic', 'Caribbean']);
+  assert.deepEqual(byName.get('SunKidz 44 - Wir sind Neukölln!!!')?.tags, ['Germany', 'Berlin']);
+  assert.deepEqual(byName.get('BRAZUKAIADA und Furiosa')?.tags, ['Brazil']);
+  assert.deepEqual(byName.get('AdlerA e.V.')?.tags, ['Ukraine', 'Germany']);
+  assert.deepEqual(byName.get('Org. por Bolivia')?.tags, ['Bolivia']);
+
+  assert.deepEqual(byName.get('Koreanischer Verein Berlin e.V. "Arirang Korea"')?.tags, ['Korea']);
+  assert.deepEqual(byName.get('Kuker Berlin')?.tags, ['Bulgaria']);
+  assert.deepEqual(byName.get('Ghana Carnival 4 BLACK STARS')?.tags, ['Ghana']);
+  assert.deepEqual(byName.get('ESAN AKOAMHEN PROGRESSIVE UNION e.V.')?.tags, ['Nigeria']);
 });
