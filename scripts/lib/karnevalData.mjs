@@ -25,15 +25,22 @@ export function sanitizeText(value) {
 }
 
 export function addGeneralTag(tags, confidence) {
+  const fallbackTags = new Set(['general', 'multicultural', 'intercultural', 'global']);
+  const tagAliases = new Map([
+    ['Afrobeat', 'Africa'],
+    ['diaspora', 'General'],
+    ['diaspora collective', 'General'],
+    ['Latin America-wide programme', 'Latin America'],
+    ['POC', 'General'],
+  ]);
   const normalizedTags = (tags || [])
     .filter(Boolean)
-    .map(tag => (tag === 'general' || tag === 'multicultural' ? 'General' : tag));
+    .map(tag => tagAliases.get(tag) || (fallbackTags.has(String(tag).toLowerCase()) ? 'General' : tag));
   const nextTags = Array.from(new Set(normalizedTags));
   const nonGeneralTags = nextTags.filter(tag => tag !== 'General');
 
   if (nonGeneralTags.length > 0) return nonGeneralTags;
-  if (confidence < 60) return ['General'];
-  return nextTags.filter(tag => tag !== 'General');
+  return ['General'];
 }
 
 export function mergeDescription(row, description) {

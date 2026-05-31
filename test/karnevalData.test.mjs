@@ -20,12 +20,19 @@ test('sanitizeText strips markup and normalizes html entities', () => {
   assert.equal(sanitizeText(input), 'Hello World Rock & Roll - now');
 });
 
-test('addGeneralTag appends general only below confidence 60', () => {
+test('addGeneralTag collapses fallback tags to standalone General', () => {
   assert.deepEqual(addGeneralTag(['Berlin'], 58), ['Berlin']);
   assert.deepEqual(addGeneralTag([], 58), ['General']);
   assert.deepEqual(addGeneralTag(['Berlin'], 60), ['Berlin']);
   assert.deepEqual(addGeneralTag(['Berlin', 'General'], 72), ['Berlin']);
   assert.deepEqual(addGeneralTag(['multicultural'], 58), ['General']);
+  assert.deepEqual(addGeneralTag(['Intercultural'], 72), ['General']);
+  assert.deepEqual(addGeneralTag(['Global'], 60), ['General']);
+  assert.deepEqual(addGeneralTag(['Global', 'Brazil'], 60), ['Brazil']);
+  assert.deepEqual(addGeneralTag(['POC', 'diaspora collective'], 58), ['General']);
+  assert.deepEqual(addGeneralTag(['Africa', 'diaspora'], 66), ['Africa']);
+  assert.deepEqual(addGeneralTag(['Latin America-wide programme'], 84), ['Latin America']);
+  assert.deepEqual(addGeneralTag(['Africa', 'Afrobeat'], 70), ['Africa']);
 });
 
 test('mergeDescription prefers fetched source description over missing row description', () => {

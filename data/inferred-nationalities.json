@@ -943,11 +943,11 @@
     "id": "s-004",
     "pool": "street-fest",
     "name": "Rogerio",
-    "country": "Global",
+    "country": "General",
     "region": "Global",
     "confidence": 60,
     "tags": [
-      "Global"
+      "General"
     ],
     "description": "Musiker*innen aus aller Welt, die den KdK besuchen und im Vorbeigehen spontan Musik machen möchten, sind eingeladen, ein Stück ihrer Kultur und den musikalischen Reichtum ihres Landes mit anderen zu zelebrieren. Wir nutzen die Bühne, um durch die universelle Sprache der Musik uns zu begegnen und auszutauschen.",
     "evidence": "Source listing frames the entry as global or world-spanning rather than tied to one nationality."
@@ -956,11 +956,11 @@
     "id": "s-005",
     "pool": "street-fest",
     "name": "Heilig-Kreuz-Kirche",
-    "country": "Intercultural",
+    "country": "General",
     "region": "Global",
     "confidence": 55,
     "tags": [
-      "Intercultural"
+      "General"
     ],
     "description": "Das Programm verbindet Musik, Gespräche, Lesungen, spirituelle Impulse und kulturelle Beiträge aus unterschiedlichen Communities.",
     "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
@@ -1025,11 +1025,11 @@
     "id": "s-010",
     "pool": "street-fest",
     "name": "Latin Hell",
-    "country": "Latin America-wide programme",
+    "country": "Latin America",
     "region": "Latin America",
     "confidence": 84,
     "tags": [
-      "Latin America-wide programme"
+      "Latin America"
     ],
     "description": "Die Latin Hell Music Corner vereint über 35 lateinamerikanische Künstler*innen aus verschiedenen Städten Deutschlands, um die musikalische und kulturelle Vielfalt ganz Lateinamerikas in Berlin zu repräsentieren. Mit authentischen Rhythmen, einer familiären Community und einer Atmosphäre zum Tanzen, Mitfeiern und Zusammenkommen schafft dieser Space ein echtes Stück lateinamerikanischer Kultur mitten im Karneval der Kulturen.",
     "evidence": "Description says the Music Corner represents the musical and cultural diversity of all Latin America."
@@ -1038,11 +1038,11 @@
     "id": "s-011",
     "pool": "street-fest",
     "name": "Bitte um Segen für das Fest",
-    "country": "Intercultural",
+    "country": "General",
     "region": "Global",
     "confidence": 55,
     "tags": [
-      "Intercultural"
+      "General"
     ],
     "description": "Listed on the official programme page without an individual description.",
     "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
@@ -1051,11 +1051,11 @@
     "id": "s-012",
     "pool": "street-fest",
     "name": "Yoga & Meditation für Vielfalt",
-    "country": "Intercultural",
+    "country": "General",
     "region": "Global",
     "confidence": 55,
     "tags": [
-      "Intercultural"
+      "General"
     ],
     "description": "Sigrid Künstner, bis 19:00",
     "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
@@ -1064,11 +1064,11 @@
     "id": "s-013",
     "pool": "street-fest",
     "name": "Orgel-Nachtmusik mit Segen zur Nacht",
-    "country": "Intercultural",
+    "country": "General",
     "region": "Global",
     "confidence": 55,
     "tags": [
-      "Intercultural"
+      "General"
     ],
     "description": "Benno Scheerbarth + Pfarrerin Barbara von Bremen",
     "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
@@ -1077,11 +1077,11 @@
     "id": "s-014",
     "pool": "street-fest",
     "name": "Kirchenführung",
-    "country": "Intercultural",
+    "country": "General",
     "region": "Global",
     "confidence": 55,
     "tags": [
-      "Intercultural"
+      "General"
     ],
     "description": "Marita Schmieder",
     "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
@@ -1090,11 +1090,11 @@
     "id": "s-015",
     "pool": "street-fest",
     "name": "Ohrpiraten",
-    "country": "Global",
+    "country": "General",
     "region": "Global",
     "confidence": 60,
     "tags": [
-      "Global"
+      "General"
     ],
     "description": "musikalische Weltreise",
     "evidence": "Source listing frames the entry as global or world-spanning rather than tied to one nationality."
@@ -1142,11 +1142,11 @@
     "id": "s-019",
     "pool": "street-fest",
     "name": "Orgel-Nachtmusik",
-    "country": "Intercultural",
+    "country": "General",
     "region": "Global",
     "confidence": 55,
     "tags": [
-      "Intercultural"
+      "General"
     ],
     "description": "Reinhard Hoffmann",
     "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
@@ -1155,11 +1155,11 @@
     "id": "s-020",
     "pool": "street-fest",
     "name": "Segen zur Nacht",
-    "country": "Intercultural",
+    "country": "General",
     "region": "Global",
     "confidence": 55,
     "tags": [
-      "Intercultural"
+      "General"
     ],
     "description": "Lydia Schulz",
     "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
@@ -1168,11 +1168,11 @@
     "id": "s-021",
     "pool": "street-fest",
     "name": "Pfingstgottesdienst",
-    "country": "Intercultural",
+    "country": "General",
     "region": "Global",
     "confidence": 55,
     "tags": [
-      "Intercultural"
+      "General"
     ],
     "description": "Pfarrerin Christina Biere + Regionalkantor Johannes Stolte",
     "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
@@ -1181,11 +1181,11 @@
     "id": "s-022",
     "pool": "street-fest",
     "name": "Orgelführung",
-    "country": "Intercultural",
+    "country": "General",
     "region": "Global",
     "confidence": 55,
     "tags": [
-      "Intercultural"
+      "General"
     ],
     "description": "Johannes Stolte",
     "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
@@ -1275,11 +1275,11 @@
     "id": "s-029",
     "pool": "street-fest",
     "name": "Interreligiöses Friedensgebet",
-    "country": "Intercultural",
+    "country": "General",
     "region": "Global",
     "confidence": 55,
     "tags": [
-      "Intercultural"
+      "General"
     ],
     "description": "»Die Versöhnung stärken«",
     "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
@@ -1288,11 +1288,11 @@
     "id": "s-030",
     "pool": "street-fest",
     "name": "Begegnung",
-    "country": "Intercultural",
+    "country": "General",
     "region": "Global",
     "confidence": 55,
     "tags": [
-      "Intercultural"
+      "General"
     ],
     "description": "Listed on the official programme page without an individual description.",
     "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
@@ -1301,11 +1301,11 @@
     "id": "s-031",
     "pool": "street-fest",
     "name": "Orgel und Abschlusssegen",
-    "country": "Intercultural",
+    "country": "General",
     "region": "Global",
     "confidence": 55,
     "tags": [
-      "Intercultural"
+      "General"
     ],
     "description": "Listed on the official programme page without an individual description.",
     "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
@@ -1418,11 +1418,11 @@
     "id": "s-040",
     "pool": "street-fest",
     "name": "{Sonic Breath} with Dongsinne",
-    "country": "Intercultural",
+    "country": "General",
     "region": "Global",
     "confidence": 55,
     "tags": [
-      "Intercultural"
+      "General"
     ],
     "description": "Singing Bowls & Welcome Meditation",
     "evidence": "Source programme item is framed as an interfaith or community activity rather than a specific nationality signal."
@@ -1881,11 +1881,11 @@
     "id": "s-075",
     "pool": "street-fest",
     "name": "MIRMIX",
-    "country": "Global",
+    "country": "General",
     "region": "Global",
     "confidence": 60,
     "tags": [
-      "Global"
+      "General"
     ],
     "description": "Global Brass Fusion",
     "evidence": "Source listing frames the entry as global or world-spanning rather than tied to one nationality."
@@ -2423,11 +2423,11 @@
     "id": "s-115",
     "pool": "street-fest",
     "name": "Zakapüs",
-    "country": "Global",
+    "country": "General",
     "region": "Global",
     "confidence": 60,
     "tags": [
-      "Global"
+      "General"
     ],
     "description": "Madame Zakapüs hat seltsame Kreaturen gesammelt. Ein Bestiarium mit Fabelwesen aus aller Welt: ein riesiger Frosch, Geister, singende Skelette, Aliens… Dies ist die Geschichte ihrer Begegnungen mit diesen ungewöhnlichen Geschöpfen.",
     "evidence": "Source listing frames the entry as global or world-spanning rather than tied to one nationality."
@@ -3148,12 +3148,11 @@
     "id": "s-169",
     "pool": "street-fest",
     "name": "DJ Emo",
-    "country": "Africa / diaspora",
+    "country": "Africa",
     "region": "Africa / Diaspora",
     "confidence": 72,
     "tags": [
-      "Africa",
-      "diaspora"
+      "Africa"
     ],
     "description": "Emos Musik ist ein seelenbewegendes Elixier, eine emotionale Reise, die direkt zum Herzen spricht. Mit jeder Note verbindet er mühelos elektronische Meisterschaft mit reichen kulturellen Einflüssen und erschafft so ein Klangerlebnis, das schlichtweg fesselnd ist.",
     "evidence": "Programme lists Afrobeat, Highlife, Rhumba, Soukous and Makossa."
@@ -3257,11 +3256,11 @@
     "id": "s-177",
     "pool": "street-fest",
     "name": "DJ Haizel",
-    "country": "Global",
+    "country": "General",
     "region": "Global",
     "confidence": 60,
     "tags": [
-      "Global"
+      "General"
     ],
     "description": "Haizel ist ein Berliner DJ, der Afro, Amapiano und globale Rhythmen zu energiegeladenen Sets verbindet und damit die Tanzfläche bewegt und verschiedene Dance-Communities zusammenbringt.",
     "evidence": "Source listing frames the entry as global or world-spanning rather than tied to one nationality."
@@ -3337,12 +3336,11 @@
     "id": "s-183",
     "pool": "street-fest",
     "name": "In Living Color",
-    "country": "POC / diaspora collective",
+    "country": "General",
     "region": "Global / Diaspora",
     "confidence": 58,
     "tags": [
-      "POC",
-      "diaspora collective"
+      "General"
     ],
     "description": "In Living Color ist ein Kollektiv von POC Künstler*innen, gegründet von Ben Olayinka und Emo Rugene, das neuen Gesichtern in der Musikszene Raum gibt und Events organisiert, die die Grenzen der Clubkultur erweitern. Es verbindet Musik und Bewegung mit RUN-N-RAVE, einer der größten Laufpartys Berlins, und veranstaltet seit Jahren ausgelassene Partys in Spätis, bei denen jeder die Möglichkeit hat, gute Musik zu hören und in entspannter Atmosphäre mit der Nachbarschaft in Kontakt zu treten.",
     "evidence": "Description calls it a collective of POC artists creating space for new faces in the music scene."
@@ -3351,12 +3349,11 @@
     "id": "s-184",
     "pool": "street-fest",
     "name": "AktivTribe",
-    "country": "Africa / Afrobeat",
+    "country": "Africa",
     "region": "Africa / Diaspora",
     "confidence": 70,
     "tags": [
-      "Africa",
-      "Afrobeat"
+      "Africa"
     ],
     "description": "Aktiv Trybe ist eine Live-Band aus Berlin, die Afrobeat mit modernen Einflüssen verbindet. Mit energiegeladenen Rhythmen, starken Grooves und Fusion-Sounds bringen sie afrikanische Musiktraditionen auf die Bühne.",
     "evidence": "Description says the band connects Afrobeat with modern influences and African musical traditions."
@@ -3392,12 +3389,11 @@
     "id": "s-187",
     "pool": "street-fest",
     "name": "MaVert",
-    "country": "Africa / diaspora",
+    "country": "Africa",
     "region": "Africa / Diaspora",
     "confidence": 66,
     "tags": [
-      "Africa",
-      "diaspora"
+      "Africa"
     ],
     "description": "MaVert ist ein in Berlin ansässiger DJ und Tänzer, der afro-elektronische Sounds, afrikanische Rhythmen und Dance Music zu energiegeladenen Fusion-Sets verbindet – geprägt von Bewegung, Groove und einer tiefen Liebe zur Musik.",
     "evidence": "Description says MaVert plays afro-electronic sounds, African rhythms and dance music."

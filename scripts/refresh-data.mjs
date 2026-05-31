@@ -54,10 +54,8 @@ const regionByTag = new Map([
   ['General', 'Global'],
   ['Germany', 'Europe'],
   ['Ghana', 'Africa'],
-  ['Global', 'Global'],
   ['Greece', 'Europe / Mediterranean'],
   ['India', 'South Asia'],
-  ['Intercultural', 'Global'],
   ['Islamic tradition', 'Middle East / Global'],
   ['Iran', 'Middle East'],
   ['Ireland', 'Europe'],
@@ -117,9 +115,7 @@ function inferredDescription(entry) {
 function makeRow(base, entry, index) {
   const tags = addGeneralTag(base.tags, base.confidence);
   const region = base.region || inferRegion(tags);
-  const country = tags.length === 1 && tags[0] === 'General'
-    ? 'General'
-    : base.country.replace(/\s*\/\s*general/gi, '').replace(/^general$/i, 'General');
+  const country = normalizeCountry(base.country, tags);
 
   return {
     id: createId(entry.pool, index),
@@ -134,6 +130,30 @@ function makeRow(base, entry, index) {
   };
 }
 
+function normalizeCountry(country, tags) {
+  if (tags.length === 1 && tags[0] === 'General') return 'General';
+
+  const fallbackCountryParts = new Set([
+    'general',
+    'global',
+    'intercultural',
+    'multicultural',
+    'diaspora',
+    'diaspora collective',
+    'poc',
+    'afrobeat',
+  ]);
+  const countryAliases = new Map([
+    ['Latin America-wide programme', 'Latin America'],
+  ]);
+  const parts = String(country || '')
+    .split('/')
+    .map(part => countryAliases.get(part.trim()) || part.trim())
+    .filter(part => part && !fallbackCountryParts.has(part.toLowerCase()));
+
+  return parts.length > 0 ? parts.join(' / ') : tags.join(' / ');
+}
+
 function inferRegion(tags) {
   for (const tag of tags) {
     const region = regionByTag.get(tag);
@@ -143,7 +163,8 @@ function inferRegion(tags) {
 }
 
 function lowConfidence(tags, country, evidence) {
-  const hasSpecificTag = tags.some(tag => tag !== 'general' && tag !== 'General' && tag !== 'multicultural');
+  const fallbackTags = new Set(['general', 'General', 'multicultural', 'Intercultural', 'Global']);
+  const hasSpecificTag = tags.some(tag => !fallbackTags.has(tag));
   const normalizedCountry = hasSpecificTag
     ? country.replace(/\s*\/\s*general/gi, '')
     : 'General';
@@ -197,9 +218,9 @@ function inferRow(entry) {
 
   if (/musikalische weltreise|global brass fusion|welt|global/.test(haystack)) {
     return {
-      country: 'Global',
+      country: 'General',
       confidence: 60,
-      tags: ['Global'],
+      tags: ['General'],
       evidence: 'Source listing frames the entry as global or world-spanning rather than tied to one nationality.',
     };
   }
@@ -227,7 +248,7 @@ function inferRow(entry) {
   }
 
   if (/(interreligi|segen|gottesdienst|kirche|orgel|meditation|yoga|friedensgebet|begegnung)/.test(haystack)) {
-    return lowConfidence(['Intercultural'], 'Intercultural / general', 'Source programme item is framed as an interfaith or community activity rather than a specific nationality signal.');
+    return lowConfidence(['General'], 'General', 'Source programme item is framed as an interfaith or community activity rather than a specific nationality signal.');
   }
 
   if (/(sufi|rabbaniyya|derwisch|dervish|islamic)/.test(haystack)) {
